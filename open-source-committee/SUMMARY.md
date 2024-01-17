@@ -2,16 +2,14 @@
 
 ## ABOUT
 
-* [About \[Committee Name\]](README.md)
-* [Committee Members](about/committee-members/README.md)
-  * [Roles and Responsibilities](about/committee-members/roles-and-responsibilities.md)
-* [Working Groups](about/working-groups.md)
-* [How to Join?](about/how-to-join.md)
+* [Open Source Committee Charter](README.md)
 
-## Committee Meeting Notes
+## Working Groups
 
-* [\[DD/MM/YYY\]](committee-meeting-notes/dd-mm-yyy.md)
+* [Policy Working Group](working-groups/policy-working-group.md)
+* [Strategy Working Group](working-groups/strategy-working-group.md)
+* [Project Incubation Working Group](working-groups/project-incubation-working-group.md)
 
-## Standards operational procedures
+## Policies
 
-* [Page](standards-operational-procedures/page.md)
+* [Introduction](policies/introduction.md)
