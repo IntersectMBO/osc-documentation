@@ -1,0 +1,23 @@
+# Glossary
+
+This provides definitions and references for commonly used terms or acronyms.
+
+### Project
+
+A software project, one or more source repositories with a given set of committers, see [Governance](./governance.md).
+
+### Meta-project
+
+A grouping of projects, see [Governance](./governance.md).
+
+### Technical Steering Committee (TSC)
+
+The Intersect committee that is responsible for the technical governance of Intersect projects.
+
+### Open Source Committee (OSC)
+
+The Intersect committee that is responsible for the open-source practices of Intersect projects, see [the Charter](../README.md).
+
+### Project Management Committee (PMC)
+
+The committee that governs a project, see [Governance](./governance.md).
