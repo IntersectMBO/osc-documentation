@@ -250,7 +250,7 @@ This is a very powerful role and should only be used for a few highly trusted st
 
 #### Role and Team Summary
 
-| Role          | Rights                                                                                | Responsibilities                                                                                                         |                                                                                                                  |
+| Role          | Rights                                                                                | Responsibilities                                                                                                         | 
 |---------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | Contributor   | Open issues; attend PMC meetings; make code contributions                             |                                                                                                                          |                                                                                                                  |
 | Committer     | As Contributor; speak at PMC meetings; member of `<project>-committers`               | Attend PMC meetings; vote on PMC motions                                                                                 |                                                                                                                  |
