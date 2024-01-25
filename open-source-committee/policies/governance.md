@@ -1,5 +1,7 @@
 # Open Source Governance Policy
 
+NOTE: Please consult the [glossary](./glossary.md) for definitions of terms and acronyms.
+
 ## High-level overview
 
 This is the high-level structure that this policy is aiming for:
@@ -45,7 +47,7 @@ See the [policy introduction](./introduction.md) for further discussion.
 ## Decision-making
 
 Decision making should generally be done in a consensus-seeking manner. 
-That is, ideally decisions should have consensus, but we do not generally formally require that, and if it fails we have more structured methods available.
+That is, ideally decisions should have consensus, but we do not generally formally require that. If consensus fails we have more structured methods available (escalation).
 
 The general decision-making process is (in order):
 
@@ -57,8 +59,8 @@ The general decision-making process is (in order):
 <details>
 <summary><b>Rationale</b></summary>
 
-Consensus-seeking decision-making lets us mostly use the consensus-based methods that are common in open-source projects, which tend to operate smoothly and with low overhead the majority of the time. 
-But in cases where consensus cannot be found, or where there are fundamental conflicts with the principles, we have an explicit escalation path that allows us to still make decisions.
+Consensus-seeking decision-making lets us use the consensus-based methods that are common in other open-source projects, which tend to operate smoothly and with low overhead the majority of the time. 
+In cases where consensus cannot be found, or where there are fundamental conflicts with the principles, we have an explicit escalation path that allows us to still make decisions.
 
 </details>
 
@@ -68,7 +70,7 @@ But in cases where consensus cannot be found, or where there are fundamental con
 * An established committer makes a PR, and…
    * Merges it themselves
       * For uncontroversial things, using lazy consensus like this is fine. This does require people to use their judgement about what things are likely to be controversial and so need more discussion.
-      * Projects may well want to add additional guidelines saying that people should not do this, or should require a review before merging. That’s also fine.
+      * Projects may want to add additional guidelines saying that people should not do this, or should require a review before merging. That’s also fine.
    * Gets a review from a fellow committer before merging
       * This is generally a good idea. This is also a small example of consensus-building by seeking input from another contributor on whether the idea is good or not.
    * Brings it to the PMC meeting for discussion before merging
@@ -87,7 +89,7 @@ The standard voting process is for voters to issue one of the following votes:
 * 0: abstention
 * -1: negative vote
 
-Normally when seeking a binidng decision, a majority should be sufficient to decide in favour of a motion, but in some circumstances it may be appropriate to treat any negative vote as a veto. 
+Normally when seeking a binding decision, a majority should be sufficient to decide in favour of a motion, but in some circumstances it may be appropriate to treat any negative vote as a veto. 
 This is because the point is to elicit a group consensus: if the vote does not seem like enough for the group to settle on the outcome, then it may be necessary to escalate.
 
 <details>
@@ -103,13 +105,14 @@ It is also flexible: it can be used to make a hard decision, or just used as way
 
 * A project wants to adopt an auto-formatter. Much discussion is had and there is no consensus, but nobody is going to be that put out by not getting their favourite outcome, so the PMC just votes and takes the majority option.
 * The PMC votes on whether to accept a controversial patch. There is a majority, but several of the most knowledgeable committers vote against, citing security concerns. The PMC does not feel like they have consensus despite the majority and decides to escalate.
+* A controversial change is proposed that would change the future trajectory of the project, but not in a way that the TSC will care about. The PMC decides to agree on a formal voting threshold for deciding and hold a binding vote.
 * A committer wants to make a minor change. Nobody has very strong opinions, and so the secretary puts it to a vote. A few "+1"s come in, and nobody votes against, so the committer continues on the basis of some positive sentiment.
 
 </details>
 
 ### Escalating issues
 
-Issues that a group cannot resolve themselves should be escalated so that we can continue to make progress. 
+Issues that a group cannot resolve themselves must be escalated so that we can continue to make progress. 
 These can be technical problems, social problems, or conflicts between principles.
 
 The default escalation pathway is:
@@ -125,7 +128,7 @@ Issues raised by Committers *must* be considered by the relevant body, other iss
 <summary><b>Rationale</b></summary>
 
 In order to maintain Legitimacy, projects *must* remain accountable to the Technical Steering Committee (TSC).
-That means that the TSC has to operate as the final decision-making body also for disputes.
+That means that the TSC has to operate as the final decision-making body for disputes.
 But the TSC cannot arbitrate everything, so we have to have a sensible chain of decision-making bodies between an individual contributor and the TSC.
 
 We restrict the *right* to be heard to Committers in order to avoid the risk of being flooded with meritless issues.
@@ -193,8 +196,8 @@ Intersect owns some large, complex projects such as Cardano, and so some framewo
 
 ### Project Management Committee
 
-The PMC is a committee of the Committers of the project. 
-The PMC is responsible for making project-level decisions and electing Committers.
+The PMC is a committee which consists of all the Committers of the project. 
+The PMC is responsible for making project-level decisions and appointing Committers.
 
 The PMC has two non-development roles associated with it, the Chair and the Secretary. 
 The Chair is responsible for organizing and running meetings, and the Secretary for keeping written material in order. 
@@ -214,7 +217,7 @@ Roles are per-project.
 All roles are non-exclusive, an individual may hold any number of roles.
 
 The role assignments for a project should be listed in a discoverable way. 
-For the roles which are associated with membership of a GitHub Team, it is enough to say that the team exists.
+For roles associated with membership of a GitHub Team, it is enough to say that the team exists.
 
 #### Development
 
@@ -222,7 +225,7 @@ There are three primary roles associated with doing development work.
 
 1. Contributors are anyone who contributes to the project in any way. There is no formal requirement to be a contributor, nor do they have any formal powers, but it is useful to have a way to refer to them.
 2. Committers are people who have been given commit access to the project. Committers are also required to participate in the project governance process - the two go together.
-3. Maintainers are individuals who have contributed in a sustained and substantial way to the project, and who commit to keeping the project healthy. Maintainers mostly have additional responsibilities and little additional power. They are likely to be influential, but this is because influential people should be made Maintainers, rather than vice versa.
+3. Maintainers are individuals who have contributed in a sustained and substantial way to the project, and who commit to keeping the project healthy. Maintainers have additional responsibilities but no additional power (versus Committers). They are likely to be influential, but this is because influential people should be made Maintainers, rather than vice versa.
 
 <details>
 <summary><b>Rationale</b></summary>
@@ -230,7 +233,7 @@ There are three primary roles associated with doing development work.
 * Maintainers
    * We know there are likely to be paid maintainers, it is helpful to recognize this in some official way.
    * The Maintainer role exists primarily as an honorary one. This gives us a way to recognize the people who are in practice giving lots of time and attention to maintenance (and likely being paid for it).
-   * The Maintainer role doesn’t come with powers: individuals should be influential in proportion to merit anyway.
+   * The Maintainer role doesn’t come with additional power. Maintainers will likely have additional influential through their merit and reputation alone.
 * Project leads
    * We do not have a concept of a single project lead. 
       * In the future we will hopefully have many groups of contributors, all of whose voices should be heard. This is somewhat incompatible with having a single nominated project lead.
