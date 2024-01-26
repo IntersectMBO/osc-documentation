@@ -87,4 +87,8 @@ Balancing transparency with strategic interests.
 How to handle dissent or disagreement on key strategy points?
 
 
+## Membership
 
+* Chair: [Sandip Pandey](mailto:np.sandip.pandey@gmail.com)
+* OSPO
+  * [Christian Taylor](mailto:christian.taylor@intersectmbo.org)
