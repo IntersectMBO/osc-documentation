@@ -29,6 +29,7 @@ The OSC is responsible for:
 1. In Person or Video Meeting Voting Procedures: All topics on which the OSC will take a vote will need a simple committee majority tallied during the meeting in which the OSC convenes, tally and action to be recorded by the Secretary.
 2. Offline Voting Procedures: All topics on which the OSC will take a vote will need a simple committee majority tallied based on the medium on which the OSC chooses. Current voting procedure utilizes Discord where one or multiple topics will be posted to also for committee comments and the ability to mark a vote based on emojis as dictated by the post instructions. A simple majority of the correct emoji is needed to continue proceedings.
 3. No Vote: In the event of a no vote or insufficient vote, topics or items will then be shelved or facilitated to revision based on the nature of the vote.
+4. A vote by a committee should be considered binding if it receives a simple majority of positive votes from a quorum consisting of at least two thirds of the committee members being present and participating in the vote
 
 ### Roles / Responsibilities
 
