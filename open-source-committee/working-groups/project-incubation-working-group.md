@@ -96,3 +96,9 @@ FinOS (Fintech Open Source Foundation):
 
 FinOS Incubation Process: FinOS has an incubation process for new projects. It involves a proposal, project creation, and a mentorship period. The project goes through various stages, including active development and maturity.
 
+
+## Membership
+
+* OSPO
+  * [Christian Taylor](mailto:christian.taylor@iohk.io)
+
