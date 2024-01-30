@@ -7,7 +7,7 @@
 
 ## Introduction:
 
-The purpose of this proposal is to establish a structured voting and reelection cycle for the 9-member committee of
+The purpose of this policy is to establish a structured voting and reelection cycle for the 9-member committee of
 the Intersect Open-Source Committee (OSC). This proposed system aims to ensure a balance between continuity and renewal
 within the committee, thus enhancing the overall effectiveness and stability of our organization.
 
