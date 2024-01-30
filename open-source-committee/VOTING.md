@@ -1,10 +1,5 @@
 # Committee Election Policies
 
-> **Status:** Draft <br />
-> **Proposed On:** 2024-01-26 <br />
-> **Proposed By:** Adam Dean <br />
-> **Revision:** 1.0.0
-
 ## Introduction:
 
 The purpose of this policy is to establish a structured voting and reelection cycle for the 9-member committee of
@@ -17,9 +12,9 @@ The following method and criteria are proposed for the (re)election of OSC membe
 board method:
 
 1. **Term:** All members of the OSC shall be elected for a period of service of one year. No member of the committee,
-   with the exception of bootstrapping members during the bootstrapping phase, may serve for a period of longer than
+   except for bootstrapping members during the bootstrapping phase, may serve for a period of longer than
    one year without standing for re-election.
-2. **Term Limits:** Given that members of the OSC should be elected to their position meritocrously based upon their
+2. **Term Limits:** Given that members of the OSC should be elected to their position meritoriously based upon their
    contributions, there are no capped term limits currently imposed.
 3. **Cohorts:** The membership of the committee should be broken up into three cohorts that face election cycles
    staggered throughout the year (one election every 4 months). This provides numerous benefits as detailed in the
@@ -38,7 +33,7 @@ board method:
    themselves (or be nominated) for candidacy in the next cohort election. The period for submitting candidacy (TBD)
    should be enough to allow eligible candidates time to attend *at least* one meeting of the committee to introduce
    themselves (if necessary) to the other members of the committee prior to voting. The *candidate forum meeting* may
-   be a special (outside of regular schedule) meeting of the committee in order to not detract from regular committee
+   be a special (outside regular schedule) meeting of the committee in order to not detract from regular committee
    business.
    
 ### Election Cycle
@@ -53,13 +48,13 @@ board method:
 5. **Election Method & Results:** The election method should follow *at least* the standard voting method adopted by
    the committee. Votes **must** use roll-call voting and results **must** be published via the committee's public
    communications channel(s).
-    1. **Ties & Run-Offs:** The method of resolving a tie or run-off scenario is currently TBD.
-    2. **Quorum:** A vote for candidates should only be considered valid if *at least* a simple majority of the duly
+    - **Ties & Run-Offs:** The method of resolving a tie or run-off scenario is currently TBD.
+    - **Quorum:** A vote for candidates should only be considered valid if *at least* a simple majority of the duly
        elected (non-appointed or interim) members of the committee have participated in voting.
-    3. **Conflict of Interest:** No current member of the committee who is standing for reelection (incumbent) may
+    - **Conflict of Interest:** No current member of the committee who is standing for reelection (incumbent) may
        participate in voting.
-    4. **Lack of Candidates:** Should a situation arise where there is a lack of eligible candidates standing in any
-       given cohort election cycle (i.e. only 1 seat of 3 vacancies filled), the vacant seats may be appointed purusant
+    - **Lack of Candidates:** Should a situation arise where there is a lack of eligible candidates standing in any
+       given cohort election cycle (i.e. only 1 seat of 3 vacancies filled), the vacant seats may be appointed pursuant
        to the same terms of *abdication and vacancies*.
 
 6. **Abdication & Vacancies:** Should a seat on the committee become vacated due to member resignation or abdication
@@ -67,6 +62,12 @@ board method:
    committee Chair person. An *interim term* shall begin from the date of appointment and continue until the next
    regular cohort election that the seat would regularly be subject to. Any individual currently serving an *interim
    term* shall be eligible to stand for reelection like any normal candidate.
+    - Some proposed methods for filling vacant seats are as follows and *should* be considered by the committee prior to
+      appointment of new members:
+      - Runner(s) up from previous election cycles
+      - A (brief) self-nomination period for interested members of the community
+      - Nomination/referral from sitting, duly elected committee members
+      - Appointment by the acting Chair
 
  > More points of order will likely need to be added here based upon feedback from the OSC community.
 
@@ -85,8 +86,8 @@ continuously operate effectively including:
   practices to newer members, ensuring a smoother transition and a more effective committee.
 
 * **Avoiding Stagnation:** Continuity should not be mistaken for stagnation. The four-month voting periods provide an
-opportunity for the organization to assess the performance of its committee members frequently. This encourages
-incumbents to remain proactive and responsive to the evolving needs of the organization.
+  opportunity for the organization to assess the performance of its committee members frequently. This encourages
+  incumbents to remain proactive and responsive to the evolving needs of the organization.
 
 * **Fresh Perspectives:** While maintaining experienced members, the staggered board method also injects fresh perspectives
   and new ideas into the committee regularly. This continuous infusion of new blood can prevent stagnation, encourage
@@ -106,7 +107,7 @@ incumbents to remain proactive and responsive to the evolving needs of the organ
 * **Balanced Accountability:** The staggered board method ensures that accountability is distributed evenly across
   the committee. With only one cohort being "new" at any given time, it becomes easier to assess individual and
   collective performance. This accountability helps maintain the committee's effectiveness and ensures that
-  underperforming members can be addressed and replaced in a timely manner.
+  under-performing members can be addressed and replaced in a timely manner.
 
 * **Consistent Leadership Transition:** The method provides a predictable and structured way for leadership
   transitions to occur. This reduces the potential for leadership vacuums and ensures that the organization always
@@ -122,7 +123,7 @@ can contribute to the long-term success and resilience of a members-based organi
 
 ## Conclusion:
 
-In conclusion, implementing a voting and re-election cycle with three four-month voting periods for our open sour
+In conclusion, implementing a voting and re-election cycle with three four-month voting periods for our open source
 committee is a well-balanced approach that combines continuity and renewal. It ensures that the committee benefits 
 from both experienced members and fresh perspectives while reducing the disruption caused by complete turnover. This 
 system is designed to enhance the overall effectiveness, stability, and member engagement within our organization, 
