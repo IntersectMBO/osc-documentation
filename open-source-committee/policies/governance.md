@@ -11,8 +11,6 @@ This is the high-level structure that this policy is aiming for:
 - The Technical Steering Committee is ultimately responsible for ensuring that the principles are followed, and has a formal decision-making body that can progress even when consensus is hard to find.
 - Projects are accountable to the TSC, and this should affect their behaviour, but this accountability is only formally invoked in exceptional cases.
 
-See the [glossary](./glossary.md) for term and acronym definitions.
-
 ## Conformance
 
 This policy mostly aims to provide a sensible default.
