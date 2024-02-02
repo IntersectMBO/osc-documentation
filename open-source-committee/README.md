@@ -4,7 +4,6 @@
 
 The Open Source Committee is an advisory committee that brings together relevant stakeholders from within the Cardano Ecosystem. The purpose of the OSC is to use the knowledge and observations of these individuals in order to provide guidance, support, and oversight for Intersect's open source initiatives, ensuring alignment with overall business objectives.\
 
-
 The OSC is responsible for:
 
 1. Provide strategic direction and input on Intersect's open source initiatives and policies
