@@ -13,3 +13,5 @@
 ## Policies
 
 * [Introduction](policies/introduction.md)
+* [Governance](policies/governance.md)
+* [Glossary](policies/glossary.md)
