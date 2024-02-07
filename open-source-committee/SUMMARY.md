@@ -14,4 +14,6 @@
 
 * [Introduction](policies/introduction.md)
 * [Governance](policies/governance.md)
+* [Documentation](policies/documentation.md)
+* [Legal](policies/legal.md)
 * [Glossary](policies/glossary.md)
