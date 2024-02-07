@@ -15,3 +15,10 @@
 * [Introduction](policies/introduction.md)
 * [Governance](policies/governance.md)
 * [Glossary](policies/glossary.md)
+
+## OSC Meeting Minutes
+
+* [😁 (12/15/23) Meeting Minutes](osc-meeting-minutes/12-15-23-meeting-minutes.md)
+* [😆 (01/12/24) Meeting Minutes](osc-meeting-minutes/01-12-24-meeting-minutes.md)
+* [😊 (01/26/24) Meeting Minutes](osc-meeting-minutes/01-26-24-meeting-minutes.md)
+* [(02/02/24) Meeting Minutes](osc-meeting-minutes/02-02-24-meeting-minutes.md)
