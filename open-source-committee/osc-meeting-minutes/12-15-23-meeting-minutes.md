@@ -4,6 +4,7 @@ description: December 15, 2023
 
 # 😁 (12/15/23) Meeting Minutes
 
+Recording: [https://drive.google.com/file/d/1kqyeqDNqgLt2E-svzzvhluSxeqyLqTGT/view?usp=sharing](https://drive.google.com/file/d/1kqyeqDNqgLt2E-svzzvhluSxeqyLqTGT/view?usp=sharing)\
 Agenda:
 
 * Old Business:

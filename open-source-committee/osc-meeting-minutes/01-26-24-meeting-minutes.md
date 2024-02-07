@@ -4,6 +4,8 @@ description: January 26, 2024
 
 # 😊 (01/26/24) Meeting Minutes
 
+Recording: [Open Source Committee (Intersect) (2024-01-26 08:05 GMT-8) - Google Drive](https://drive.google.com/file/d/1xF0M9QWvK9uioFlthHPnmJGQ67fQ7Cq6/view)\
+\
 Agenda:
 
 * Old Business:
