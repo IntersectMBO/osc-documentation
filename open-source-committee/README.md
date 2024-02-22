@@ -1,27 +1,27 @@
-# Open Source Committee Charter
+# 😬 Open Source Committee Charter
 
 ## What is the Open Source Committee (OSC)?
 
-The Open Source Committee is an advisory committee that brings together relevant stakeholders from within the Cardano Ecosystem. The purpose of the OSC is to use the knowledge and observations of these individuals in order to provide guidance, support, and oversight for Intersect's open source initiatives, ensuring alignment with overall business objectives.\
+The Open Source Committee is an advisory committee that brings together relevant stakeholders from within the Cardano Ecosystem. The purpose of the OSC is to use the knowledge and observations of these individuals in order to provide guidance, support, and oversight for Intersect's open source initiatives, ensuring alignment with overall business objectives.\\
 
 The OSC is responsible for:
 
 1. Provide strategic direction and input on Intersect's open source initiatives and policies
 2. Manage working groups
-3. Evaluate the output of working groups and the OSPO&#x20;
+3. Evaluate the output of working groups and the OSPO
 
 ## Goals of the Committee
 
 * (**Legitimacy**) Maintain the legitimacy of the Cardano Open Source Project (COSP).\
   The COSP is not just a collection of GitHub repositories. It is the source code for the binaries that are deployed onto the real Cardano mainnet. This status can be lost if the project loses legitimacy: a majority of SPOs could choose to deploy code built from a fork. It is therefore of the utmost importance to maintain the legitimacy of the COSP in the eyes of the community.
 * (**Quality**) Maintain the security and health of the Cardano mainnet.\
-  That means we must be committed to high quality, both in decision-making and in writing software.&#x20;
+  That means we must be committed to high quality, both in decision-making and in writing software.
 * (**Sustainability**) Development of the COSP must continue.\
   Many open-source projects die: people lose interest, move on, knowledge is lost, etc. If that happens to the COSP, then the Cardano network may become stagnant.
 * (**Citizenship**) Be a good Open Source citizen.\
   We want the COSP to be a model in the open-source world. That means taking the time to contribute to the broader ecosystem.
 
-## Operating  Procedures
+## Operating Procedures
 
 ### Voting
 
@@ -32,11 +32,9 @@ The OSC is responsible for:
 
 ### Roles / Responsibilities
 
-
-
 | **Role**             | **Nominee**                                               | **Responsibility**                                                                                                                               |
-| -------------------- |-----------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chair                | Pat (Interim)                                             | Serve as agenda setter, moving the committee in direction of it’s assigned or agreed objectives                                                  |
+| -------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chair                | Nick Clarke (Interim)                                     | Serve as agenda setter, moving the committee in direction of it’s assigned or agreed objectives                                                  |
 | Vice Chair           | MPJ (Interim)                                             | Support the chair in the same capacity and serve as delegate if chair unavailable                                                                |
 | Secretary            | Christian                                                 | Serves as liaison for committee, taking minutes, publications, and admin                                                                         |
 | Seats                | Ronald, Marcin, Matthias, Sandip, Sebastian, Philip, Adam | Serve as decision body composition, analysis work, and contribution to committee directly                                                        |

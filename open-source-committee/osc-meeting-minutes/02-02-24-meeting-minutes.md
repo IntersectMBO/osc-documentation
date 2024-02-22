@@ -21,4 +21,12 @@ Agenda:
 3. OS Licenses (Alex S)
 
 \
-Action Items to be added shortly.
+Action Items:
+
+| Discussion Points: | Action Item / Notes:                                                                                                               | Repsonsible:                 |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| Governance Policy  | OSC voted to enact the Governance policy and Marcin agreed to test policy pilot.                                                   | Marcin / OSC / OSPO          |
+| Communication      | Pick a communication tool and check it there is negative view to this. CT to set-up Matrix / Github discussions platform.          | MPJ / CT                     |
+| Voting PR          | OSC agreed to keep PR in draft until Intersect general governance is provided.                                                     | AD / Matt D / CT             |
+| BSL Licenses       | Further converstaions to be held to understand OS licenses, consultation proposal with the TSC, revisit in March for conversation. | Alex S / Randall / OSC / TSC |
+
