@@ -1,18 +1,24 @@
 # Legal
 
+## Copyright
+
+Copyright statements should be made where appropriate.
+The copyright holder for Intersect software must be "Intersect MBO".
+The copyright year should be the year of the file's creation and does not need to be updated.
+
 ## Licenses
 
 Software must be licensed using the Apache 2.0 license.
 Text-based work such as documentation should be licensed under a Creative Commons license.
 
-## Applying the Apache 2.0 license to work
+### Applying the Apache 2.0 license to work
 
 To apply the Apache 2.0 license to your work, two separate files need to be created in the root of the repository:
 
 (1) a “NOTICE” file containing the following boilerplate notice:
 
 ```
-Copyright <date range> <copyright owner> 
+Copyright <creation date> Intersect MBO
 
 Licensed under the Apache License, Version 2.0 (the "License”). 
 You may not use this file except in compliance with the License. 
@@ -39,3 +45,4 @@ However, for text we can typically be much less restrictive.
 For this a permissive license like Creative Commons is much more appropriate.
 
 </details
+
