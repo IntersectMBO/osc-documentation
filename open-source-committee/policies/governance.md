@@ -202,7 +202,7 @@ The Chair is responsible for organizing and running meetings, and the Secretary 
 The Chair and the Secretary are elected by the PMC. The Chair and the Secretary need not be Committers. 
 If there is no Chair or the PMC is failing to appoint a Chair, then Intersect may appoint an interim Chair.
 
-PMC meetings should be held regularly, be public, and be advertised on the public communications channel. 
+PMC meetings should be held regularly, be public, and be advertised on the public communications channel and in the project documentation. 
 Committers have a right to speak, others may be allowed to speak at the discretion of the Chair.
 
 The PMC should make decisions in the usual consensus-seeking manner. 
