@@ -31,4 +31,4 @@
 
 ***
 
-* [Page 1](page-1.md)
+* [OSC Strategy Draft](osc-strategy-draft.md)
