@@ -31,4 +31,4 @@
 
 ***
 
-* [OSC Strategy Draft](osc-strategy-draft.md)
+* [Open Source Strategy Draft](open-source-strategy-draft.md)
