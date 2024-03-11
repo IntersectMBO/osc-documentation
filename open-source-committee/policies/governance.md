@@ -202,7 +202,7 @@ The Chair is responsible for organizing and running meetings, and the Secretary 
 The Chair and the Secretary are elected by the PMC. The Chair and the Secretary need not be Committers. 
 If there is no Chair or the PMC is failing to appoint a Chair, then Intersect may appoint an interim Chair.
 
-PMC meetings should be held regularly, be public, and be advertised on the public communications channel. 
+PMC meetings should be held regularly, be public, and be advertised on the public communications channel and in the project documentation. 
 Committers have a right to speak, others may be allowed to speak at the discretion of the Chair.
 
 The PMC should make decisions in the usual consensus-seeking manner. 
@@ -261,12 +261,24 @@ This is a very powerful role and should only be used for a few highly trusted st
 | Secretary     |                                                                                                                      | Take minutes during PMC meetings; ensure that minutes are published publicly; send out votes and tally responses |
 	
 
-| GitHub Team             | Permissions                         | Notes                                                         |
-|-------------------------|-------------------------------------|---------------------------------------------------------------|
-| `<project>`             | Parent team for other project teams |                                                               |
-| `<project>-committers`  | Write                               |                                                               |
-| `<project>-maintainers` | Maintain                            |                                                               |
-| `<project>-admins`      | Admin                               | Only appropriately vetted Intersect staff can be in this team |
+| GitHub Team             | Permissions                                               | Notes                                                         |
+|-------------------------|-----------------------------------------------------------|---------------------------------------------------------------|
+| `<meta-project>`        | Parent team the projects associated with the meta-project |                                                               |
+| `<project>`             | Parent team for teams associated with the project         |                                                               |
+| `<project>-committers`  | Write                                                     |                                                               |
+| `<project>-maintainers` | Maintain                                                  |                                                               |
+| `<project>-admins`      | Admin                                                     | Only appropriately vetted Intersect staff can be in this team |
+
+As usual, projects may augment these as they see appropriate, but they should try to keep any additional teams within the appropriate parent teams.
+
+<details>
+<summary><b>Examples</b></summary>
+
+* A meta-project wants to have a team of "backup superusers" who can perform privileged actions when the normal maintainers are not available.
+* A meta-project wants to have a release management team with additional privileges, to which people are temporarily assigned when they manage releases.
+* A project wants to form a documentation team with no additional privileges for use in CODEOWNERS for for `@`-mentioning.
+
+</details>
 
 ### Communications
 

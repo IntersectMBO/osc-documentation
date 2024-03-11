@@ -19,9 +19,4 @@ Agenda:
 Action items:\
 
 
-| Discussion Point | Notes / Action Items                                                        | Responsible  |
-| ---------------- | --------------------------------------------------------------------------- | ------------ |
-| Repo Mgt Example | Think of Dolos: https://github.com/txpipe/dolos                             | OSPO         |
-| Funding          | Think of the way to address topic, align within Intersect policies and TSC. | OSC          |
-| Guidelines       | Think of Cardano Eng Handbook inclusion.                                    | OSC          |
-| Strategy         | <p>Results form Strategy Interviews reviewed.<br></p>                       | OSC          |
+<table data-header-hidden data-full-width="true"><thead><tr><th>Discussion Point</th><th>Notes / Action items</th><th>Responsible</th></tr></thead><tbody><tr><td>Discussion Point</td><td>Notes / Action Items</td><td>Responsible </td></tr><tr><td>Repo Mgt Example</td><td>Think of Dolos: https://github.com/txpipe/dolos</td><td>OSPO</td></tr><tr><td>Funding</td><td>Think of the way to address topic, align within Intersect policies and TSC.</td><td>OSC</td></tr><tr><td>Guidelines</td><td>Think of Cardano Eng Handbook inclusion.</td><td>OSC</td></tr><tr><td>Strategy</td><td>Results form Strategy Interviews reviewed.<br></td><td>OSC</td></tr></tbody></table>
