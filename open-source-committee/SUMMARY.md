@@ -31,6 +31,6 @@
 * [😍 (03/01/2024) Meeting Minutes](osc-meeting-minutes/03-01-2024-meeting-minutes.md)
 * [🥹 (03/15/2024) Meeting Minutes](osc-meeting-minutes/03-15-2024-meeting-minutes.md)
 
-***
+## Drafts
 
-* [Open Source Strategy Draft](open-source-strategy-draft.md)
+* [Open Source Strategy Draft](drafts/open-source-strategy-draft.md)

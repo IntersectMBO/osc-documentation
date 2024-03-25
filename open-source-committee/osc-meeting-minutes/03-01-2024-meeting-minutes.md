@@ -4,7 +4,7 @@ description: >-
   https://drive.google.com/file/d/1xeLlvOq-u8w4F39d7cluxTUtLtB06YQc/view
 ---
 
-# (03/01/2024) Meeting Minutes
+# 😍 (03/01/2024) Meeting Minutes
 
 Agenda:\
 
