@@ -2,7 +2,7 @@
 description: Ratified by the OSC on 3/28/2024
 ---
 
-# Open Source Strategy
+# 🤩 Open Source Strategy
 
 As Cardano’s journey in the Voltaire era continues, the Open Source Committee’s strategy empowers community-led and sustainability-driven decisions, shaping our path forward in open source development.
 

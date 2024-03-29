@@ -8,8 +8,7 @@
 
 ***
 
-* [Open Source Strategy](open-source-strategy.md)
-* [Page](page.md)
+* [🤩 Open Source Strategy](open-source-strategy.md)
 
 ## Working Groups
 
