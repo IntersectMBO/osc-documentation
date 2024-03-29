@@ -1,5 +1,5 @@
 ---
-description: Ratified by the OSC on 3/28/2024
+description: Approved by the OSC on 3/28/2024
 ---
 
 # 🤩 Open Source Strategy
