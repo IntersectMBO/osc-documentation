@@ -4,11 +4,12 @@
 
 * [😬 Open Source Committee Charter](README.md)
 * [😍 2024 OSO Roadmap](about/2024-ospo-roadmap.md)
-* [🤠 Open Source Program Office (OSPO)](about/open-source-program-office-ospo.md)
+* [🤠 Open Source Office (OSO)](about/open-source-program-office-ospo.md)
 
 ***
 
 * [Open Source Strategy](open-source-strategy.md)
+* [Page](page.md)
 
 ## Working Groups
 
