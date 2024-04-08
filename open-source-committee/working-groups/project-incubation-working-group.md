@@ -16,7 +16,7 @@ Items to Note: Projects that are incubating have less policies to follow, more m
 
 * Project Maintainers&#x20;
 * Developers and Contributors&#x20;
-* Open Source Program Office (OSPO)&#x20;
+* Open Source Office (OSO)&#x20;
 * Technical Steering Committee (TSC)&#x20;
 * Open Source Committee (OSC)&#x20;
 * Open Source Community Members&#x20;
@@ -75,5 +75,5 @@ FinOS Incubation Process: FinOS has an incubation process for new projects. It i
 
 ## Membership
 
-* OSPO
+* OSO
   * [Christian Taylor](mailto:christian.taylor@iohk.io)
