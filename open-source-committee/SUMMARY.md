@@ -34,3 +34,7 @@
 * [🥹 (02/23/24) Meeting Minutes](osc-meeting-minutes/02-23-24-meeting-minutes.md)
 * [😍 (03/01/2024) Meeting Minutes](osc-meeting-minutes/03-01-2024-meeting-minutes.md)
 * [🥹 (03/15/2024) Meeting Minutes](osc-meeting-minutes/03-15-2024-meeting-minutes.md)
+
+***
+
+* [😆 (3/28/2024) Meeting Minutes](3-28-2024-meeting-minutes.md)
