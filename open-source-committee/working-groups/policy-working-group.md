@@ -22,12 +22,12 @@ Since this is a working group, we should end up with an actual artifact represen
 * People currently working on the Cardano projects
   * Team leads
   * Engineers
-* OSPO (Christian)
+* OSO (Christian)
 
 ## Membership
 
 * Chair: [Michael Peyton Jones](mailto:michael.peyton-jones@iohk.io)
 * People currently working on the Cardano projects
   * [Sebastian Nagel](mailto:sebastian.nagel@iohk.io)
-* OSPO
+* OSO
   * [Christian Taylor](mailto:christian.taylor@iohk.io)
