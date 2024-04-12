@@ -1,5 +1,5 @@
 ---
-description: Ratified by the OSC on (2/16/24)
+description: Approved by the OSC on (2/16/24)
 ---
 
 # 😍 2024 OSO Roadmap
