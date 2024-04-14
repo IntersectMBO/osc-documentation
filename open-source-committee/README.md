@@ -10,7 +10,7 @@ The OSC is responsible for:
 
 1. Provide strategic direction and input on Intersect's open source initiatives and policies
 2. Manage working groups
-3. Evaluate the output of working groups and the OSPO
+3. Evaluate the output of working groups and the OSO
 
 ## Goals of the Committee
 
