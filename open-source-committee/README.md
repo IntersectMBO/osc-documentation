@@ -34,13 +34,13 @@ The OSC is responsible for:
 
 ### Roles / Responsibilities
 
-| **Role**             | **Nominee**                                            | **Responsibility**                                                                                                                               |
-| -------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chair                | Nick Clarke (Interim)                                  | Serve as agenda setter, moving the committee in direction of it’s assigned or agreed objectives                                                  |
-| Vice Chair           | MPJ (Interim)                                          | Support the chair in the same capacity and serve as delegate if chair unavailable                                                                |
-| Secretary            | Christian                                              | Serves as liaison for committee, taking minutes, publications, and admin                                                                         |
-| Seats                | Ronald, Marcin, Matthias, Sandip, Daniel, Philip, Adam | Serve as decision body composition, analysis work, and contribution to committee directly                                                        |
-| External Member Base | External list growing daily                            | Follow-on mtg min publications, external validation and feedback, contribution to committee indirectly and through committee controlled channels |
+| **Role**             | **Nominee**                                                                 | **Responsibility**                                                                                                                               |
+| -------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chair                | Nick Clarke (Interim)                                                       | Serve as agenda setter, moving the committee in direction of it’s assigned or agreed objectives                                                  |
+| Vice Chair           | MPJ (Interim)                                                               | Support the chair in the same capacity and serve as delegate if chair unavailable                                                                |
+| Secretary            | Tex                                                                         | Serves as liaison for committee, taking minutes, publications, and admin                                                                         |
+| Seats                | Ronald, Marcin, Matthias, Sandip, Daniel, Philip, Adam, Christian (OSO Rep) | Serve as decision body composition, analysis work, and contribution to committee directly                                                        |
+| External Member Base | External list growing daily                                                 | Follow-on mtg min publications, external validation and feedback, contribution to committee indirectly and through committee controlled channels |
 
 ### Intermediate to Future State
 
