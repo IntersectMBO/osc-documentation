@@ -13,8 +13,8 @@
 ## Working Groups
 
 * [Policy Working Group](working-groups/policy-working-group.md)
-* [Strategy Working Group](working-groups/strategy-working-group.md)
 * [Project Incubation Working Group](working-groups/project-incubation-working-group.md)
+* [Project Framework Working Group](working-groups/project-framework-working-group.md)
 
 ## Policies
 
