@@ -27,7 +27,11 @@ Since this is a working group, we should end up with an actual artifact represen
 ## Membership
 
 * Chair: [Michael Peyton Jones](mailto:michael.peyton-jones@iohk.io)
-* People currently working on the Cardano projects
-  * [Sebastian Nagel](mailto:sebastian.nagel@iohk.io)
+* Silona Bonewald
+* Marcin S.
+* Adam Dean
+* Kevin Hammond
+* Nicholas Clarke
+* [Sebastian Nagel](mailto:sebastian.nagel@iohk.io)
 * OSO
   * [Christian Taylor](mailto:christian.taylor@iohk.io)
