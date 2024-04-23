@@ -8,7 +8,7 @@ Apr 12, 2024 | [Open Source Committee (Intersect)](https://www.google.com/calend
 
 ## Attendees:&#x20;
 
-* Christian Taylor (OSPO Rep) [christian.taylor@cardanombo.org](mailto:christian.taylor@cardanombo.org)
+* Christian Taylor (OSO Rep) [christian.taylor@cardanombo.org](mailto:christian.taylor@cardanombo.org)
 * Sandip Pandey [sandip@dquadrant.com](mailto:sandip@dquadrant.com)
 * Michael Peyton-Jones [michael.peyton-jones@iohk.io](mailto:michael.peyton-jones@iohk.io)
 * Marcin Szamotulski [marcin.szamotulski@iohk.io](mailto:marcin.szamotulski@iohk.io)
