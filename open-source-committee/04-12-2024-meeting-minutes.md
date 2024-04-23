@@ -43,17 +43,13 @@ Transcript: [https://docs.google.com/document/d/1r4iS9eN40I5Oo4El\_7tgJed9HQT6c3
 2. Update from Project Inucbation Policy
 3. Closure of Strategy TWG
 4. Update from OSO Team
-5.
-   1. Progress towards deliverables
+   * Progress towards deliverables
 
 ### New Business:&#x20;
 
 1. Elections to replace MPJ
 2. Strategy for elections in future
-3. Open Forum
-
-\
-\
+3. Open Forum\
 
 
 | Discussion Point                                                                                   | Notes / Action Items                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Actions: Responsible / Note                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
