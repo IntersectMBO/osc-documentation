@@ -34,14 +34,14 @@ The OSC is responsible for:
 
 ### Roles / Responsibilities
 
-| **Role**             | **Nominee**                                                                 | **Responsibility**                                                                                                                               |
-| -------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chair                | Nick Clarke (Interim)                                                       | Serve as agenda setter, moving the committee in direction of it’s assigned or agreed objectives                                                  |
-| Vice Chair           | Sandip Pandey                                                               | Support the chair in the same capacity and serve as delegate if chair unavailable                                                                |
-| Secretary            | Tex                                                                         | Serves as liaison for committee, taking minutes, publications, and admin                                                                         |
-| Seats                | Ronald, Marcin, Matthias, Sandip, Daniel, Philip, Adam, Christian (OSO Rep) | Serve as decision body composition, analysis work, and contribution to committee directly                                                        |
-| External Member Base | External list growing daily                                                 | Follow-on mtg min publications, external validation and feedback, contribution to committee indirectly and through committee controlled channels |
+| **Role**             | **Nominee**                                            | **Responsibility**                                                                                                                               |
+| -------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chair                | Nick Clarke (Interim)                                  | Serve as agenda setter, moving the committee in direction of it’s assigned or agreed objectives                                                  |
+| Vice Chair           | Sandip Pandey (Interim)                                | Support the chair in the same capacity and serve as delegate if chair unavailable                                                                |
+| Secretary            | Tex                                                    | Serves as liaison for committee, taking minutes, publications, and admin                                                                         |
+| Seats                | Ronald, Marcin, Daniel, Philip, Adam, Christian (OSO ) | Serve as decision body composition, analysis work, and contribution to committee directly                                                        |
+| External Member Base | External list growing daily                            | Follow-on mtg min publications, external validation and feedback, contribution to committee indirectly and through committee controlled channels |
 
 ### Intermediate to Future State
 
-AS this interim committee is to help bootstrap the Open source work for Intersect, each candidate was selected due to their experience, interest, and collaboration within the Cardano Ecosystem on successful open source projects. The formation of this committee is from August 2023 until July 2024. Each member will be able to campaign for their seat again for Q3 2024.
+As this interim committee is to help bootstrap the Open source work for Intersect, each candidate was selected due to their experience, interest, and collaboration within the Cardano Ecosystem on successful open source projects. The formation of this committee is from August 2023 until July 2024. Each member will be able to campaign for their seat again for Q3 2024.
