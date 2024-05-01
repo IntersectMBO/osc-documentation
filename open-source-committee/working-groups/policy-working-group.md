@@ -1,6 +1,6 @@
 # Policy Working Group
 
-## Goal <a href="#docs-internal-guid-af925a4c-7fff-b866-fb23-34a5edbaa6ee" id="docs-internal-guid-af925a4c-7fff-b866-fb23-34a5edbaa6ee"></a>
+## Purpose/Goals <a href="#docs-internal-guid-af925a4c-7fff-b866-fb23-34a5edbaa6ee" id="docs-internal-guid-af925a4c-7fff-b866-fb23-34a5edbaa6ee"></a>
 
 To come up with an initial set of policies for Intersect projects. This should be ready and agreed with the Cardano projects before they are brought over.\
 
