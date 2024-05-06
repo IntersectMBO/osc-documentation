@@ -26,11 +26,8 @@ Since this is a working group, we should end up with an actual artifact represen
 
 ## Membership
 
-* Silona Bonewald
-* Marcin Szamotulski (Lead ?)
-* Adam Dean (Lead ?)
+* Adam Dean (Lead)
+* Marcin Szamotulski&#x20;
 * Kevin Hammond
 * Nicholas Clarke
-* [Sebastian Nagel](mailto:sebastian.nagel@iohk.io)
-* OSO (Intermim Lead - Lead to be finalized 5/3/24)
-  * [Christian Taylor](mailto:christian.taylor@iohk.io)
+* Silona Bonewald
