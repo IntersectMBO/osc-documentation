@@ -74,7 +74,7 @@ We acknowledge the necessity for ongoing development of the COSP, aiming to prev
 
 Ensuring Core Cardano maintains its reputation for being robust, secure, and open, while continuously adapting to new technological developments and environmental changes.
 
-#### Governance and Decision-Making
+#### [Governance](https://intersect.gitbook.io/open-source-committee/policies/governance) and Decision-Making
 
 We follow a transparent, inclusive, and effective governance model that empowers the Cardano community to actively participate in the decision making process.&#x20;
 
