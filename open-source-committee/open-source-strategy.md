@@ -129,7 +129,7 @@ Strategy: We’ll prioritize contracted maintainers from other organizations to 
    Outline criteria and steps for becoming a maintainer, detailing the responsibilities, skills, and commitment required. This initiative will establish a transparent process for onboarding new maintainers, ensuring clarity on the role and expectations.
 2. Engage past collaborators, identify possible maintainers\
    Conduct a survey among core Cardano project teams to identify companies and professionals they've successfully collaborated with in the past. Compile a list of potential maintainers with proven track of records.
-3. Engage TSC\
+3. Engage [TSC](https://intersect.gitbook.io/technical-steering-committee)\
    Present a formal request to the TSC, emphasizing the strategic importance of diversifying project maintainers&#x20;
 4. Facilitate maintenance engagements\
    Initiate a matchmaking process between core Cardano projects and potential maintainers identified in action # 1
