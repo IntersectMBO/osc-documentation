@@ -1,0 +1,4 @@
+# OSC Documentation Codeowners
+
+# These owners will be the default owners for everything in the repository.
+*@thatguyllc @ranchhand87 @nc6
