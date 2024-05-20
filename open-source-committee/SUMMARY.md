@@ -16,7 +16,6 @@
 * [Security Working Group](working-groups/security-working-group.md)
 * [Project Incubation Working Group](working-groups/project-incubation-working-group.md)
 * [Project Framework Working Group](working-groups/project-framework-working-group.md)
-* [Commercialization Working Group](working-groups/commercialization-working-group.md)
 
 ## Policies
 
