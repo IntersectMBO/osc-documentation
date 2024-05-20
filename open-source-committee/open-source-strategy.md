@@ -30,7 +30,7 @@ The strategic approach embedded in this framework is designed to be iterative, a
 \
 
 
-<figure><img src=".gitbook/assets/OS Strategy Revised.png" alt=""><figcaption><p>Strategy Foundational Model</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Open Source.jpg" alt=""><figcaption><p>Strategy Foundational Model</p></figcaption></figure>
 
 ## Strategy elements
 
@@ -149,7 +149,7 @@ Strategy: We’ll prioritize contracted maintainers from other organizations to 
 3. Adoption of the security policy to Intersect-maintained Cardano projects\
    Ensure that all Intersect-maintained Cardano projects incorporate and follow the newly developed standardized security policies
 
-#### G5 - By Q3,2024, Improve Cardano to be truly Open Source. Tested by whether a community member can get a change into Core Cardano Code.
+#### G5 - By Q3,2024, Improve Cardano to be efficiently Open Source. Tested by whether a community member can get a change into Core Cardano Code.
 
 #### Metric:
 
