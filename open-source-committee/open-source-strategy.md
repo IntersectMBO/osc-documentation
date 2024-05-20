@@ -1,5 +1,5 @@
 ---
-description: Approved by the OSC on 5/17/2024
+description: Approved by the OSC on 3/28/2024, Amended by OSC 5/17/2024
 ---
 
 # 🤩 Open Source Strategy
@@ -154,6 +154,7 @@ Strategy: We’ll prioritize contracted maintainers from other organizations to 
 #### Metric:
 
 * At least 1 maintainer added to CODEOWNERS.MD and actively Maintaining a Core-Cardano repo/project.
+* At least 1 contribution made by and 1 contribution reviewed by a community member serving as a maintainer.
 
 #### Actions
 
