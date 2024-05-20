@@ -1,5 +1,5 @@
 ---
-description: Approved by the OSC on 3/28/2024
+description: Approved by the OSC on 5/17/2024
 ---
 
 # 🤩 Open Source Strategy
@@ -30,7 +30,7 @@ The strategic approach embedded in this framework is designed to be iterative, a
 \
 
 
-<figure><img src="https://lh7-us.googleusercontent.com/rF7wqKo-rl6MkD4WFzYFB26w1R0gLcyVch8c7j6Mo88ZcwbLsIN3b6AGFrdDCk5yXJkLcUR0vLxtx9a2RMQucF6-0F0dHb2gh5WBmYNL39tAr5yHIVV-VCSfkTesPHfrppoGsJlSHh4KM8B9dy-cECI" alt=""><figcaption><p>Strategy Foundational Model</p></figcaption></figure>
+<figure><img src=".gitbook/assets/OS Strategy Revised.png" alt=""><figcaption><p>Strategy Foundational Model</p></figcaption></figure>
 
 ## Strategy elements
 
@@ -148,6 +148,22 @@ Strategy: We’ll prioritize contracted maintainers from other organizations to 
    Establish a process for the community to report security vulnerabilities, and outline steps for response / resolution by teams
 3. Adoption of the security policy to Intersect-maintained Cardano projects\
    Ensure that all Intersect-maintained Cardano projects incorporate and follow the newly developed standardized security policies
+
+#### G5 - By Q3,2024, Improve Cardano to be truly Open Source. Tested by whether a community member can get a change into Core Cardano Code.
+
+#### Metric:
+
+* At least 1 maintainer added to CODEOWNERS.MD and actively Maintaining a Core-Cardano repo/project.
+
+#### Actions
+
+1. Testing a Community Member as a Maintainer on Cardano Addresses (Wallet/Adrestria)
+   1. Established a 30-Day Pilot for an approved trusted contributor in the Community, to serve as a Maintainer.&#x20;
+   2. Evaluate performance as listed within pilot program documentation, depending on performance, move into maintainer contract.
+   3. Standardize process for other repos within Core-Cardano
+2. Created a 14 point Contributor use-case that exemplifies a true Open-Source experience and proof of concept for Cardano.
+   1. Go through Core-Cardano meta Project and analyze the pass/fail scenario criteria set within the assessment to deliver a baseline open source maturity report.
+   2. Based on results, formulate an appropriate remediation plan toa davance Croe- Cardano’s open source maturity.
 
 ## Conclusions
 
