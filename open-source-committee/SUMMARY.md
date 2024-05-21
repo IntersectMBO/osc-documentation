@@ -43,3 +43,4 @@
 * [😛 (04/19/2024) Meeting Minutes](04-19-2024-meeting-minutes.md)
 * [🤓 (04/26/2024) Meeting Minutes](04-26-2024-meeting-minutes.md)
 * [🥸 (05/03/2024) Meeting Minute](05-03-2024-meeting-minute.md)
+* [😏 (05/17/2024) Meeting Minutes](05-17-2024-meeting-minutes.md)
