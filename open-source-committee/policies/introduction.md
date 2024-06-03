@@ -2,17 +2,13 @@
 
 These pages contain policies that relate to open source at Intersect.
 
-See the [glossary](./glossary.md) for definitions of terms and acronyms.
+See the [glossary](https://docs.intersectmbo.org/legal/policies-and-conditions/intersect-open-source-glossary) for definitions of terms and acronyms.
 
 ## Goals and Principles
 
-These policies are principles-based. 
-That means that the primary content of the policies is a set of goals and principles, and the rest of the policy attempts to describe how to follow them. 
-However, the principles are the important part - if there are disagreements about the policy then they will ultimately be resolved by appeal to the principles. 
-This provides a guide to action: if the policy is unclear or misguided, act in accordance with the principles.
+These policies are principles-based. That means that the primary content of the policies is a set of goals and principles, and the rest of the policy attempts to describe how to follow them. However, the principles are the important part - if there are disagreements about the policy then they will ultimately be resolved by appeal to the principles. This provides a guide to action: if the policy is unclear or misguided, act in accordance with the principles.
 
-The goals are those stated in the [Open Source Committee Charter](../README.md). 
-Briefly re-stated, those are:
+The goals are those stated in the [Open Source Committee Charter](../). Briefly re-stated, those are:
 
 1. Legitimacy: maintaining the legitimacy of the Intersect projects in the eyes of the community
 2. Quality: maintaining the quality of the Intersect projects
@@ -29,9 +25,7 @@ The principles are:
 
 The policies use [RFC-2119](https://www.ietf.org/rfc/rfc2119.txt) keywords to indicate the requirement level of various policies. We do not generally require capitalization of requirement keywords.
 
-Because the heart of our policies are the principles, and in accordance with the principle of Delegation, many policies use "should".
-This means that projects and people can deviate from the policy, provided that they have a good reason and this action is in accordance with the principles. 
-The policies are often aiming to provide a sensible default.
+Because the heart of our policies are the principles, and in accordance with the principle of Delegation, many policies use "should". This means that projects and people can deviate from the policy, provided that they have a good reason and this action is in accordance with the principles. The policies are often aiming to provide a sensible default.
 
 Similarly, projects and people are encouraged to augment the policies if they think it appropriate.
 
