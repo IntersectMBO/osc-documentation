@@ -1,7 +1,5 @@
 # 😬 Open Source Committee Charter
 
-This document is [available as a Gitbook](https://intersect.gitbook.io/open-source-committee).
-
 ## What is the Open Source Committee (OSC)?
 
 The Open Source Committee is an advisory committee that brings together relevant stakeholders from within the Cardano Ecosystem. The purpose of the OSC is to use the knowledge and observations of these individuals in order to provide guidance, support, and oversight for Intersect's open source initiatives, ensuring alignment with overall business objectives.
