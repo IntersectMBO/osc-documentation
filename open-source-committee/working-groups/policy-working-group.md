@@ -31,3 +31,7 @@ Since this is a working group, we should end up with an actual artifact represen
 * Kevin Hammond
 * Nicholas Clarke
 * Silona Bonewald
+
+## Communications Channel(s)
+
+* Discord
