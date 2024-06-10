@@ -1,14 +1,14 @@
 # ✅ Monthly Maturity Report - May 2024
 
-<figure><img src="../.gitbook/assets/MR1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mr 1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/MR2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mr 2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/MR3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mr 3.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/MR4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/MR5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mr 5.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/MR6.png" alt=""><figcaption></figcaption></figure>
 
