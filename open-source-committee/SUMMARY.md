@@ -9,7 +9,7 @@
 ***
 
 * [🤩 Open Source Strategy](open-source-strategy.md)
-* [✅ Current Monthly Maturity Report](current-monthly-maturity-report.md)
+* [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
 
 ## Working Groups
 
@@ -48,4 +48,4 @@
 
 ## All Monthly Reports
 
-* [✅ Monthly Maturity Report - May 2024](all-monthly-reports/monthly-maturity-report-may-2024.md)
+* [📈 Monthly Maturity Report - May 2024](all-monthly-reports/monthly-maturity-report-may-2024.md)
