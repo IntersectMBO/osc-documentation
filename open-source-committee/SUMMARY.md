@@ -8,6 +8,7 @@
 
 ***
 
+* [Current Monthly Maturity Report](current-monthly-maturity-report.md)
 * [🤩 Open Source Strategy](open-source-strategy.md)
 
 ## Working Groups
