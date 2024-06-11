@@ -14,9 +14,8 @@
 ## Working Groups
 
 * [Policy Working Group](working-groups/policy-working-group.md)
-* [Security Working Group](working-groups/security-working-group.md)
 * [Project Incubation Working Group](working-groups/project-incubation-working-group.md)
-* [Project Framework Working Group](working-groups/project-framework-working-group.md)
+* [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
 
 ## Policies
 

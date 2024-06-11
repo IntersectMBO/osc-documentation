@@ -75,5 +75,10 @@ FinOS Incubation Process: FinOS has an incubation process for new projects. It i
 
 ## Membership
 
+* Alex S. (Lead)
 * OSO
   * [Christian Taylor](mailto:christian.taylor@iohk.io)
+
+## Meeting Cadence
+
+Day of the week @ timePST Weekly
