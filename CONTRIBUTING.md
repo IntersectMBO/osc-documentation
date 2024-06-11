@@ -1,4 +1,4 @@
-# Contributing to [OSC-documentation]
+# Contributing to OSC-documentation
 
 Thank you for considering helping out! We're glad you're reading this because we need volunteer developers to help this project come to fruition. 
 Looking to update information or feature your project? Feel free to make the change yourself.
