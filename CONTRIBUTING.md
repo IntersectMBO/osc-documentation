@@ -77,6 +77,7 @@ Your work will be much appreciated if you follow these style guides in your cont
 ### Documentation Styleguide
 
 Use Markdown for documentation.
+Following [best practices](https://www.markdownguide.org/basic-syntax/).
 
 ## License
 
