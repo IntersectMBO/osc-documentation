@@ -11,7 +11,9 @@ Commit your code.
 Issue a Pull Request.
 Once your PR is issued, we will review your work and decide to add it to the project!
 For more details about contributing to GitHub projects, see How to use Github: Fork, Branch, Track, Squash, and Pull Request.
+
 ## Types of contribution
+
 Provide information on what kinds of contributions your project is looking for here. For example, these can be bug reports, help answering user questions, improving documentation, bug fixes, and new feature implementations.
 
 ## Openness
