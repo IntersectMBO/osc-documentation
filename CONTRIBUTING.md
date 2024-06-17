@@ -22,7 +22,7 @@ The configuration of an open project enables frictionless contributing. Projects
 
 ## Code of Conduct
 
-The Code of Conduct governs this project and everyone participating. By participating, you are expected to uphold this code. Please report unacceptable behavior to [email].
+[The Code of Conduct](https://github.com/IntersectMBO/OSC-documentation/blob/master/CODE-OF-CONDUCT.md) governs this project and everyone participating. By participating, you are expected to uphold this code. Please report unacceptable behavior to [oso@intersectmbo.org](https://github.com/IntersectMBO/committee-documentation-template/blob/main/oso@intersectmbo.org).
 
 ## Reporting Bugs
 
