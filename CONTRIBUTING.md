@@ -55,7 +55,7 @@ When contributing to this project, you must agree that you have authored 100% of
 
 ## Your First Code Contribution
 
-Need help determining where to begin contributing to [Project Name]? You can start by looking through these `beginner` and `help-wanted` issues:
+Need help determining where to begin contributing to [OSC Documentation](https://github.com/IntersectMBO/OSC-documentation)? You can start by looking through these `beginner` and `help-wanted` issues:
 
 - `Beginner` issues - issues that should only require a few lines of code and a test or two.
 - `Help wanted` issues - issues which should be a bit more involved than `beginner` issues.
