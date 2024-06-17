@@ -73,7 +73,6 @@ Your work will be much appreciated if you follow these style guides in your cont
 
 ### [Programming Language One] Styleguide
 
-All [Haskell] must adhere to [Haskell] Standard Style.
 
 ### Documentation Styleguide
 
