@@ -9,7 +9,9 @@ description: >-
 
 ## **Report Contents:**
 
-This report serves as a baseline for a situation analysis aimed at evaluating and marking key areas for improvement within the Cardano open-source ecosystem. The analysis was conducted through a series of situation use cases, each assessed with a simple pass or fail metric. These assessments provide a comprehensive overview of Cardano's open-source performance on a 14-point scale.
+This report serves as a baseline for a situation analysis aimed at evaluating and marking key areas for improvement within the Cardano open-source ecosystem. The analysis was conducted through a series of situation use cases, each assessed with a simple pass or fail metric. These assessments provide a comprehensive overview of Cardano's open-source performance on a 14-point scale.\
+[PDF Link to detailed report](https://docs.google.com/document/d/1ASr\_-0fX361VbI46ti2fmGNN5rlWYbOB6ZQ2bTLVieI/edit).\
+[Google Sheet Results.](https://docs.google.com/spreadsheets/d/1HaSRa3OMDtzxqxm7dOSu5KItGb3FSpHuoenYOTeWWJ8/edit?gid=0#gid=0)
 
 <details>
 
