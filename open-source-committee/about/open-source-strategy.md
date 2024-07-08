@@ -30,7 +30,7 @@ The strategic approach embedded in this framework is designed to be iterative, a
 \
 
 
-<figure><img src=".gitbook/assets/Open Source.jpg" alt=""><figcaption><p>Strategy Foundational Model</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Open Source.jpg" alt=""><figcaption><p>Strategy Foundational Model</p></figcaption></figure>
 
 ## Strategy elements
 

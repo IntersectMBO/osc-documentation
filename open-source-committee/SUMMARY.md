@@ -5,11 +5,11 @@
 * [😬 Open Source Committee Charter](README.md)
 * [😍 2024 OSO Roadmap](about/2024-ospo-roadmap.md)
 * [🤠 Open Source Office (OSO)](about/open-source-program-office-ospo.md)
+* [🤩 Open Source Strategy](about/open-source-strategy.md)
 * [😉 True Open Source Maturity Pilot](about/true-open-source-maturity-pilot.md)
 
 ***
 
-* [🤩 Open Source Strategy](open-source-strategy.md)
 * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
 
 ## Working Groups
