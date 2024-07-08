@@ -5,6 +5,7 @@
 * [😬 Open Source Committee Charter](README.md)
 * [😍 2024 OSO Roadmap](about/2024-ospo-roadmap.md)
 * [🤠 Open Source Office (OSO)](about/open-source-program-office-ospo.md)
+* [😉 True Open Source Maturity Pilot](about/true-open-source-maturity-pilot.md)
 
 ***
 
