@@ -84,7 +84,7 @@ This report serves as a baseline for a situation analysis aimed at evaluating an
 
     The following repos were assessed based on having non-founding entity maintainers currently:&#x20;
 
-    1. Cardano Addresses: Adam Dean (Drip Dropz)
+    1. Cardano Addresses: Drip Dropz
     2. Cardano CLI: Tweag
     3. Ouroboros Consensus: Tweag\
 
