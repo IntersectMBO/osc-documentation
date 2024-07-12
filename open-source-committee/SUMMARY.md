@@ -53,3 +53,4 @@
 ## All Monthly Reports
 
 * [📈 Monthly Maturity Report - May 2024](all-monthly-reports/monthly-maturity-report-may-2024.md)
+* [📊 Monthly Maturity Report - June 2024](all-monthly-reports/monthly-maturity-report-june-2024.md)
