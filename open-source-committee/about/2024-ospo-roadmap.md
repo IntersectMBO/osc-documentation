@@ -38,5 +38,5 @@ Quarter 4 of 2024: **Continuous Improvement**
 2. Implement inclusion initiatives&#x20;
 3. Optimize release management process
 
-<figure><img src="../../.gitbook/assets/OSC Roadamp Ver 2.PNG" alt=""><figcaption><p>Roadmap View for Q1 and Q2 </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OSC Roadamp Ver 2.PNG" alt=""><figcaption><p>Roadmap View for Q1 and Q2 </p></figcaption></figure>
 
