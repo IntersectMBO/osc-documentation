@@ -45,7 +45,9 @@
 * [🥸 (05/03/2024) Meeting Minute](05-03-2024-meeting-minute.md)
 * [😏 (05/17/2024) Meeting Minutes](05-17-2024-meeting-minutes.md)
 * [🫨 (06/07/2024) Meeting Minutes](06-07-2024-meeting-minutes.md)
-* [🤩 06/21/2024 Meeting Minutes](06-21-2024-meeting-minutes.md)
+* [🤩 (06/21/2024) Meeting Minutes](06-21-2024-meeting-minutes.md)
+* [😌 (07/12/2024) Meeting Minutes](07-12-2024-meeting-minutes.md)
+* [😎 (07/19/2024) Meeting Minutes](07-19-2024-meeting-minutes.md)
 
 ## All Monthly Reports
 
