@@ -1,7 +1,5 @@
 # 😎 (07/19/2024) Meeting Minutes
 
-Jul 19, 2024 | [Open Source Committee (Intersect)](https://www.google.com/calendar/event?eid=bGRvYzcwY3M3N2xlcGdyMzIxNzhlcXMwcnZfMjAyMzEwMjVUMTYwMDAwWiBjaHJpc3RpYW4udGF5bG9yQGlvaGsuaW8)
-
 ## Attendees:&#x20;
 
 * Christian Taylor (OSO Rep) [Christian Taylor](mailto:christian.taylor@intersectmbo.org)-NP
