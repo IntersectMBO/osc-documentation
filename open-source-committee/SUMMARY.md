@@ -49,5 +49,6 @@
 
 ## All Monthly Reports
 
-* [📈 Monthly Maturity Report - May 2024](all-monthly-reports/monthly-maturity-report-may-2024.md)
-* [📊 Monthly Maturity Report - June 2024](all-monthly-reports/monthly-maturity-report-june-2024.md)
+* [Bitergia Repo Maturity Reports](all-monthly-reports/bitergia-repo-maturity-reports/README.md)
+  * [📈 Monthly Maturity Report - May 2024](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-report-may-2024.md)
+  * [📊 Monthly Maturity Report - June 2024](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-report-june-2024.md)
