@@ -15,7 +15,7 @@
 * [Project Incubation Working Group](working-groups/project-incubation-working-group.md)
 * [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
 * [Oracles Working Group](working-groups/oracles-working-group.md)
-* [TBD Working Group](working-groups/tbd-working-group.md)
+* [Commercialization Working Group](working-groups/commercialization-working-group.md)
 
 ## Policies
 
