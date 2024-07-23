@@ -79,7 +79,9 @@ members following a fairly common staggered board method:
 ### Candidate Criteria
 
 - **Membership**: All individuals standing for election as a member of this
-  committee _MUST BE_ a Member of Intersect in good standing.
+  committee _MUST BE_ an Individual Member, Seed Funder Member, or Enterprise
+  Member of Intersect in good standing. Associate members are not eligible to
+  sit on committees.
 - **Open Source Experience**: All individuals standing for election as a member
   of this committee _SHOULD_ supply evidence of their experience working with
   and contributing to open source projects. There is no requirement that these
@@ -204,10 +206,10 @@ organization.
 
 ## Conclusion:
 
-In conclusion, implementing a voting and re-election cycle with six-month
-voting periods for our open source committee is a well-balanced approach that
-combines continuity and renewal. It ensures that the committee benefits from
-both experienced members and fresh perspectives while reducing the disruption
-caused by complete turnover. This system is designed to enhance the overall
+In conclusion, implementing a voting and re-election cycle with six-month voting
+periods for our open source committee is a well-balanced approach that combines
+continuity and renewal. It ensures that the committee benefits from both
+experienced members and fresh perspectives while reducing the disruption caused
+by complete turnover. This system is designed to enhance the overall
 effectiveness, stability, and member engagement within our organization,
 ultimately contributing to its long-term success.
