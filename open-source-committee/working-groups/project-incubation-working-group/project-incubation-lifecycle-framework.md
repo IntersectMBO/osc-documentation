@@ -1,4 +1,4 @@
-# Project Incubation Lifecycle Framewo
+# Project Incubation Lifecycle Framework
 
 INTERSECT&#x20;
 
@@ -291,3 +291,6 @@ An example could be a scenario where a project focused on a specific framework i
 By thoughtfully managing the Abandonment stage, the project can conclude on a positive note, ensuring its contributions are recognized, and the community is respectfully transitioned to new opportunities. This careful closure not only respects the legacy of the project but also maintains trust and goodwill among the Cardano’s watchers.
 
 \
+
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
