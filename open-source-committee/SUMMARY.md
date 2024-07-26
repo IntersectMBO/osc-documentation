@@ -12,7 +12,8 @@
 ## Working Groups
 
 * [Policy Working Group](working-groups/policy-working-group.md)
-* [Project Incubation Working Group](working-groups/project-incubation-working-group.md)
+* [Project Incubation Working Group](working-groups/project-incubation-working-group/README.md)
+  * [Project Incubation Lifecycle Framewo](working-groups/project-incubation-working-group/project-incubation-lifecycle-framewo.md)
 * [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
 * [Oracles Working Group](working-groups/oracles-working-group.md)
 * [Commercialization Working Group](working-groups/commercialization-working-group.md)
