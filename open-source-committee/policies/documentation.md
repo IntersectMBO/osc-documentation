@@ -26,40 +26,42 @@ The content of these documents is largely up to the project contributors, but we
 
 ### README
 
-The project `README` should include any information that is necessary according to the [governance policy](governance.md).
+A comprehensive overview of the project. It typically includes the project's purpose, installation instructions, usage examples, and any other important information a user or contributor needs to get started. The project `README` should include any information that is necessary according to the [governance policy](governance.md).
 
 ### DESCRIPTION
 
-TBD
+Often found in projects with specific language ecosystems (e.g., R packages), this file provides metadata about the project, such as its name, version, author, and dependencies.
 
 ### LICENSE
 
-TBD
+This file contains the full text of the license under which the project is distributed, specifying the terms and conditions for using, modifying, and distributing the software.
 
 ### CONTRIBUTING.md
 
-TBD
+A guide for contributors that outlines the process for contributing to the project. It typically includes guidelines on submitting issues and pull requests, coding standards, and any other relevant contribution protocols.
 
 ### CODE OF CONDUCT
+
+A document that sets expectations for behavior within the project community to ensure a welcoming and respectful environment. It includes standards for behavior, reporting guidelines, and enforcement policies.
 
 Individual projects SHOULD use the [default Code of Conduct in this repository](https://github.com/IntersectMBO/OSC-documentation/commit/224dd0eb4edfc9a44a4a618ceeb22cadc885655c), either by copying it or creating a `CODE_OF_CONDUCT` document that just links to it.
 
 ### CODEOWNERS
 
-TBD
+A file that specifies individuals or teams responsible for specific parts of the codebase. It helps streamline the code review and approval process by automatically assigning reviewers to pull requests.
 
 ### CHANGELOG.md
 
-TBD
+A log or record of all notable changes made to the project, usually organized by version number and release date. It includes lists of added features, bug fixes, and other changes. For ease of access there should be a `CHANGELOG` at the top-level of code. For larger projects there may be individual logs, however they all major changes should be viewable or linked in the top-level `CHANGELOG`.&#x20;
 
 ### SECURITY.md
 
-TBD
+A document that outlines the project's security policies, including how to report security vulnerabilities, response times, and guidelines for responsible disclosure.
 
 ### ISSUE TEMPLATE
 
-TBD
+A predefined template for reporting bugs or suggesting features. It helps standardize the information provided by users, making it easier for maintainers to understand and address issues.
 
 ### PULL REQUEST (PR) TEMPLATE
 
-TBD
+A predefined template for submitting pull requests. It guides contributors on how to structure their pull requests, often including a checklist to ensure all necessary information and steps are included.
