@@ -24,6 +24,8 @@ The documents should be easily accessible and discoverable, ideally by being put
 
 The content of these documents is largely up to the project contributors, but we include some additional policies below In the following, when we say that a document should include information, this can either mean it includes it directly, or that it clearly links to where it can be found.
 
+## Documents
+
 ### README
 
 A comprehensive overview of the project. It typically includes the project's purpose, installation instructions, usage examples, and any other important information a user or contributor needs to get started. The project `README` should include any information that is necessary according to the [governance policy](governance.md).
@@ -57,6 +59,8 @@ A log or record of all notable changes made to the project, usually organized by
 ### SECURITY.md
 
 A document that outlines the project's security policies, including how to report security vulnerabilities, response times, and guidelines for responsible disclosure.
+
+## Other Items
 
 ### ISSUE TEMPLATE
 
