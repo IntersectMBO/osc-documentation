@@ -17,7 +17,7 @@ A project must contain the following documents:
 
 A project should contain the following documents:
 
-* `RISSUE TEMPLATE`
+* `ISSUE TEMPLATE`
 * `PULL REQUEST (PR) TEMPLATE`
 
 The documents should be easily accessible and discoverable, ideally by being put in standard locations.
