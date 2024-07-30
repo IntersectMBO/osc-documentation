@@ -1,13 +1,13 @@
 blank_issues_enabled: true
 contact_links:
   - name: Contributing guidelines
-    url: https://github.com/Roadmap Roadmap-committee-documentation/blob/master/CONTRIBUTING.md
+    url: https://github.com/IntersectMBO/OSC-documentation/blob/master/CONTRIBUTING.md
     about: Some rules & processes we honor.
 
   - name: Feature ideas
-    url: https://github.com/Roadmap Roadmap-committee-documentation/discussions/categories/ideas
+    url: https://github.com/IntersectMBO/OSC-documentation/discussions/categories/ideas
     about: Maybe someone else had the same or a similar idea already?
 
   - name: All issues
-    url: https://github.com/Roadmap Roadmap-committee-documentation/issues
+    url: https://github.com/IntersectMBO/OSC-documentation/issues
     about: Check whether your issue is not already covered here.
