@@ -1,4 +1,4 @@
-name: Feature idea Open Source Committee
+name: OSC GitBook Update
 description: Idea or request for some feature on the Roadmap Committee GitBook
 labels: [':thought_balloon: idea']
 body:
@@ -7,8 +7,8 @@ body:
       value: |
         **Thank you for contributing to our project!** :green_heart:
 
-        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/Roadmap Roadmap-committee-documentation/discussions/new?category=ideas).
-        That way, we can discuss & refine your idea together, before we adopt it as a feature into the roadmap.
+        Instead of opening this issue, consider [starting a new idea discussion](https://github.com/IntersectMBO/OSC-documentation/discussions/new?category=ideas).
+        That way, we can discuss & refine your idea together, before we adopt it as a feature into the OSC.
 
   - type: textarea
     id: why
