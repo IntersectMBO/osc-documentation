@@ -21,8 +21,6 @@ Udai Solanki as the Chief Technology Officer at eRevMax.com, bringing over 20+ y
 
 A passionate technology enthusiast, Udai has a keen interest in deep tech areas like AI and Blockchain. Since 2021, he has been actively learning and developing on the Cardano Blockchain, contributing to various open-source projects and initiatives within the Cardano ecosystem.&#x20;
 
-In addition to his role at eRevMax, Udai is the founder of AIQUANT Technologies, a tech startup, and Cloud10 Hospitality, a hospitality management company.&#x20;
-
 Outside of his tech pursuits, Udai enjoys listening to music and engaging in various outdoor sports. He is also an avid runner, having completed several half-marathons.
 
 #### Suganya:

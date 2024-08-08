@@ -42,4 +42,4 @@ The OSO has a wide range of responsibilities, including:
 * _**Cost Savings**_: Utilizing open source software can significantly reduce licensing and development costs, contributing to improved cost-efficiency for the organization.
 * _**Enhanced Innovation**_: An OSO fosters collaboration with open source communities, allowing the Intersect to tap into a wealth of innovative ideas, technologies, and solutions.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>OSO Workflow</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>OSO Workflow</p></figcaption></figure>
