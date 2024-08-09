@@ -41,4 +41,10 @@ The initial challenges Suganya faced with Cardano sparked her enthusiasm and mot
 
 #### Bernard:
 
-\
+Bernard Sibanda is a passionate Cardano Smart Contract developer, open-source advocate, visionary technology leader and educator with over two decades of experience in software development, blockchain technology and community building. Based in Johannesburg South Africa, Bernard has founded and co-founded several groundbreaking IT consulting companies, including Tobb Technologies Pty Ltd, Women In Move Solutions Pty Ltd, Coxygen Global Pty Ltd, ABL Tech Pty Ltd in Australia, and Satoshi Africa Pty Ltd.&#x20;
+
+As a seasoned Chief Technology Officer and Fullstack Developer, Bernard has made significant contributions to the blockchain space, particularly within the Cardano and Ethereum ecosystems. He has spearheaded the development of several open-source projects such as the frontend JavaScript testing library (Jimba.js), Helios Coxylib.js, Recycle Dapp and Cardano Property Solutions. This has shown his expertise in Cardano Smart Contract support.&#x20;
+
+He is one of the first Plutus Pioneer Program students, a certified Haskell/Plutus (EBU) professional, Microsoft Certified Professional, CompTIA Certified IT Technician and holds a BSc Computing \[UNISA], a B Tech in Education Management \[Technikon Pretoria], a 3 year Diploma in Philosophy and a 3 year Diploma in Education.&#x20;
+
+As an educator and mentor with over 15 years of experience teaching programming languages such as Delphi, C#, Java, C++, and Haskell, Bernard has trained numerous developers and tech professionals. His contributions to the Cardano community also extend to his role as a Catalyst Proposal Assessor/Community Reviewer and is a Funded Catalyst Proposal Submitter for Cardano’s Fund 11 (Coxygen).\
