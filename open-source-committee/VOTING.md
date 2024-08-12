@@ -68,13 +68,13 @@ members following a fairly common staggered board method:
 
 4. **Nomination & Candidacy:** There should be a transparent and easy method for
    all interested parties to submit themselves (or be nominated) for candidacy
-   in the next cohort election. The period for submitting candidacy (TBD,
-   minimum two weeks beginning on a Monday) should be enough to allow eligible
-   candidates time to attend *at least* one meeting of the committee to
-   introduce themselves (if necessary) to the other members of the committee
-   prior to voting. The *candidate forum meeting* may be a special (outside
-   regular schedule) meeting of the committee in order to not detract from
-   regular committee business.
+   in the next cohort election. The period for submitting candidacy (minimum two
+   weeks beginning on a Monday) should be enough to allow eligible candidates
+   time to attend *at least* one meeting of the committee to introduce
+   themselves (if necessary) to the other members of the committee prior to
+   voting. The *candidate forum meeting* may be a special (outside regular
+   schedule) meeting of the committee in order to not detract from regular
+   committee business.
 
 ### Candidate Criteria
 
@@ -101,13 +101,12 @@ members following a fairly common staggered board method:
 | n+1    | Retiring members hand off/complete outstanding tasks                     |
 | n+2    | Newly appointed members onboarded to the committee                       |
 
-5. **Election Method & Results:** The election shall be open to all Members of
-   Intersect and shall follow the standards and rules specified by Intersect to
-   follow the format and structure of other votes. Votes **must** use roll-call
-   voting and results **must** be published via the committee's public
-   communications channel(s).
+5. **Election Method & Results:** The election shall be open to all
+   [qualified candidates](#candidate-criteria) and shall follow the standards
+   and rules specified by Intersect. Election results _MUST_ be announced
+   through Intersect official channels.
     - **Ties & Run-Offs:** The method of resolving a tie or run-off scenario is
-      currently TBD.
+      currently to be determined by Intersect.
       > Consider ranked choice voting to help eliminate the potential for ties
       and the need for run-offs
     - **Lack of Candidates:** Should a situation arise where there is a lack of
@@ -126,13 +125,9 @@ members following a fairly common staggered board method:
     - Some proposed methods for filling vacant seats are as follows and *should*
       be considered by the committee prior to appointment of new members:
         - Runner(s) up from previous election cycles
-        - A (brief) self-nomination period for interested members of the
-          community
+        - A self-nomination period for interested members of the community
         - Nomination/referral from sitting, duly elected committee members
         - Appointment by the acting Chair
-
-> More points of order will likely need to be added here based upon feedback
-> from the OSC community.
 
 ## Rationale:
 
@@ -197,19 +192,3 @@ that should allow the committee to continuously operate effectively including:
   specific committee members need to be replaced or if new leadership is
   required, the method provides a systematic way to do so without disrupting the
   entire committee.
-
-In summary, the staggered board method combines the benefits of continuity and
-stability with the advantages of regular infusion of fresh perspectives and
-engagement. It is a well-balanced approach to committee governance that can
-contribute to the long-term success and resilience of a members-based
-organization.
-
-## Conclusion:
-
-In conclusion, implementing a voting and re-election cycle with six-month voting
-periods for our open source committee is a well-balanced approach that combines
-continuity and renewal. It ensures that the committee benefits from both
-experienced members and fresh perspectives while reducing the disruption caused
-by complete turnover. This system is designed to enhance the overall
-effectiveness, stability, and member engagement within our organization,
-ultimately contributing to its long-term success.
