@@ -8,7 +8,7 @@ This proposed system aims to ensure a balance between continuity and renewal
 within the committee, thus enhancing the overall effectiveness and stability of
 our organization.
 
-## Committee Roles:
+## Committee Membership:
 
 * **Member:** There shall be 9 (nine) elected members of the committee and 1 (
   one) appointed member from the Intersect Open Source Office (OSO). Members are
@@ -27,6 +27,9 @@ our organization.
   from Intersect. Responsible for coordinating, distributing, and sharing the
   agenda, notes, and meeting information throughout the committee members as
   well as the greater Intersect membership.
+
+## Committee Roles:
+
 * **Chair:** Must be elected internally (by the committee) from the 9 elected
   members of the committee. Expected to lead meetings of the OSC and help set
   and prioritize agenda items.
