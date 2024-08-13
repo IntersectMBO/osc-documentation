@@ -3,6 +3,7 @@
 ## ABOUT
 
 * [😬 Open Source Committee Charter](README.md)
+  * [Committee Members](about/readme/committee-members.md)
   * [OSC Communications](about/readme/osc-communications.md)
   * [OSC Engagement](about/readme/osc-engagement.md)
   * [OSC Voting Policy](about/readme/osc-voting-policy.md)
