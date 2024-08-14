@@ -2,8 +2,20 @@
 
 ## Committee Composition
 
-1 Chair
+Chair: Nicholas Clarke - Tweag/Modus Create
 
-9 Seats (1 of which is Open Source Office Representative)
+Vice Chair: Sandip Pandey - Dquadrant
 
-1 Secretary
+Intersect Open Source Office(OSO) Representative:
+
+Secretary: Terence McCutcheon (Tex) - Intersect, Open Source Office
+
+Seats (7):
+
+* Adam Dean - DripDropz (DDZ)
+* Ronald Span - Dquadrant
+* Philip DiSarro - Anastasia Labs
+* TBD Pending Ongoing Election
+* TBD Pending Ongoing Election
+* TBD Pending Ongoing Election
+* TBD Pending Ongoing Election
