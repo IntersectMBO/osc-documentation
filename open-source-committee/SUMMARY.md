@@ -7,6 +7,7 @@
   * [OSC Communications](about/readme/osc-communications.md)
   * [OSC Engagement](about/readme/osc-engagement.md)
   * [OSC Voting Policy](about/readme/osc-voting-policy.md)
+  * [How to Join or Contact Us?](about/readme/how-to-join-or-contact-us.md)
 * [🤠 Open Source Office (OSO)](about/open-source-program-office-ospo.md)
   * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
   * [😍 2024 OSO Roadmap](about/2024-ospo-roadmap.md)
