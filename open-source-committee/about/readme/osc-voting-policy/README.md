@@ -2,7 +2,7 @@
 
 ##
 
-{% file src="../../.gitbook/assets/OSC Voting Details Final (1).pdf" %}
+{% file src="../../../.gitbook/assets/OSC Voting Details Final (1).pdf" %}
 
 ## OSC Voting Policy
 
@@ -30,7 +30,7 @@ The following method and criteria are proposed for the (re)election of OSC membe
 
 1. **Term:** All members of the OSC shall be elected for a period of service of one year. No member of the committee, except for bootstrapping members during the bootstrapping phase, may serve for a period of longer than one year without standing for re-election.
 2. **Term Limits:** Given that members of the OSC should be elected to their position meritoriously based upon their contributions, there are no capped term limits currently imposed.
-3. **Cohorts:** The membership of the committee should be broken up into two cohorts that face election cycles bi-annually (one election every 6 months). This provides numerous benefits as detailed in the [rationale](osc-voting-policy.md#rationale) below. Voting periods shall be held in October and April of each year to coincide with the Annual Members Meeting (AMM) in October and the 6-month point between.
+3. **Cohorts:** The membership of the committee should be broken up into two cohorts that face election cycles bi-annually (one election every 6 months). This provides numerous benefits as detailed in the [rationale](./#rationale) below. Voting periods shall be held in October and April of each year to coincide with the Annual Members Meeting (AMM) in October and the 6-month point between.
 
 #### Election Schedule for Cohorts
 
@@ -57,7 +57,7 @@ The following method and criteria are proposed for the (re)election of OSC membe
 | n+1    | Retiring members hand off/complete outstanding tasks                     |
 | n+2    | Newly appointed members onboarded to the committee                       |
 
-5. **Election Method & Results:** The election shall be open to all [qualified candidates](osc-voting-policy.md#candidate-criteria) and shall follow the standards and rules specified by Intersect. Election results _MUST_ be announced through Intersect official channels.
+5. **Election Method & Results:** The election shall be open to all [qualified candidates](./#candidate-criteria) and shall follow the standards and rules specified by Intersect. Election results _MUST_ be announced through Intersect official channels.
    *   **Ties & Run-Offs:** The method of resolving a tie or run-off scenario is currently to be determined by Intersect.
 
        > Consider ranked choice voting to help eliminate the potential for ties and the need for run-offs
