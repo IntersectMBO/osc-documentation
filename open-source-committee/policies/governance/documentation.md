@@ -28,7 +28,7 @@ The content of these documents is largely up to the project contributors, but we
 
 ### README
 
-A comprehensive overview of the project. It typically includes the project's purpose, installation instructions, usage examples, and any other important information a user or contributor needs to get started. The project `README` should include any information that is necessary according to the [governance policy](governance.md).
+A comprehensive overview of the project. It typically includes the project's purpose, installation instructions, usage examples, and any other important information a user or contributor needs to get started. The project `README` should include any information that is necessary according to the [governance policy](./).
 
 ### DESCRIPTION
 

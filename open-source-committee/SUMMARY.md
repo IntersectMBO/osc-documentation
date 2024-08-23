@@ -29,10 +29,11 @@
 ## Policies
 
 * [Introduction](policies/introduction.md)
-* [Governance](policies/governance.md)
-* [Documentation](policies/documentation.md)
-* [Legal](policies/legal.md)
-* [Glossary](policies/glossary.md)
+* [Governance Policy](policies/governance/README.md)
+  * [Documentation](policies/governance/documentation.md)
+  * [Legal](policies/governance/legal.md)
+  * [Glossary](policies/governance/glossary.md)
+* [Security Policy](policies/security-policy.md)
 
 ## OSC Meeting Minutes
 
