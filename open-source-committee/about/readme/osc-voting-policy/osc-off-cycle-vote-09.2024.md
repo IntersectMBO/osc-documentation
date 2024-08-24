@@ -40,4 +40,3 @@ The election shall be open to all [qualified candidates](https://intersect.gitbo
 *   **Ties & Run-Offs:** The method of resolving a tie or run-off scenario is currently to be determined by Intersect.
 
     > Consider ranked choice voting to help eliminate the potential for ties and the need for run-offs
-* **Lack of Candidates:** Should a situation arise where there is a lack of eligible candidates standing in any given cohort election cycle (i.e. only 1 seat of 3 vacancies filled), the vacant seats may be appointed pursuant to the same terms of _abdication and vacancies_ below.
