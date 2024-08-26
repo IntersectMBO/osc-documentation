@@ -28,10 +28,8 @@ Since this is a working group, we should end up with an actual artifact represen
 * Marcin Szamotulski
 * Kevin Hammond
 * Nicholas Clarke
-* Silona Bonewald
 
 ## Communications Channel(s)
 
 * Discord
 * [here](http://google.com)
-* <a href="http://google.com/" target="_blank">example</a>
