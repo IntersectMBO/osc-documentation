@@ -34,3 +34,4 @@ Since this is a working group, we should end up with an actual artifact represen
 
 * Discord
 * [here](http://google.com)
+* <a href="http://google.com/" target="_blank">example</a>
