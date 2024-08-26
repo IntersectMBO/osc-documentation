@@ -33,4 +33,4 @@ Since this is a working group, we should end up with an actual artifact represen
 ## Communications Channel(s)
 
 * Discord
-* [here](https://google.com/%22target=%22\_new)
+* [here](http://google.com)
