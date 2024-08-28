@@ -4,62 +4,44 @@ description: The current report of Repo Maturity for Intersect "Core Cardano" Pr
 
 # 📈 Current Monthly Maturity Report
 
-## Summary
+Summary
 
-In June 2024, the Cardano open-source projects showed varied levels of activity and engagement across different metrics. The data suggests an overall increase in the number of commits and active repositories compared to May 2024, although the number of authors decreased slightly. Key highlights include:
+In July 2024, the Cardano open-source ecosystem experienced a significant surge in development activity, highlighted by an increase in commits, added lines of code, and pull requests. While some repositories saw reduced activity, others, such as those within the "Ouroboros Network," experienced a notable rise in contributions. Organizational contributions were led by IOHK, with additional support from Tweag and Well-Typed, although Intersect MBO showed a slight decline. The data also revealed a shift in the contributor base, with new key contributors emerging and some previous leaders reducing their activity. Overall, the ecosystem is progressing with a focus on critical projects and improving operational efficiency.
 
-* Commits: 1852 commits were made by 86 authors across 28 repositories, showing an increase from May's 1681 commits.
-* Organizational Contributions: IOHK remained the top contributor with a slight increase in the number of commits. Also, new contributors emerged, indicating growing diversity in contributions.
-* Geographic Distribution: Significant activity shifts were observed in different time zones, with notable increases in UTC+1 and UTC+3.
-* Repository Activity: Increased activity was seen in several repositories, particularly govtool and plutus, with substantial changes in added lines and modified files.
-* Issue Management: The number of issues increased slightly, with the average time issues remained open also rising, indicating potential areas for efficiency improvements in issue resolution.
+\
+
 
 ## General Observations
 
-Diversity and Engagement:
-
-* The number of authors decreased slightly from 88 in May to 86 in June, while the number of active repositories increased from 26 to 28.&#x20;
-* New contributors emerged, highlighting a positive trend to more diverse participation.
-
 Organizational Contributions:
 
-* IOHK continued to lead in contributions, with the number of commits increasing slightly from 896 in May to 915 in June. There was a huge rise in added and removed lines.
-* Tweag's activity showed a slight increase in commits and a substantial rise in added and removed lines, indicating active development and refinement.
+* Input Output (IOHK): continued to dominate contributions with a significant increase in activity, particularly in added lines of code, which skyrocketed from 234,120 in June to 4,114,511 in July. This indicates a major development effort, potentially related to significant new features or updates.
+* Tweag and Well-Typed: showed notable increases in contributions, with Tweag's contributions growing from 694 to 941, and Well-Typed from 539 to 793. This reflects heightened engagement from these organizations.
+* Intersect MBO: saw a slight decrease in contributions from 510 in June to 457 in July, which may indicate a temporary reduction in activity or a shift in focus to fewer, but more impactful, contributions.
 
-Geographic Trends:
+Geographical Distribution of Commits:
 
-* Significant increases in commits were observed from UTC+1 (from 182 to 295) and UTC+3 (from 90 to 210), indicating growing contributions from these regions.
-* Decreases in activity from UTC+5 (dropping from 202 to 180) highlight regional variations in contributions.
+* The distribution of commit activity across time zones revealed a notable shift. Commit activity in the \*\*UTC -7\*\* (Pacific Time) and \*\*UTC -6\*\* (Central Time) zones decreased significantly, with commits dropping from 70 to 20 and from 268 to 103, respectively. This suggests reduced activity from contributors in these regions.
+* In contrast, the \*\*UTC -4\*\* (Atlantic Time) zone saw an increase in commits from 41 in June to 71 in July, indicating a rise in contributions from this geographical area. This shift could reflect changes in the active contributor base or shifts in project focus towards regions with greater contributor engagement.
 
-Repository Dynamics:
+Project-Specific Insights:
 
-* The govtool repository saw a notable increase in activity, with commits rising from 297 in May to 315 in June, and a substantial increase in added lines, suggesting concentrated efforts on significant updates.
-* The Plutus repository experienced a significant increase in commits.
+* Ouroboros Network: repository experienced a significant increase in commits, jumping from 168 in June to 317 in July. This rise in activity, along with increased contributions from multiple authors, indicates that this project is a major focus of development efforts.
+* Cardano Ledger: saw a sharp decline in activity, with commits dropping from 346 in June to 148 in July. The reduced number of added and removed lines of code suggests that this project may be entering a phase of stabilization or maintenance rather than active development.
+* Ouroboros Consensus: also saw an increase in activity, with commits rising from 146 to 239, though the added lines of code decreased significantly. This might indicate a focus on refactoring or optimizing existing code rather than introducing new features.
+* Plutus: maintained relatively stable commit activity but saw a significant reduction in added and removed lines of code, suggesting smaller-scale updates or refinements rather than large new features.
 
-Issue Resolution:
+Repository Activity:
 
-* The number of issues increased from 412 in May to 450 in June, with the average time issues remained open rising from 5.478 days to 6.281 days. This indicates a potential need for improvements in the issue resolution process.
+* Across the board, repository activity in July was marked by a focus on fewer projects but with more intensive development efforts. The number of active repositories decreased from 35 in June to 31 in July, indicating a strategic narrowing of focus on key projects.
+* Per Repository Activity\*\* showed that repositories such as "Ouroboros Network" and "Ouroboros Consensus" saw increased activity, reflecting their importance in the current development cycle. In contrast, "Cardano Ledger" and others saw a decline, suggesting a shift in priority or a completion of significant phases of work.
+* The overall increase in pull requests, from 537 in June to 575 in July, points to active code integration and feature finalization processes. However, with fewer repositories receiving PRs (27 in June down to 21 in July), the focus seems to be on consolidating efforts in critical areas of the ecosystem.
 
 Conclusion
 
-Overall, the data for May 2024 reflects a healthy and evolving open-source ecosystem within Cardano, with increased diversity in contributions, improved issue resolution efficiency, and ongoing development across various projects and regions. These trends align with the strategic goals of enhancing technical sustainability, governance, and community engagement.
+The July 2024 report highlights a period of intensified development activity within the Cardano open-source ecosystem, with a clear focus on critical projects and improving operational efficiency. While organizational contributions were strong, particularly from IOHK, the evolving contributor base and shifting focus towards key repositories reflect a dynamic environment adapting to strategic priorities. The improvements in issue resolution times and pull request activity suggest that the processes supporting this development are becoming more effective. Moving forward, maintaining this momentum while ensuring alignment with long-term strategic goals will be essential to sustaining the growth and success of the ecosystem.
 
-## Strategic Alignment
-
-The trends observed in June 2024 align well with the strategic goals and pillars set for the Cardano open-source projects:
-
-1. Community Engagement and Collaboration:
-   1. The slight increase in active repositories and the emergence of new contributors support the goal of enhancing community engagement and fostering diverse contributions.
-   2. The increased activity in repositories like govtool and plutus reflects ongoing efforts to ensure the reliability and quality of key projects.
-2. Technical Sustainability:
-   1. The significant updates and restructuring efforts by IOHK align with the goal of maintaining a robust, secure, and adaptable codebase.
-   2. The consistent activity in repositories reflects ongoing efforts to ensure the reliability and quality of key projects.
-3. Governance and Decision-Making:
-   1. The significant geographic distribution of contributions, particularly the increases from UTC+1 and UTC+3, supports the vision of a decentralized and community-led project.
-   2. The need for improvements in issue resolution efficiency, as indicated by the rise in average time issues remaining open, aligns with the goal of establishing efficient and transparent processes for managing project health and community feedback.
-
-Overall, the data for June 2024 reflects a healthy and evolving open-source ecosystem within Cardano, with increased diversity in contributions and ongoing development across various projects and regions. These trends support the strategic goals of enhancing technical sustainability, governance, and community engagement, positioning Cardano for continued growth and success in the open-source domain.
+\
 
 
-
-{% file src=".gitbook/assets/Monthly Maturity Report - June 2024 Published Version.pdf" %}
+{% file src=".gitbook/assets/Monthly Maturity Report - July 24.pdf" %}

@@ -8,6 +8,7 @@
   * [OSC Engagement](about/readme/osc-engagement.md)
   * [OSC Voting Policy](about/readme/osc-voting-policy/README.md)
     * [OSC Off-Cycle Vote 09.2024](about/readme/osc-voting-policy/osc-off-cycle-vote-09.2024.md)
+    * [Open Source Committee Nominees](about/readme/osc-voting-policy/open-source-committee-nominees.md)
   * [How to Join or Contact Us?](about/readme/how-to-join-or-contact-us.md)
 * [🤠 Open Source Office (OSO)](about/open-source-program-office-ospo.md)
   * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)

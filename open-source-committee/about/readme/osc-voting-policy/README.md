@@ -1,7 +1,5 @@
 # OSC Voting Policy
 
-##
-
 {% file src="../../../.gitbook/assets/OSC Voting Details Final (1).pdf" %}
 
 ## OSC Voting Policy
