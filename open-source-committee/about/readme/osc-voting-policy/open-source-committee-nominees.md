@@ -6,10 +6,6 @@ I've worked on various open source projects as either the contributor, or initia
 
 {% embed url="https://www.linkedin.com/in/mangermann/" %}
 
-## Pablo Balondani <a href="#h.yha9glr21vw_l" id="h.yha9glr21vw_l"></a>
-
-I have already participated in an open source project for 6 months.
-
 ## Robin Boening <a href="#h.mh48mj4go8ky_l" id="h.mh48mj4go8ky_l"></a>
 
 My experience in Open Source as a Developer, Core Contributor and Co-Maintainer go back almost 15 years.
@@ -21,25 +17,11 @@ Please find more info on my GitHub profile:  [https://github.com/robinboening\
 
 {% embed url="https://www.linkedin.com/in/robin-b%C3%B6ning-25725485/" %}
 
-## Akilimali Cizungu <a href="#h.2wjsy3ps0i7_l" id="h.2wjsy3ps0i7_l"></a>
-
-Open Source Professionnel&#x20;
-
-{% embed url="https://www.linkedin.com/in/akilimali-innocent-7649951a8/" %}
-
 ## Nicolas Henin <a href="#h.vtgl5ni8806a_l" id="h.vtgl5ni8806a_l"></a>
 
 I am developing on Cardano for more than 3 years now : Implemented an ICO mechanism where 6 millions ada have been exchanged, delivered audited smart contract for World Mobile and I am core Maintainer of the Marlowe Project.
 
 {% embed url="https://www.linkedin.com/in/nhenin/" %}
-
-## Anita Ihuman <a href="#h.1smj5wbev7m0_l" id="h.1smj5wbev7m0_l"></a>
-
-I have over four years of contributing to open-source communities like Layer5, CHAOSS,  Sustain OSS, and TheGoodDocs project. I have led great efforts in open source around DEI, Documentation, Community growth, and sustainability. I am a member of the CHAOSS board of directors, where I lead transformative initiatives in Diversity, Equity, and Inclusion (DEI) and community health and analytics. And lead the DEI WG in Sustain OSS where we are creating resources to help support DEI implementation. I also contribute as a community manager at Layer5, a leading service mesh company, where I champion efforts around contributor onboarding and experience.&#x20;
-
-I have also mentored young girls through esteemed organizations such as AnitaB.org, WeTech, and SheCodeAfrica.
-
-{% embed url="https://www.linkedin.com/in/anita-ihuman/" %}
 
 ## Ruth Ikegah  <a href="#h.lslns5gjlyz3_l" id="h.lslns5gjlyz3_l"></a>
 
@@ -72,4 +54,3 @@ I have been part of the Cardano community since 2021 and now I lead a community 
 I have more than 1+ year of experiences as developer.&#x20;
 
 {% embed url="https://www.linkedin.com/in/faizanshaikh-here/" %}
-
