@@ -12,6 +12,7 @@
   * [How to Join or Contact Us?](about/readme/how-to-join-or-contact-us.md)
 * [🤠 Open Source Office (OSO)](about/open-source-program-office-ospo.md)
   * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
+  * [😎 Partnerships](about/open-source-program-office-ospo/partnerships.md)
   * [😍 2024 OSO Roadmap](about/2024-ospo-roadmap.md)
   * [😉 True Open Source Maturity Pilot](about/true-open-source-maturity-pilot.md)
   * [😲 Developer Advocate Program](about/open-source-program-office-ospo/developer-advocate-program.md)
