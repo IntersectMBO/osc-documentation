@@ -20,7 +20,6 @@
 
 ## Working Groups
 
-* [Policy Working Group](working-groups/policy-working-group.md)
 * [Project Incubation Working Group](working-groups/project-incubation-working-group/README.md)
   * [Project Incubation Lifecycle Framework](working-groups/project-incubation-working-group/project-incubation-lifecycle-framework.md)
 * [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
