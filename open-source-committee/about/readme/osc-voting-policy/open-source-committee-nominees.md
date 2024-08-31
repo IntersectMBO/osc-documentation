@@ -51,6 +51,8 @@ I have been part of the Cardano community since 2021 and now I lead a community 
 
 ## Faizan Shaikh <a href="#h.mg29e2sf3tmh_l" id="h.mg29e2sf3tmh_l"></a>
 
-I have more than 1+ year of experiences as developer.&#x20;
+I have been an active member of the Cardano community since 2022, participating in IdeaScale from Fund 9 onwards. My experience spans various projects on Cardano, including DeFi, DEX, and others, giving me a multi-dimensional understanding of the ecosystem. I have written smart contracts using Haskell and Plutus and am now learning Aiken to streamline the development process.
+
+In addition to my technical work, I have been involved in Cardano workshops in Pune, where I actively contribute to spreading knowledge about Cardano. I look forward to connecting with other members and participating in future workshops.
 
 {% embed url="https://www.linkedin.com/in/faizanshaikh-here/" %}
