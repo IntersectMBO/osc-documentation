@@ -1,5 +1,7 @@
 # Open Source Committee Nominees
 
+### To access the Voting Platform: [https://oscvote.smmn.app/](https://oscvote.smmn.app/) <a href="#h.ik0gzyh3ugn1_l" id="h.ik0gzyh3ugn1_l"></a>
+
 ## Moritz Angermann <a href="#h.ik0gzyh3ugn1_l" id="h.ik0gzyh3ugn1_l"></a>
 
 I've worked on various open source projects as either the contributor, or initiator. I currently serve as a core maintainer on cardano-node-api and cardano-node-cli. I also bring extensive knowledge regarding the (core Cardano) tech stack.
