@@ -22,7 +22,7 @@ The configuration of an open project enables frictionless contributing. Projects
 
 ## Code of Conduct
 
-[The Code of Conduct](https://github.com/IntersectMBO/OSC-documentation/blob/master/CODE-OF-CONDUCT.md) governs this project and everyone participating. By participating, you are expected to uphold this code. Please report unacceptable behavior to [oso@intersectmbo.org](https://github.com/IntersectMBO/committee-documentation-template/blob/main/oso@intersectmbo.org).
+[The Code of Conduct](https://github.com/IntersectMBO/osc-documentation/blob/master/CODE-OF-CONDUCT.md) governs this project and everyone participating. By participating, you are expected to uphold this code. Please report unacceptable behavior to [oso@intersectmbo.org](https://github.com/IntersectMBO/committee-documentation-template/blob/main/oso@intersectmbo.org).
 
 ## Reporting Bugs
 
@@ -55,7 +55,7 @@ When contributing to this project, you must agree that you have authored 100% of
 
 ## Your First Code Contribution
 
-Need help determining where to begin contributing to [OSC Documentation](https://github.com/IntersectMBO/OSC-documentation)? You can start by looking through these `beginner` and `help-wanted` issues:
+Need help determining where to begin contributing to [osc-documentation](https://github.com/IntersectMBO/osc-documentation)? You can start by looking through these `beginner` and `help-wanted` issues:
 
 - `Beginner` issues - issues that should only require a few lines of code and a test or two.
 - `Help wanted` issues - issues which should be a bit more involved than `beginner` issues.
