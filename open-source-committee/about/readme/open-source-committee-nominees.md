@@ -80,8 +80,22 @@ I'm not a full-time dev, but I have over 20y experience in IT. Over the years I'
 
 Open Source/OS Project Experience: 3 - 5 Years
 
-\- Collaborator (still in place) and contributor to the following organizations: Catalyst, EMURGO Academy, SWARM, LATAM Cardano community.
-
 \- Team member of: [Gimbalabs](https://x.com/gimbalabs), [MeshJS](https://x.com/meshsdk), Co-founder of: [Andamio](https://x.com/AndamioPlatform) platform.&#x20;
+
+I'm a dedicated advocate for open-source development within the Cardano ecosystem. Particularly known for my involvement with Gimbalabs, a project dedicated to providing educational resources and tools that foster growth and innovation within the Cardano community. Gimbalabs aims to empower developers by offering Project Based Learning experience leading to building on the Cardano blockchain.
+
+My advocacy for collaborative development has provide me a good understanding of open source principles: building communities where developers can contribute openly, promoting a culture of shared innovation. My commitment to teaching blockchain development using open-source tools aligns with the philosophy of knowledge sharing and community-driven learning, contributing to enhance access to decentralized technologies.
+
+Here are some key aspects of his knowledge and engagement with open source:
+
+\- _**Collaborative Development**_**:** I'm actively involved in building communities where developers can contribute to projects openly, encouraging contributions from people around the world, promoting the collaborative nature of open-source development.
+
+\- _**Education and Sharing Knowledge**_: My commitment to teaching blockchain development through open-source tools aligns with the philosophy of knowledge sharing and community-driven learning. By making learning resources and development frameworks publicly available, I enhance access to decentralized technologies.
+
+\- _**Building Ecosystems**_: Through my involvement in Gimbalabs, MeshJS, Andamio, and other community initiatives worldwide, I support the creation of open source ecosystems where developers can build on top of one another's work. This helps accelerate innovation in the Cardano ecosystem by leveraging the collective efforts of a diverse global community.
+
+\- _**Open Innovation**_: I emphasize the importance of open source contributions in fostering innovation, particularly in the blockchain space. By engaging with Cardano's open-source community, I help create decentralized solutions that can be improved and maintained by many developers, ensuring transparency and security.
+
+In summary, I promote the creation of open source ecosystems that enable developers to build on each other's work, accelerating innovation in the Cardano ecosystem. I emphasize the importance of open source contributions in fostering transparency and security, helping to ensure that decentralized solutions can be continuously improved and maintained by a diverse global community.
 
 [https://www.linkedin.com/in/seb-pabon/](https://www.linkedin.com/in/seb-pabon/)
