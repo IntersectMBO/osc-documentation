@@ -16,13 +16,7 @@
 
 Recording: [Open Source Committee (Intersect) – 2024/09/20 07:51 CDT – Recording](https://drive.google.com/file/d/1ODN8ZmDZHIlNSDicgY9vlwxg9i\_J30CT/view?usp=sharing)
 
-\
-
-
 Transcript: [Open Source Committee (Intersect) – 2024/09/20 07:51 CDT – Transcript](https://docs.google.com/document/d/1SQjg6Bx4CNO0AgRmz1pywQgioqEoFnu63zibbbCKitA/edit?usp=sharing)
-
-\
-
 
 Chat Transcript: [https://drive.google.com/file/d/1gVsX3\_Sj7ueucWGFAoDSHxOmL9g7SoWV/view?usp=sharing](https://drive.google.com/file/d/1gVsX3\_Sj7ueucWGFAoDSHxOmL9g7SoWV/view?usp=sharing)
 
