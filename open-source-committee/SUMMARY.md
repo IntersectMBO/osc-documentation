@@ -62,6 +62,7 @@
   * [🙃 (08/08/2024) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/08-08-2024-meeting-minutes.md)
   * [🤠 (08/22/2024) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/08-22-2024-meeting-minutes.md)
   * [😵 (09/05/2024) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/09-05-2024-meeting-minutes.md)
+  * [🧔 (09/20/2024) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/09-20-2024-meeting-minutes.md)
 
 ## All Monthly Reports
 
