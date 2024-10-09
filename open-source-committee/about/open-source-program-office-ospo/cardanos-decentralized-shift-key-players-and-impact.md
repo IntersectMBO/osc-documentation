@@ -8,7 +8,7 @@ description: >-
 
 ### The Organizations Behind Cardano (September 2024)
 
-These reports, completed in September 2024, provides an in-depth analysis of the organizations that have driven the Cardano open-source ecosystem over the past 12 months (from August 2023 to August 2024) in comparison with the previous 12 month period. The report primarily focuses on the contributions from different organizations in Intersect's GitHub repositories (Core Cardano), tracking contributions in terms of code (commits), issues, pull requests (PRs), and comments on issues/PRs. The analysis provides key insights into the evolving role of various organizations within the ecosystem, with a special emphasis on Intersect MBO’s growing influence and the shift in focus from major contributors like Input Output (IOHK).
+These [reports](cardanos-decentralized-shift-key-players-and-impact.md#reports), completed in September 2024, provides an in-depth analysis of the organizations that have driven the Cardano open-source ecosystem over the past 12 months (from August 2023 to August 2024) in comparison with the previous 12 month period. The report primarily focuses on the contributions from different organizations in Intersect's GitHub repositories (Core Cardano), tracking contributions in terms of code (commits), issues, pull requests (PRs), and comments on issues/PRs. The analysis provides key insights into the evolving role of various organizations within the ecosystem, with a special emphasis on Intersect MBO’s growing influence and the shift in focus from major contributors like Input Output (IOHK).
 
 #### Key Findings:
 
@@ -68,3 +68,9 @@ This companion report provides a visual analysis of the Cardano open-source ecos
 The reports highlight the critical role of organizational collaboration in sustaining Cardano's core development. The increasing leadership from groups like Tweag, Well-Typed, and BinarApps signals a positive shift toward a more decentralized and resilient ecosystem.&#x20;
 
 However, challenges still need to be addressed, notably the backlog of issues and pull requests in governance-related repositories, which must be addressed to ensure the ecosystem's health and avoid future development bottlenecks. Overall, the results show an encouraging and positive outlook.
+
+### Reports:
+
+{% file src="../../.gitbook/assets/Bitergia Insights Report - The Organizations Behind Cardano.pdf" %}
+
+{% file src="../../.gitbook/assets/Bitergia Insights Report - Cardano in 8 Charts.pdf" %}
