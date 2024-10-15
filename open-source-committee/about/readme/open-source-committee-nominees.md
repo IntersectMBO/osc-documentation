@@ -2,7 +2,11 @@
 
 ### Back to all Committee Candidates: [Committee Candidates](https://app.gitbook.com/s/PTouV0f6Si1oWdMQe9Cb/committee-elections/candidates-for-committee-elections-2024) <a href="#h.ik0gzyh3ugn1_l" id="h.ik0gzyh3ugn1_l"></a>
 
-
+[OSC Candidate Intro Interview – Intersect Committee Elections 1](https://youtu.be/KUknGulpQAY?feature=shared)\
+[OSC Candidate Intro Interview – Intersect Committee Elections 2](https://youtu.be/zWcdq\_r4zvw)\
+[OSC Candidate Intro Interview – Intersect Committee Elections 3](https://x.com/IntersectOSO/status/1844455237287076292)\
+OSC Candidate Intro Interview – Intersect Committee Elections 4 -TBD\
+OSC Candidate Intro Interview – Intersect Committee Elections 5 -TBD
 
 ### Adam Dean
 
