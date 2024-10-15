@@ -5,7 +5,7 @@
 [OSC Candidate Intro Interview – Intersect Committee Elections 1](https://youtu.be/KUknGulpQAY?feature=shared)\
 [OSC Candidate Intro Interview – Intersect Committee Elections 2](https://youtu.be/zWcdq\_r4zvw)\
 [OSC Candidate Intro Interview – Intersect Committee Elections 3](https://x.com/IntersectOSO/status/1844455237287076292)\
-OSC Candidate Intro Interview – Intersect Committee Elections 4 -TBD\
+[OSC Candidate Intro Interview – Intersect Committee Elections 4](https://youtu.be/L5JHEaOoUPg) \
 OSC Candidate Intro Interview – Intersect Committee Elections 5 -TBD
 
 ### Adam Dean
