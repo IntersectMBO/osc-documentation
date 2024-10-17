@@ -12,6 +12,7 @@
   * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
   * [Cardano’s Decentralized Shift: Key Players and Impact](about/open-source-program-office-ospo/cardanos-decentralized-shift-key-players-and-impact.md)
   * [😎 Partnerships](about/open-source-program-office-ospo/partnerships.md)
+  * [Project Support Services](about/open-source-program-office-ospo/project-support-services.md)
   * [😍 2024 OSO Roadmap](about/2024-ospo-roadmap.md)
   * [😉 True Open Source Maturity Pilot](about/true-open-source-maturity-pilot.md)
   * [😲 Developer Advocate Program](about/open-source-program-office-ospo/developer-advocate-program.md)
