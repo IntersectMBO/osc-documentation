@@ -2,6 +2,8 @@
 
 ### Request for Project Support: [Support Services Survey](https://forms.clickup.com/9015279944/f/8cnmga8-13635/JABH2WVEOIS8Q4UAGU)
 
+This survey is designed to assist the Open Source Office in determining an appropriate supply timeline and to seek to provde support to as many projects as possible.&#x20;
+
 ### Background:&#x20;
 
 In the ever-evolving landscape of Cardano, open source projects serve as catalysts for innovation, driving progress and collaboration. However, the intricacies of managing these projects can present formidable challenges. Recognizing this, Intersect's Open Source Office (OSO) stands ready to provide crucial support services.
@@ -18,7 +20,6 @@ We take a data driven approach to working with our project and maintainer commun
 
 These services will be offered as part of community stability, but do not replace developers on the projects themselves and are never meant to be in the critical path of a project release or a full time resource. Our goal in providing these shared services is to cultivate projects on Cardano and the builders graduating and incubating projects, offering sandbox projects in the space to grow into incubating projects.
 
-\
-
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 \
