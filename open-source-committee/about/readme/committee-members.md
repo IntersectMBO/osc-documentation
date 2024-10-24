@@ -6,15 +6,16 @@
 
 | Role                                             | Name                                                     | Term Rotation            |
 | ------------------------------------------------ | -------------------------------------------------------- | ------------------------ |
-| Chair                                            | Nicholas Clarke - Tweag/Modus Create                     | October                  |
-| Vice Chair                                       | Sandip Pandey - Dquadrant                                | April                    |
-| Intersect Open Source Office(OSO) Representative | Christian Taylor                                         | N/A - OSO Representative |
+| Chair                                            | TBD                                                      | April/October '25        |
+| Vice Chair                                       | Sandip Pandey - Dquadrant                                | April '25                |
+| Intersect Open Source Office(OSO) Representative | Christian Taylor, Head of Open Source Office             | N/A - OSO Representative |
 | Secretary                                        | Terence McCutcheon (Tex) - Intersect, Open Source Office | N/A - Secretary          |
-| Committee Seat                                   | Adam Dean - DripDropz (DDZ)                              | October                  |
-| Committee Seat                                   | Ronald Span - Dquadrant                                  | October                  |
-| Committee Seat                                   | Philip DiSarro - Anastasia Labs                          | October                  |
-| Committee Seat                                   | Moritz Angermann                                         | April                    |
-| Committee Seat                                   | Robin Boening                                            | April                    |
-| Committee Seat                                   | Nicolas Henin                                            | April                    |
-| Committee Seat                                   | Diane Mueller                                            | April                    |
+| Committee Seat                                   | Adam Dean - DripDropz (DDZ)                              | October '25              |
+| Committee Seat                                   | Sebastian Pabon - GimbaLabs                              | October '25              |
+| Committee Seat                                   | Pedro Lucas - 45B                                        | October '25              |
+| Committee Seat                                   | Johnny Kelly - Intertree                                 | October '25              |
+| Committee Seat                                   | Robin Boening                                            | April '25                |
+|  Committee Seat                                  | Nicolas Henin                                            | April '25                |
+| Committee Seat                                   | Diane Mueller - Bitergia                                 | April '25                |
+| Committee Seat                                   | Moritz Angermann - IOG                                   | April '25                |
 
