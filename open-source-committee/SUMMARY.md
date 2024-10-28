@@ -8,7 +8,7 @@
   * [OSC Engagement](about/readme/osc-engagement.md)
   * [Open Source Committee Nominees](about/readme/open-source-committee-nominees.md)
   * [How to Join or Contact Us?](about/readme/how-to-join-or-contact-us.md)
-* [🤠 Open Source Office (OSO)](about/open-source-program-office-ospo.md)
+* [🤠 Open Source Office (OSO)](about/open-source-office-oso/README.md)
   * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
   * [Cardano’s Decentralized Shift: Key Players and Impact](about/open-source-program-office-ospo/cardanos-decentralized-shift-key-players-and-impact.md)
   * [😎 Partnerships](about/open-source-program-office-ospo/partnerships.md)
