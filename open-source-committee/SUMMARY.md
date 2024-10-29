@@ -6,7 +6,6 @@
   * [Committee Members](about/readme/committee-members.md)
   * [OSC Communications](about/readme/osc-communications.md)
   * [OSC Engagement](about/readme/osc-engagement.md)
-  * [Open Source Committee Nominees](about/readme/open-source-committee-nominees.md)
   * [How to Join or Contact Us?](about/readme/how-to-join-or-contact-us.md)
 * [🤠 Open Source Office (OSO)](about/open-source-office-oso/README.md)
   * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
