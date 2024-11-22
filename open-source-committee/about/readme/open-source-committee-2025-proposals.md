@@ -1,3 +1,9 @@
+---
+description: >-
+  Review the OSC Budget Proposals! If you have questions, see our Contact Us
+  page.
+---
+
 # Open Source Committee 2025 Proposals
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-11-07 at 1.24.41 PM.png" alt=""><figcaption></figcaption></figure>
