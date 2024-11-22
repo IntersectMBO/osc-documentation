@@ -10,7 +10,7 @@ description: >-
 ## **Report Contents:**
 
 This report serves as a baseline for a situation analysis aimed at evaluating and marking key areas for improvement within the Cardano open-source ecosystem. The analysis was conducted through a series of situation use cases, each assessed with a simple pass or fail metric. These assessments provide a comprehensive overview of Cardano's open-source performance on a 14-point scale.\
-[PDF Link to detailed report](https://docs.google.com/document/d/1ASr\_-0fX361VbI46ti2fmGNN5rlWYbOB6ZQ2bTLVieI/edit).\
+[PDF Link to detailed report](https://docs.google.com/document/d/1ASr_-0fX361VbI46ti2fmGNN5rlWYbOB6ZQ2bTLVieI/edit).\
 [Google Sheet Results.](https://docs.google.com/spreadsheets/d/1HaSRa3OMDtzxqxm7dOSu5KItGb3FSpHuoenYOTeWWJ8/edit?gid=0#gid=0)
 
 <details>
@@ -19,57 +19,31 @@ This report serves as a baseline for a situation analysis aimed at evaluating an
 
 * Limited Contributor Engagement
 
-<!---->
-
-* Inefficient Code Contribution Process
-
-<!---->
+- Inefficient Code Contribution Process
 
 * Unclear Governance Decision-Making
 
-<!---->
-
-* Lack of Diversity in Contributions
-
-<!---->
+- Lack of Diversity in Contributions
 
 * Communication Channel Ineffectiveness
 
-<!---->
-
-* Bug Bounty Program Underutilization
-
-<!---->
+- Bug Bounty Program Underutilization
 
 * Documentation Fragmentation
 
-<!---->
-
-* Ineffective Recognition System
-
-<!---->
+- Ineffective Recognition System
 
 * Lack of Clarity in Governance Model
 
-<!---->
-
-* Quality Assurance Oversight
-
-<!---->
+- Quality Assurance Oversight
 
 * Ineffective Community Meetings
 
-<!---->
-
-* Unclear Collaborative Roadmap
-
-<!---->
+- Unclear Collaborative Roadmap
 
 * Lack of User Feedback Integration
 
-<!---->
-
-* Inadequate Education and Training
+- Inadequate Education and Training
 
 </details>
 
@@ -115,11 +89,11 @@ This report serves as a baseline for a situation analysis aimed at evaluating an
 
 ## Assessment Results:
 
-**Overall Result: **<mark style="color:green;">**PASS**</mark>
+**Overall Result:&#x20;**<mark style="color:green;">**PASS**</mark>
 
-**Resulting Pass Rate: **<mark style="color:orange;">**60%**</mark>&#x20;
+**Resulting Pass Rate:&#x20;**<mark style="color:orange;">**60%**</mark>&#x20;
 
-**Letter Grade: **<mark style="color:orange;">**D**</mark>
+**Letter Grade:&#x20;**<mark style="color:orange;">**D**</mark>
 
 | Pass Rate Range: | Letter Grade: |
 | :--------------: | :-----------: |
@@ -157,10 +131,10 @@ This report serves as a baseline for a situation analysis aimed at evaluating an
 
 
 **Given, When, Then:**\
-_**Given**_ a new contributor who has just joined the project,
+&#xNAN;_**Given**_ a new contributor who has just joined the project,
 
 _**When**_ they go through the onboarding process,\
-_**Then**_, they&#x20;
+&#xNAN;_**Then**_, they&#x20;
 
 * find the documentation clear and accessible,&#x20;
 * receive adequate mentorship,&#x20;
@@ -174,7 +148,7 @@ _**Then**_, they&#x20;
 **Use Case:** Test the collaboration workflow by real code contributions. Assess the efficiency of the process, from submission to review and merging, ensuring a smooth and collaborative open-source development environment.
 
 **Given, When, Then:**\
-_**Given**_ a contributor ready to submit their code,
+&#xNAN;_**Given**_ a contributor ready to submit their code,
 
 _**When**_ they follow the collaboration workflow,
 
@@ -189,7 +163,7 @@ _**Then,**_ they&#x20;
 **Use Case:** Simulate a governance decision-making scenario. Test the transparency and inclusivity of the governance mechanisms, including voting processes and community involvement, ensuring clear decision-making pathways.
 
 **Given, When, Then:**\
-_**Given**_ a Cardano community member is interested in understanding and potentially participating in the governance process,
+&#xNAN;_**Given**_ a Cardano community member is interested in understanding and potentially participating in the governance process,
 
 _**When**_ they access and explore the available resources,
 
@@ -206,7 +180,7 @@ _**Then**_, they&#x20;
 **Use Case:** Evaluate the effectiveness of diversity and inclusion initiatives by measuring the increase in contributions from individuals with diverse backgrounds. Test the open-source community's inclusivity regarding gender, ethnicity, and other factors.
 
 **Given, When, Then:**\
-_**Given**_ the Cardano project to foster a more diverse and inclusive contributor base,
+&#xNAN;_**Given**_ the Cardano project to foster a more diverse and inclusive contributor base,
 
 _**When**_ diversity and inclusion initiatives are implemented and tracked,
 
@@ -221,7 +195,7 @@ _**Then**_ the project&#x20;
 **Use Case:** Test the communication channels by introducing a hypothetical critical issue. Assess how effectively the channels convey information, facilitate discussion, and resolve concerns among open-source contributors.
 
 **Given, When, Then:**\
-_**Given**_ a Cardano contributor encountering a question, concern, or needing information,
+&#xNAN;_**Given**_ a Cardano contributor encountering a question, concern, or needing information,
 
 _**When**_ they utilize the established communication channels,
 
@@ -238,7 +212,7 @@ _**Then,**_ they&#x20;
 **Use Case:** Simulate the discovery and reporting of a security vulnerability. Evaluate the bug bounty program's responsiveness, effectiveness in identifying issues, and its role in enhancing the overall security posture of Cardano's open-source projects.
 
 **Given, When, Then:**\
-_**Given**_ a security researcher with a potential vulnerability identified in a Cardano open-source project,
+&#xNAN;_**Given**_ a security researcher with a potential vulnerability identified in a Cardano open-source project,
 
 _**When**_ they utilize the established bug bounty program to report the vulnerability,
 
@@ -255,7 +229,7 @@ _**Then,**_ they&#x20;
 **Use Case:** Test the collaborative features of the documentation platform by having contributors update a section. Assess how easy contributors can provide feedback, suggest edits, and collectively improve project documentation.
 
 **Given, When, Then:**\
-_**Given**_ a specific section of Cardano's open-source project documentation that requires improvement.
+&#xNAN;_**Given**_ a specific section of Cardano's open-source project documentation that requires improvement.
 
 _**When**_ contributors are invited to edit, suggest changes, and collaborate on the section through the documentation platform.
 
@@ -270,7 +244,7 @@ _**Then,**_ the platform&#x20;
 **Use Case:** Introduce a recognition and rewards scenario. Test the functionality and fairness of the recognition system by acknowledging contributors for their specific achievements, ensuring it motivates continued and diverse contributions.
 
 **Given, When, Then:**\
-_**Given**_, a contributor makes a significant contribution to the Cardano project.
+&#xNAN;_**Given**_, a contributor makes a significant contribution to the Cardano project.
 
 _**When**_ the recognition system identifies and acknowledges their achievement through a reward or public recognition.
 
@@ -286,7 +260,7 @@ _**Then,**_&#x20;
 **Use Case:** Introduce a governance model for projects. Test the functionality and fairness of the governance model by having contributors collaborate with maintainers in a transparent format and have a consensus vote taken for an action.
 
 **Given, When, Then:**\
-_**Given**_ a new proposal introduced within the Cardano community.
+&#xNAN;_**Given**_ a new proposal introduced within the Cardano community.
 
 _**When**_ discussions and voting occur, contributors clearly understand their roles, decision-making process, and active participation potential.
 
@@ -302,7 +276,7 @@ _**Then,**_&#x20;
 **Use Case:** Introduce a real code review scenario. Test the integration of quality assurance practices, ensuring that code reviews maintain high standards and contributors actively maintain the quality of Cardano's open-source codebase.
 
 **Given, When, Then:**\
-_**Given**_ a contributor submits a code change for the Cardano codebase.
+&#xNAN;_**Given**_ a contributor submits a code change for the Cardano codebase.
 
 _**When**_ the code review process thoroughly evaluates it, ensuring alignment with quality standards and best practices.
 
@@ -318,7 +292,7 @@ _**Then,**_&#x20;
 **Use Case:** Simulate a community meeting with essential updates. Test the effectiveness of the meeting in disseminating information, addressing concerns, and fostering a sense of community engagement among open-source contributors.
 
 **Given, When, Then:**\
-_**Given**_ an upcoming community meeting with essential updates for Cardano project contributors.
+&#xNAN;_**Given**_ an upcoming community meeting with essential updates for Cardano project contributors.
 
 _**When**_ the meeting effectively disseminates information, addresses concerns, and fosters engagement.
 
@@ -333,7 +307,7 @@ _**Then,**_&#x20;
 **Use Case:** Introduce a scenario where contributors express confusion about project direction. Test the collaborative roadmap by evaluating its clarity, alignment with community needs, and transparency in guiding the evolution of the Cardano open-source ecosystem.
 
 **Given, When, Then:**\
-_**Given**_: Contributors expressed confusion about the direction of the Cardano project.
+&#xNAN;_**Given**_: Contributors expressed confusion about the direction of the Cardano project.
 
 _**When**_ the collaborative roadmap is reviewed and discussed, its clarity, alignment with community needs, and transparency in guiding the project's evolution are addressed.
 
@@ -349,7 +323,7 @@ _**Then**_, the roadmap&#x20;
 **Use Case:** Test the mechanisms for incorporating user feedback. Introduce a user feedback scenario and assess how actively and effectively user perspectives are considered in open-source decision-making and development.
 
 **Given, When, Then:**\
-_**Given**_ a user feedback scenario,
+&#xNAN;_**Given**_ a user feedback scenario,
 
 _**When**_ the feedback is incorporated into the project,
 
@@ -362,7 +336,7 @@ _**Then,**_ user perspectives should be actively and effectively considered in o
 **Use Case:** Simulate a scenario where contributors express gaps in skills. Test the effectiveness of education and training programs by evaluating access to resources that enhance contributors' skills and understanding of Cardano's open-source environment.
 
 **Given, When, Then:**\
-_**Given**_ a scenario where contributors express gaps in skills,
+&#xNAN;_**Given**_ a scenario where contributors express gaps in skills,
 
 _**When**_ they access the project's education and training programs,
 

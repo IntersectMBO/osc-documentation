@@ -1,11 +1,11 @@
 # 🤠 Open Source Office (OSO)
 
 **What is the Open Source Office?**\
-_**Background:**_
+&#xNAN;_**Background:**_
 
 Open source is becoming increasingly important for Cardano as it provides access to faster development, community involvement, and allows for greater innovation through collaboration with the broader ecosystem. However, managing open source software can be challenging, which is where an Open Source Office (OSO) comes in.\
 \
-_**Definition:**_
+&#xNAN;_**Definition:**_
 
 An OSO is a dedicated team responsible for managing Intersect open source strategy, policy, and processes. It ensures that Intersect and its projects are in compliance with open source licenses, contributes back to the open source community, and maximizes the benefits of using open source.
 
