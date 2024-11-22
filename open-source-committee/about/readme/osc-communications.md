@@ -17,7 +17,7 @@ We connect the Cardano community through our website, social media, events, and 
 3. Promoting Trust: Ensuring open communication and shared ownership to foster trust and collaboration.
 4. Expanding Reach: Leveraging global contributions to enhance our projects with diverse perspectives and expertise.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 The Open Source Office (OSO) and OSC aims to foster collaboration, transparency, and community engagement through effective communication. We are utilizing LinkedIn, Discord, Twitter, and YouTube to reach and engage with our community and stakeholders.
 
