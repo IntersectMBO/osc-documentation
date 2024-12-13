@@ -26,7 +26,8 @@
 * [Oracles Working Group](working-groups/oracles-working-group/README.md)
   * [Oracles Charter](working-groups/oracles-working-group/oracles-charter.md)
   * [Rules of Order](working-groups/oracles-working-group/rules-of-order.md)
-* [Commercialization Working Group](working-groups/commercialization-working-group.md)
+* [Commercialization Working Group](working-groups/commercialization-working-group/README.md)
+  * [SWOT Analysis](working-groups/commercialization-working-group/swot-analysis.md)
 
 ## Policies
 
