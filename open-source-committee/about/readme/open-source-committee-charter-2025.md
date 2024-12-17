@@ -10,13 +10,13 @@ The OSC is responsible to handle any dispute resolution that may be required bet
 
 ### Mission
 
-### Intersect’s Open Source Committee fosters the development and evolution of Cardano as a community-led, decentralized open-source project. Our mission is to support the growth of Cardano through community-driven decision-making. We are committed to providing tools, policies, and guidance to ensure its success, adaptability, and accessibility.
+Intersect’s Open Source Committee fosters the development and evolution of Cardano as a community-led, decentralized open-source project. Our mission is to support the growth of Cardano through community-driven decision-making. We are committed to providing tools, policies, and guidance to ensure its success, adaptability, and accessibility.
 
 ### Vision
 
-### The Open Source Committee envisions a future where the Cardano Open Source Project (COSP) is strongly led by a thriving and diverse community, with its development process free from dominance by any single entity.
+The Open Source Committee envisions a future where the Cardano Open Source Project (COSP) is strongly led by a thriving and diverse community, with its development process free from dominance by any single entity.
 
-### We foresee a future where the project is known for both its technological excellence and its democratic, inclusive development process. Cardano will exemplify a decentralized and stable ecosystem where every contributor plays its part.&#x20;
+We foresee a future where the project is known for both its technological excellence and its democratic, inclusive development process. Cardano will exemplify a decentralized and stable ecosystem where every contributor plays its part.&#x20;
 
 ### OSC responsibilities:
 
