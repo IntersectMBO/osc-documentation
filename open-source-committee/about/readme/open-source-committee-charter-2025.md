@@ -38,9 +38,6 @@ The OSC encourages the open, canonical, and trusted standing of the COSP within 
 
 This is important because COSP is more than a collection of open source GitHub repositories; it represents the source code for the binaries deployed onto the Cardano mainnet, via the Haskell node.
 
-\
-
-
 #### Sustainable:
 
 _Ensure the continued development of the COSP._
@@ -51,8 +48,7 @@ Through strategic planning, stakeholder engagement, and rigorous evaluation, the
 
 #### Quality:&#x20;
 
-_Promote the security and health of the Cardano mainnet._&#x20;
-
+_Promote the security and health of the Cardano mainnet._ \
 \
 The OSC ensures that open source policies guide contributions to be at the highest quality possible by closely monitoring improvements and new directions in open source development.&#x20;
 
