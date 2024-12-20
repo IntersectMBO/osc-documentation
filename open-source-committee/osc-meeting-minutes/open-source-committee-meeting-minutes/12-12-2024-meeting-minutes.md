@@ -1,4 +1,4 @@
-# (12/12/2024) Meeting Minutes
+# 😅 (12/12/2024) Meeting Minutes
 
 ## Attendees:&#x20;
 
