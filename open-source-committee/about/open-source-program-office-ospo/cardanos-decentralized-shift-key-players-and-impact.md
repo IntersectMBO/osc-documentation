@@ -4,7 +4,7 @@ description: >-
   Bitergia Analytics, Intersect's exclusive metrics provider!
 ---
 
-# Cardano’s Decentralized Shift: Key Players and Impact
+# 📊 Cardano’s Decentralized Shift: Key Players and Impact
 
 ### The Organizations Behind Cardano (September 2024)
 
