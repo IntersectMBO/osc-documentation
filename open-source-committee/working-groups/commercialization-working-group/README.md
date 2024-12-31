@@ -62,7 +62,7 @@ This working group is community lead initiative and only facilitated by Intersec
 | Chair      | Pat Sheridan                                                                                                                                                                                 | Serve as agenda setter, moving the working group in direction of it’s assigned or agreed objectives |
 | Vice Chair | Saman Far                                                                                                                                                                                    | Support the chair in the same capacity and serve as delegate if chair unavailable                   |
 | Secretary  | Tex McCutcheon                                                                                                                                                                               | Serves as liaison for working group, taking minutes, publications, and admin                        |
-| Seats      | yRonald Span, Sheldon Hunt, Nick Cook, Sergio Mora, Nenad Tanaskovic,  Bart Kacicki, Christian Taylor, Ramik Sarva, Tomasz Cichowicz, Youry Brauner, Kyle Solomon, Pedro Lucas, Kris Kowalsk | Serve as decision body composition, analysis work, and contribution to working group directly       |
+| Seats      | Ronald Span, Sheldon Hunt, Nick Cook, Sergio Mora, Nenad Tanaskovic,  Bart Kacicki, Christian Taylor, Ramik Sarva, Tomasz Cichowicz, Youry Brauner, Kyle Solomon, Pedro Lucas, Kris Kowalsky | Serve as decision body composition, analysis work, and contribution to working group directly       |
 
 ### Voting Procedure
 
