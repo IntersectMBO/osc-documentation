@@ -1,42 +1,43 @@
 ---
-description: Approved by the OSC on (2/16/24)
+description: Approved by the OSC on (12/19/24)
 ---
 
-# 😍 2024 OSO Roadmap
+# 😛 2025 OSO Roadmap
 
-Public Deck Available Here: [https://docs.google.com/presentation/d/1jIburc13RppwphKJGa22mRWh1SXLKs\_d655kWu7M3SU/edit#slide=id.g26690c0b6d8\_0\_203](https://docs.google.com/presentation/d/1jIburc13RppwphKJGa22mRWh1SXLKs\_d655kWu7M3SU/edit#slide=id.g26690c0b6d8\_0\_203)
+Public Deck Available Here: [OSO Detailed Design 2025](https://docs.google.com/presentation/d/1hnLrnqs5LhxlzleM0mi5JxGx5nYltiwhfWua30sOuDo/edit?usp=sharing)&#x20;
 
 _**All items here are subject to change each quarterly cadence by the Open Source Committee.**_
 
-Establishing Open Source in 2024:\
-Intersect's OS strategy centers on building a robust foundation for OSO operations, emphasizing effective governance and strategic alignment. Pilot testing initiatives will provide valuable insights and enhance adaptability. The approach extends to ensuring legal compliance, fostering collaboration, promoting inclusivity and diversity, and maintaining a commitment to continuous improvement. This involves refining strategies and optimizing processes based on feedback, establishing a dynamic and evolving framework.\
+Open Source in 2025:\
+Intersect’s Open Source (OS) strategy focuses on effective governance, strategic alignment, and community-driven growth to ensure the sustainability and advancement of the Cardano ecosystem. In 2025, this strategy builds on prior initiatives by scaling operations through deeper community engagement, ecosystem expansion, and strategic partnerships, while prioritizing adaptability, inclusivity, and compliance.
+
+Key efforts include refining the **Paid Open Source Model (POSM)** to sustain critical projects, piloting initiatives that enhance ecosystem-wide collaboration, and fostering inclusivity through diversity programs and global community-building. By integrating advanced metrics, improving documentation, and embedding security and compliance practices, Intersect ensures open-source maturity while optimizing innovation and sustainability. This evolving framework supports a dynamic, thriving ecosystem that balances long-term growth with progressive advancements.\
 \
-Quarter 1 of 2024: **Governance and Foundations**
+Quarter 1 of 2025: **Governance and Foundations**
 
-1. Establish OSO governance model and structure
-2. Develop open source strategy and policies
-3. Functional reporting areas for delivery assurance
-4. GitHub audit for policy alignment
-5. Testing Criteria for open source strategy
+1. Expand OSO Governance and Structure
+2. Enhance Community Engagement (Accreditation)
+3. Launch Open Source Education and Training
+4. Develop a Recognition and Rewards System
 
-Quarter 2 of 2024: **Pilots and Optimization**
+Quarter 2 of 2025: **Pilots and Optimization**
 
-1. Implement open source pilots to test open source proof of concept&#x20;
-2. Develop metrics and reporting mechanisms&#x20;
-3. Refine strategy and policies based on pilot insights&#x20;
-4. Define project incubation process
+1. Introduce Advanced Metrics and Reporting
+2. Enhance Project Incubation Process
+3. Implement Security and Compliance Initiatives
+4. Improve Documentation Standards
 
-Quarter 3 of 2024: **Compliance and Collaboration**
+Quarter 3 of 2025: **Compliance and Collaboration**
 
-1. Conduct legal compliance audit and update documentation&#x20;
-2. Identify strategic collaboration opportunities&#x20;
-3. Onboard external open source projects
+1. Deepen Strategic Collaborations
+2. Implement Diversity and Inclusion Programs
+3. Expand Ecosystem with New Projects
+4. Launch Open Source Fellowship Programs
 
-Quarter 4 of 2024: **Continuous Improvement**
+Quarter 4 of 2025: **Continuous Improvement**
 
-1. Refine open source policies and strategy&#x20;
-2. Implement inclusion initiatives&#x20;
-3. Optimize release management process
-
-<figure><img src="../.gitbook/assets/OSC Roadamp Ver 2.PNG" alt=""><figcaption><p>Roadmap View for Q1 and Q2 </p></figcaption></figure>
+1. Refine Open Source Policies Continuously
+2. Foster Innovation and Technology Advancement
+3. Build a Global Community
+4. Update Legal and Governance Frameworks
 
