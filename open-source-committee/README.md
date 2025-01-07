@@ -1,4 +1,4 @@
-# 😬 Open Source Committee Charter
+# 🙂 Open Source Committee Charter
 
 ## What is the Open Source Committee (OSC)?
 

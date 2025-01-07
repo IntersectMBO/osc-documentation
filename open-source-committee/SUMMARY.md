@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [😬 Open Source Committee Charter](README.md)
+* [🙂 Open Source Committee Charter](README.md)
   * [Committee Members](about/readme/committee-members.md)
   * [Open Source Committee 2025 Proposals](about/readme/open-source-committee-2025-proposals.md)
   * [OSC Communications](about/readme/osc-communications.md)
