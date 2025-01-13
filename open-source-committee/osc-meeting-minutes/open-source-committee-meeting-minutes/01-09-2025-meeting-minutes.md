@@ -23,7 +23,7 @@ Community/Other Attendees
 * Matt Laux
 * Udai Solanki
 
-**Recording:** [Open Source Committee (Intersect) - 2025/01/09 07:56 CST - Recording 2](https://drive.google.com/file/d/1FWQjySC6V1Ja7MshFkmsqqisbJ8bubzZ/view?usp=sharing)
+**Recording:** [Open Source Committee (Intersect) - 2025/01/09 07:56 CST - Recording ](https://drive.google.com/file/d/1FWQjySC6V1Ja7MshFkmsqqisbJ8bubzZ/view?usp=sharing)
 
 **Transcript:** [Open Source Committee (Intersect) - 2025/01/09 07:56 CST - Transcript](https://docs.google.com/document/d/1qITboh_XMd-hvCsTqBZ1qdvBuX5kroOa9usIA2eZlZk/edit?usp=sharing)
 
