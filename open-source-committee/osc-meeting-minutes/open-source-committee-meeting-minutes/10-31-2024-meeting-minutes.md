@@ -1,4 +1,4 @@
-# 🙃 Page(10/31/2024) Meeting Minutes
+# 🙃 (10/31/2024) Meeting Minutes
 
 {% hint style="info" %}
 The October 17th Meeting was held privately to finalize OSC Budget for Internal Review.&#x20;
@@ -53,6 +53,8 @@ The October 17th Meeting was held privately to finalize OSC Budget for Internal 
 * Review Current Priorities/Tasking of OSC
 * OSC Candidates Onboarding
 * Open Forum
+
+**Decision: OSC Approved Budget Proposal Request 3.2M ADA**
 
 | Discussion Point             | Notes                                                                                                                                                                            | Actions: Responsible / Note                                                                                          |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
