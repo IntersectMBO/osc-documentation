@@ -54,7 +54,7 @@ The October 17th Meeting was held privately to finalize OSC Budget for Internal 
 * OSC Candidates Onboarding
 * Open Forum
 
-**Decision: OSC Approved Budget Proposal Request 3.2M ADA**
+**Decision: OSC Approved Budget Proposal Request 3.2M USD**
 
 | Discussion Point             | Notes                                                                                                                                                                            | Actions: Responsible / Note                                                                                          |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
