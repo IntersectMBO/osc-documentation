@@ -1,4 +1,4 @@
-# Project Incubation Lifecycle Framework
+# 😋 Project Incubation Lifecycle Framework
 
 INTERSECT&#x20;
 
@@ -33,7 +33,7 @@ The Project Lifecycle Framework designed for the Open Source Committee Cardano i
 
 ## Incubation
 
-### Stage Definition
+### Definition
 
 This is the initial phase of a project, characterized by setting up the foundation and infrastructure necessary for future development and growth. Projects in this stage typically have early stage (or even no) codebases, minimal documentation, and a small number of contributors (1-3 usually).
 
@@ -90,7 +90,7 @@ This is the initial phase of a project, characterized by setting up the foundati
 
 ## Growth
 
-### Stage Definition
+### Definition
 
 Growth stage is characterized by a significant increase in activity around the project. The project gains traction with a growing number of contributors and users. It requires stabilization and normalization in infrastructure, processes, and community management.
 
@@ -132,11 +132,11 @@ Growth stage is characterized by a significant increase in activity around the p
 
 
 
-## Maturity
+## Maturity and Maintenance
 
 Continuing from Growth, the next critical phase in the Project Lifecycle Framework is the Maturity stage. This stage is characterized by the project having established a stable and active community, a solid technical foundation, and achieving broad recognition in the industry.
 
-### Stage Definition
+### Definition
 
 At this stage, the project is well-established, with stable releases, a loyal user base, and a robust contributor community. It is recognized for its reliability and is a go-to solution in its domain. Also it is self sustainable.
 
@@ -185,7 +185,7 @@ At this stage, the project is well-established, with stable releases, a loyal us
 
 Transitioning from the Maturity stage, the Decline stage might follow in the Project Lifecycle. This phase is characterized by a gradual reduction in activity, community engagement, and innovation, which if not managed properly, can lead to stagnation or eventual abandonment of the project.
 
-### Stage Definition
+### Definition
 
 In this stage, the project experiences a decrease in active contributors, slowing innovation, and potentially reduced user interest. This might be due to technological reasons, competitive alternatives emerging, or a shift in community interests.
 
@@ -234,13 +234,13 @@ Imagine a project in the field of DeFi that has entered the Decline stage due to
 
 
 
-## Abandonment
+## Archive
 
-The final phase in the Project Lifecycle Framework is the Abandonment stage. This stage is reached when a decision is made to officially end active development and support for the project. Although it marks the end of active project lifecycle, managing this stage effectively is important to ensure a respectful and strategic closure.
+The final phase in the Project Lifecycle Framework is the Archive stage. This stage is reached when a decision is made to officially end active development and support for the project. Although it marks the end of active project lifecycle, managing this stage effectively is important to ensure a respectful and strategic closure.
 
-### Stage Definition
+### Definition
 
-Abandonment stage occurs when a project is officially retired or abandoned. This equals no further development, support, or maintenance planned. The project may still be used or referenced, but it no longer evolves.
+The Archive stage occurs when a project is officially retired or abandoned. This equals no further development, support, or maintenance planned. The project may still be used or referenced, but it no longer evolves.
 
 ### Criteria
 
@@ -293,4 +293,4 @@ By thoughtfully managing the Abandonment stage, the project can conclude on a po
 \
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

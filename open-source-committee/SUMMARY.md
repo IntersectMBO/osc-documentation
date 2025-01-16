@@ -17,19 +17,17 @@
   * [😉 True Open Source Maturity Pilot](about/true-open-source-maturity-pilot.md)
   * [😲 Developer Advocate Program](about/open-source-program-office-ospo/developer-advocate-program.md)
   * [📜 Intersecting Open Source and Sustainability:  A Paid Open Source Model for Ecosystems](about/open-source-office-oso/intersecting-open-source-and-sustainability-a-paid-open-source-model-for-ecosystems.md)
+  * [😋 Project Incubation Lifecycle Framework](about/open-source-office-oso/project-incubation-lifecycle-framework/README.md)
+    * [Project Incubation WG (Archive)](about/open-source-office-oso/project-incubation-lifecycle-framework/project-incubation-working-group.md)
   * [😍 2024 OSO Roadmap (Archive)](about/open-source-office-oso/2024-ospo-roadmap-1.md)
 * [🤩 Open Source Strategy](about/open-source-strategy.md)
 
 ## Working Groups
 
-* [Project Incubation Working Group](working-groups/project-incubation-working-group/README.md)
-  * [Project Incubation Lifecycle Framework](working-groups/project-incubation-working-group/project-incubation-lifecycle-framework.md)
 * [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
-* [Oracles Working Group](working-groups/oracles-working-group/README.md)
-  * [Oracles Charter](working-groups/oracles-working-group/oracles-charter.md)
-  * [Rules of Order](working-groups/oracles-working-group/rules-of-order.md)
 * [Commercialization Working Group](working-groups/commercialization-working-group/README.md)
   * [SWOT Analysis](working-groups/commercialization-working-group/swot-analysis.md)
+* [Open Source Libraries Working Group](working-groups/open-source-libraries-working-group.md)
 
 ## Policies
 
