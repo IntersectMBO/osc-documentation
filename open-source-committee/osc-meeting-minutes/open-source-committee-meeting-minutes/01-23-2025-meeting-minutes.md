@@ -1,4 +1,4 @@
-# (01/23/2025) Meeting Minutes
+# 🙂 (01/23/2025) Meeting Minutes
 
 ## Attendees:&#x20;
 
