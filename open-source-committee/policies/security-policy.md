@@ -1,4 +1,4 @@
-# Security Policy
+# 🔐 Security Policy
 
 ## &#x20; Intersect Security Policy | Security Working Group
 

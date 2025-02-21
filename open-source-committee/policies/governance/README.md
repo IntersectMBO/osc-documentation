@@ -1,4 +1,4 @@
-# Governance Policy
+# 📜 Governance Policy
 
 NOTE: Please consult the [glossary](glossary.md) for definitions of terms and acronyms.
 
@@ -81,9 +81,9 @@ Voting is a simple way to build consensus, by asking each member of the group to
 
 The standard voting process is for voters to issue one of the following votes:
 
-* \+1: positive vote
+* +1: positive vote
 * 0: abstention
-* \-1: negative vote
+* -1: negative vote
 
 Normally when seeking a binding decision, a majority should be sufficient to decide in favour of a motion, but in some circumstances it may be appropriate to treat any negative vote as a veto. This is because the point is to elicit a group consensus: if the vote does not seem like enough for the group to settle on the outcome, then it may be necessary to escalate.
 

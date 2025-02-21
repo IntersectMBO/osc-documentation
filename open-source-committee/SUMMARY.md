@@ -9,17 +9,17 @@
   * [OSC Engagement](about/readme/osc-engagement.md)
   * [How to Join or Contact Us?](about/readme/how-to-join-or-contact-us.md)
 * [🤠 Open Source Office (OSO)](about/open-source-office-oso/README.md)
-  * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
-  * [📊 Cardano’s Decentralized Shift: Key Players and Impact](about/open-source-program-office-ospo/cardanos-decentralized-shift-key-players-and-impact.md)
+  * [😛 2025 OSO Roadmap](about/open-source-office-oso/2024-ospo-roadmap/README.md)
+    * [😍 2024 OSO Roadmap (Archive)](about/open-source-office-oso/2024-ospo-roadmap/2024-ospo-roadmap.md)
+  * [😲 Developer Advocate Program](about/open-source-program-office-ospo/developer-advocate-program.md)
   * [😎 Partnerships](about/open-source-program-office-ospo/partnerships.md)
   * [👨‍🏫 Project Support Services](about/open-source-program-office-ospo/project-support-services.md)
-  * [😛 2025 OSO Roadmap](about/2024-ospo-roadmap.md)
+  * [📊 Cardano’s Decentralized Shift: Key Players and Impact](about/open-source-program-office-ospo/cardanos-decentralized-shift-key-players-and-impact.md)
+  * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
   * [😉 True Open Source Maturity Pilot](about/true-open-source-maturity-pilot.md)
-  * [😲 Developer Advocate Program](about/open-source-program-office-ospo/developer-advocate-program.md)
   * [📜 Intersecting Open Source and Sustainability:  A Paid Open Source Model for Ecosystems](about/open-source-office-oso/intersecting-open-source-and-sustainability-a-paid-open-source-model-for-ecosystems.md)
   * [😋 Project Incubation Lifecycle Framework](about/open-source-office-oso/project-incubation-lifecycle-framework/README.md)
     * [Project Incubation WG (Archive)](about/open-source-office-oso/project-incubation-lifecycle-framework/project-incubation-working-group.md)
-  * [😍 2024 OSO Roadmap (Archive)](about/open-source-office-oso/2024-ospo-roadmap-1.md)
 * [🤩 Open Source Strategy](about/open-source-strategy.md)
 
 ## Working Groups
@@ -32,14 +32,14 @@
 ## Policies
 
 * [Introduction](policies/introduction.md)
-* [Governance Policy](policies/governance/README.md)
+* [📜 Governance Policy](policies/governance/README.md)
   * [Documentation](policies/governance/documentation.md)
   * [Legal](policies/governance/legal.md)
   * [Glossary](policies/governance/glossary.md)
-* [Security Policy](policies/security-policy.md)
+* [🔐 Security Policy](policies/security-policy.md)
 * [🪜 Contribution Ladder Framework](policies/contribution-ladder-framework.md)
 * [📋 Project Incubation: Acceptance Criteria](policies/project-incubation-acceptance-criteria.md)
-* [OSC Voting Policy](policies/osc-voting-policy/README.md)
+* [✅ OSC Voting Policy](policies/osc-voting-policy/README.md)
   * [OSC Off-Cycle Vote 09.2024](policies/osc-voting-policy/osc-off-cycle-vote-09.2024.md)
 
 ## OSC Meeting Minutes
