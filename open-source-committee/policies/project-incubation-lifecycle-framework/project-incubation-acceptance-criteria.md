@@ -640,26 +640,22 @@ The Project Incubation Framework fosters the growth of sustainable open-source p
   * Metric: No new comments, discussions, or support questions being addressed on GitHub, forums, or community channels.
   * Indicator: A complete lack of community interaction indicates that both the user base and maintainers have disengaged from the project.
 * Unmaintained Dependencies and Security Vulnerabilities
-*
   * Metric: Multiple outdated dependencies and known security vulnerabilities without patches or updates.
   * Indicator: An abandoned project typically stops receiving security updates, making it risky and outdated for users.
 * Significant Drop or Complete Cessation in Downloads and Usage
-*
   * Metric: Sharp decline or near-zero downloads, installations, or user activity over time.
   * Indicator: A loss in active installations and user engagement shows the project is no longer being used or trusted in production environments.
 * No Financial Support or Sponsorships
-*
   * Metric: Complete cessation of funding or sponsorships, with no incoming financial support.
   * Indicator: An absence of financial support typically follows disengagement from maintainers, reinforcing the project's unsustainability.
 * Increasing Forks and Migration to Alternatives
-*
   * Metric: Users forking the project without returning contributions upstream or moving entirely to alternative projects.
   * Indicator: Forks and migrations demonstrate that remaining users are abandoning the original project in favor of creating independent versions or using more active alternatives.
 
 \
 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXciOAzP0B_UimV07nnMqY3FpfkEKiaxREdXjNYzu8sp91_ZZWqyjLW6cK5UzOrIwF25kIOyApN3khQqQo8HMT_3wbYOnba1Gi-xXt942vntp319WJeH07qfHu1Lq0xF0_yVLWwmn4U3MVPgdse6MbUIdUk?key=XF-92MzQd96CkYi4ouCVqM1P)
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXciOAzP0B_UimV07nnMqY3FpfkEKiaxREdXjNYzu8sp91_ZZWqyjLW6cK5UzOrIwF25kIOyApN3khQqQo8HMT_3wbYOnba1Gi-xXt942vntp319WJeH07qfHu1Lq0xF0_yVLWwmn4U3MVPgdse6MbUIdUk?key=XF-92MzQd96CkYi4ouCVqM1P" alt=""><figcaption></figcaption></figure>
 
 \
 \
