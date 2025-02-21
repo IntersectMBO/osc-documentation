@@ -18,8 +18,6 @@
   * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
   * [😉 True Open Source Maturity Pilot](about/true-open-source-maturity-pilot.md)
   * [📜 Intersecting Open Source and Sustainability:  A Paid Open Source Model for Ecosystems](about/open-source-office-oso/intersecting-open-source-and-sustainability-a-paid-open-source-model-for-ecosystems.md)
-  * [😋 Project Incubation Lifecycle Framework](about/open-source-office-oso/project-incubation-lifecycle-framework/README.md)
-    * [Project Incubation WG (Archive)](about/open-source-office-oso/project-incubation-lifecycle-framework/project-incubation-working-group.md)
 * [🤩 Open Source Strategy](about/open-source-strategy.md)
 
 ## Working Groups
@@ -28,6 +26,8 @@
 * [Commercialization Working Group](working-groups/commercialization-working-group/README.md)
   * [SWOT Analysis](working-groups/commercialization-working-group/swot-analysis.md)
 * [Open Source Libraries Working Group](working-groups/open-source-libraries-working-group.md)
+* [OSC Working Group Archive](working-groups/osc-working-group-archive/README.md)
+  * [Project Incubation WG (Archive)](working-groups/osc-working-group-archive/project-incubation-working-group.md)
 
 ## Policies
 
@@ -38,7 +38,8 @@
   * [Glossary](policies/governance/glossary.md)
 * [🔐 Security Policy](policies/security-policy.md)
 * [🪜 Contribution Ladder Framework](policies/contribution-ladder-framework.md)
-* [📋 Project Incubation: Acceptance Criteria](policies/project-incubation-acceptance-criteria.md)
+* [😋 Project Incubation Lifecycle Framework](policies/project-incubation-lifecycle-framework/README.md)
+  * [📋 Project Incubation: Acceptance Criteria](policies/project-incubation-lifecycle-framework/project-incubation-acceptance-criteria.md)
 * [✅ OSC Voting Policy](policies/osc-voting-policy/README.md)
   * [OSC Off-Cycle Vote 09.2024](policies/osc-voting-policy/osc-off-cycle-vote-09.2024.md)
 
