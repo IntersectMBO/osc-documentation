@@ -37,6 +37,8 @@
   * [Legal](policies/governance/legal.md)
   * [Glossary](policies/governance/glossary.md)
 * [Security Policy](policies/security-policy.md)
+* [🪜 Contribution Ladder Framework](policies/contribution-ladder-framework.md)
+* [📋 Project Incubation: Acceptance Criteria](policies/project-incubation-acceptance-criteria.md)
 * [OSC Voting Policy](policies/osc-voting-policy/README.md)
   * [OSC Off-Cycle Vote 09.2024](policies/osc-voting-policy/osc-off-cycle-vote-09.2024.md)
 
