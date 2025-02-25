@@ -4,7 +4,7 @@ description: >-
   https://www.lfdecentralizedtrust.org/announcements/hyperledger-foundation-announces-six-new-members-including-chainlink-labs-intersect-and-layerzero-labs-spotlights-technology-in-action-at-conse
 ---
 
-# Linux Foundation Decentralized Trust (LFDT, prevousliy Hyperledger)
+# 🏗️ Linux Foundation Decentralized Trust (LFDT, prevousliy Hyperledger)
 
 We are thrilled to announce that Intersect has joined the Hyperledger Foundation, a pivotal move that underscores our commitment to open-source innovation within the Cardano ecosystem. This membership, announced during the Consensus event in Austin, Texas, marks a significant milestone in our journey toward collaborative blockchain development.
 

@@ -14,7 +14,7 @@
   * [😲 Developer Advocate Program](about/open-source-program-office-ospo/developer-advocate-program.md)
   * [😎 Strategic Partnerships](about/open-source-office-oso/partnerships/README.md)
     * [🧑‍🏫 TODO Group](about/open-source-office-oso/partnerships/todo-group.md)
-    * [Linux Foundation Decentralized Trust (LFDT, prevousliy Hyperledger)](about/open-source-office-oso/partnerships/linux-foundation-decentralized-trust-lfdt-prevousliy-hyperledger.md)
+    * [🏗️ Linux Foundation Decentralized Trust (LFDT, prevousliy Hyperledger)](about/open-source-office-oso/partnerships/linux-foundation-decentralized-trust-lfdt-prevousliy-hyperledger.md)
     * [🦉 Bitergia Analytics](about/open-source-office-oso/partnerships/bitergia-analytics.md)
   * [👨‍🏫 Project Support Services](about/open-source-program-office-ospo/project-support-services.md)
   * [📊 Cardano’s Decentralized Shift: Key Players and Impact](about/open-source-program-office-ospo/cardanos-decentralized-shift-key-players-and-impact.md)
