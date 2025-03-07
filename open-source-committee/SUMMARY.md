@@ -28,9 +28,9 @@
 * [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
 * [Commercialization Working Group](working-groups/commercialization-working-group/README.md)
   * [SWOT Analysis](working-groups/commercialization-working-group/swot-analysis.md)
-* [Open Source Libraries Working Group](working-groups/open-source-libraries-working-group.md)
 * [OSC Working Group Archive](working-groups/osc-working-group-archive/README.md)
   * [Project Incubation WG (Archive)](working-groups/osc-working-group-archive/project-incubation-working-group.md)
+  * [Open Source Libraries Working Group](working-groups/osc-working-group-archive/open-source-libraries-working-group.md)
 
 ## Policies
 

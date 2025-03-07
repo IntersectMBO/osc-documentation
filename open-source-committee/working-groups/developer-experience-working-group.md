@@ -4,19 +4,19 @@
 
 ### Purpose / Goal
 
-ÂIdentifying and presenting how Intersect MBO can facilitate improvements of the Developer Experience across Cardano ecosystem.
+Onboard, educate, and seek to improve the Developer Experience for working on Cardano, starting with Core Cardano, evolving to improve the experience building anywhere in Cardano.&#x20;
 
 ### Related committee
 
 The Open Source Committee
 
-### Working group lead
+### Working group leads - Developer Advocates
 
-Aleksei Seregin
+Aleksei Seregin, Bernard Sibanda, Suganya Raju, Udai Solanki
 
 ### Working group members
 
-Randall Harmon, Waalge/Dominic, Rupert Whitehead, Eduardo Pava. For the full list of contributors refer to the GitHub page.
+TBD
 
 ### Working group deliverables
 
@@ -34,10 +34,14 @@ Randall Harmon, Waalge/Dominic, Rupert Whitehead, Eduardo Pava. For the full lis
 
 ### Collaboration channels
 
-* [github](https://github.com/input-output-hk/Developer-Experience-working-group)
-* [discord](https://discord.com/channels/1136727663583698984/1166691173964988416)
-* [Meeting minutes](https://docs.google.com/document/d/196b\_9yoaF-J7rRC4\_5tg4UFXyh3vnH6L\_pm2tmMOh1E/edit?usp=sharing)
+* [GitHub](https://github.com/IntersectMBO/developer-experience)
+* [Discord](https://discord.com/channels/1136727663583698984/1250047836339306526) Open Source Committee>osc-working-groups>Dev Ex Working Group
+* Meeting minutes - TBD
 
-### Working Group Meeting date and time
+### Working Group Meetings
 
-Refer to the Minutes for the time of the next meeting.
+Wednesdays - 1pm UTC
+
+Thursdays - 6pm UTC
+
+The meetings alternate weekly, Please feel free to attend the meeting that best fits your schedule, or Both!
