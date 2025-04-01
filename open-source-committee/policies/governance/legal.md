@@ -2,14 +2,11 @@
 
 ## Copyright
 
-Copyright statements should be made where appropriate.
-The copyright holder for Intersect software must be "Intersect MBO".
-The copyright year should be the year of the file's creation and does not need to be updated.
+Copyright statements should be made where appropriate. The copyright holder for Intersect software must be "Intersect MBO". The copyright year should be the year of the file's creation and does not need to be updated.
 
 ## Licenses
 
-Software must be licensed using the Apache 2.0 license.
-Text-based work such as documentation should be licensed under a Creative Commons license.
+Software must be licensed using the Apache 2.0 license. Text-based work such as documentation should be licensed under a Creative Commons license.
 
 ### Applying the Apache 2.0 license to work
 
@@ -34,15 +31,13 @@ language governing permissions and limitations under the License.
 (2) a “LICENSE” file containing the full license text which can be obtained from [here](http://www.apache.org/licenses/LICENSE-2.0.txt).
 
 <details>
-<summary><b>Rationale</b></summary>
 
-Apache 2.0 is a permissive license that is widely deployed and backed by a strong community. 
-Apache 2.0 allows users the freedom to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of it under the terms of the license, without any concern about royalties. 
+<summary>Rationale</summary>
 
-A key advantage of the Apache 2.0 license is that it contains provisions that are absent from many other free and open source licenses (including the MIT license) and which provide more clarity to contributors and users alike. 
+Apache 2.0 is a permissive license that is widely deployed and backed by a strong community. Apache 2.0 allows users the freedom to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of it under the terms of the license, without any concern about royalties.
 
-However, for text we can typically be much less restrictive.
-For this a permissive license like Creative Commons is much more appropriate.
+A key advantage of the Apache 2.0 license is that it contains provisions that are absent from many other free and open source licenses (including the MIT license) and which provide more clarity to contributors and users alike.
 
-</details
+However, for text we can typically be much less restrictive. For this a permissive license like Creative Commons is much more appropriate.
 
+</details>
