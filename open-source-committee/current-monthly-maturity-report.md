@@ -4,44 +4,56 @@ description: The current report of Repo Maturity for Intersect "Core Cardano" Pr
 
 # 📈 Current Monthly Maturity Report
 
-Summary
+### Summary
 
-In July 2024, the Cardano open-source ecosystem experienced a significant surge in development activity, highlighted by an increase in commits, added lines of code, and pull requests. While some repositories saw reduced activity, others, such as those within the "Ouroboros Network," experienced a notable rise in contributions. Organizational contributions were led by IOHK, with additional support from Tweag and Well-Typed, although Intersect MBO showed a slight decline. The data also revealed a shift in the contributor base, with new key contributors emerging and some previous leaders reducing their activity. Overall, the ecosystem is progressing with a focus on critical projects and improving operational efficiency.
+In **March 2025**, the Cardano open-source ecosystem demonstrated **sustained development velocity**, with strong contributor participation, fast QA response cycles, and a major uptick in code volume. While overall growth moderated compared to February’s historic spikes, the month still marked one of the most **productive and responsive periods** in recent reporting history.
 
-\
+Major contributors like **IOHK** significantly scaled up, while others such as **BinarApps** and **Sireto Technology** tapered off — indicating a possible shift in delivery responsibility or transition of project phases. The volume of modified code soared, especially in core repos like **Cardano-ledger**, **Plutus**, and **Cardano-api**.
 
+PRs, issues, and modified files all rose, and contributors across most time zones improved their delivery pace. Most notably, issue resolution time dropped from **9.2 to just 3.2 days**, showcasing exceptional engineering responsiveness.
 
-## General Observations
+***
 
-Organizational Contributions:
+### General Observations
 
-* Input Output (IOHK): continued to dominate contributions with a significant increase in activity, particularly in added lines of code, which skyrocketed from 234,120 in June to 4,114,511 in July. This indicates a major development effort, potentially related to significant new features or updates.
-* Tweag and Well-Typed: showed notable increases in contributions, with Tweag's contributions growing from 694 to 941, and Well-Typed from 539 to 793. This reflects heightened engagement from these organizations.
-* Intersect MBO: saw a slight decrease in contributions from 510 in June to 457 in July, which may indicate a temporary reduction in activity or a shift in focus to fewer, but more impactful, contributions.
+#### Organizational Contributions
 
-Geographical Distribution of Commits:
+* **IOHK** led with 990 commits and 1,154 authors — marking a 24% contributor increase and affirming its role as the primary driver of ecosystem development.
+* **BinarApps** and **Sireto** scaled back by 33–54%, suggesting either project conclusion or strategic reallocation.
+* Author contributions remained stable for **Well-Typed** and **Unknown**, reinforcing continuity among external and unaffiliated teams.
 
-* The distribution of commit activity across time zones revealed a notable shift. Commit activity in the \*\*UTC -7\*\* (Pacific Time) and \*\*UTC -6\*\* (Central Time) zones decreased significantly, with commits dropping from 70 to 20 and from 268 to 103, respectively. This suggests reduced activity from contributors in these regions.
-* In contrast, the \*\*UTC -4\*\* (Atlantic Time) zone saw an increase in commits from 41 in June to 71 in July, indicating a rise in contributions from this geographical area. This shift could reflect changes in the active contributor base or shifts in project focus towards regions with greater contributor engagement.
+#### Geographic Distribution
 
-Project-Specific Insights:
+* **Central Europe (UTC +1)** remained the most active timezone, though activity declined modestly.
+* **UTC 0 and +2** saw notable increases in commits, suggesting diversification in regional contribution sources.
+* **India and Central Asia** **(UTC +5)** fell off sharply, reversing prior gains.
 
-* Ouroboros Network: repository experienced a significant increase in commits, jumping from 168 in June to 317 in July. This rise in activity, along with increased contributions from multiple authors, indicates that this project is a major focus of development efforts.
-* Cardano Ledger: saw a sharp decline in activity, with commits dropping from 346 in June to 148 in July. The reduced number of added and removed lines of code suggests that this project may be entering a phase of stabilization or maintenance rather than active development.
-* Ouroboros Consensus: also saw an increase in activity, with commits rising from 146 to 239, though the added lines of code decreased significantly. This might indicate a focus on refactoring or optimizing existing code rather than introducing new features.
-* Plutus: maintained relatively stable commit activity but saw a significant reduction in added and removed lines of code, suggesting smaller-scale updates or refinements rather than large new features.
+#### Repository Activity
 
-Repository Activity:
+* **Plutus** surged by +229%, signaling a renewed push in smart contract delivery.
+* **Cardano-ledger** and **Cardano-api** saw large increases in estimated file changes — likely tied to architectural updates or integration enhancements.
+* **Govtool** saw reduced code activity but remained the most QA-tested repo.
 
-* Across the board, repository activity in July was marked by a focus on fewer projects but with more intensive development efforts. The number of active repositories decreased from 35 in June to 31 in July, indicating a strategic narrowing of focus on key projects.
-* Per Repository Activity\*\* showed that repositories such as "Ouroboros Network" and "Ouroboros Consensus" saw increased activity, reflecting their importance in the current development cycle. In contrast, "Cardano Ledger" and others saw a decline, suggesting a shift in priority or a completion of significant phases of work.
-* The overall increase in pull requests, from 537 in June to 575 in July, points to active code integration and feature finalization processes. However, with fewer repositories receiving PRs (27 in June down to 21 in July), the focus seems to be on consolidating efforts in critical areas of the ecosystem.
+#### Code Volume
 
-Conclusion
+* Over **1.16 million lines were added**, and **747K removed**, making March one of the highest months on record for code throughput.
+* Total modified files rose 38% to 13,673, confirming large-scale updates across the ecosystem.
 
-The July 2024 report highlights a period of intensified development activity within the Cardano open-source ecosystem, with a clear focus on critical projects and improving operational efficiency. While organizational contributions were strong, particularly from IOHK, the evolving contributor base and shifting focus towards key repositories reflect a dynamic environment adapting to strategic priorities. The improvements in issue resolution times and pull request activity suggest that the processes supporting this development are becoming more effective. Moving forward, maintaining this momentum while ensuring alignment with long-term strategic goals will be essential to sustaining the growth and success of the ecosystem.
+#### Issue Lifecycle
 
-\
+* 224 issues submitted (+18%) across 19 repos, with **resolution time falling to 3.2 days** — a 65% improvement.
+* Top QA repos included **Govtool**, **Plutus**, and **Cardano-node**, with feedback turnaround faster than ever.
 
+#### Pull Requests
 
-{% file src=".gitbook/assets/Monthly Maturity Report - July 24.pdf" %}
+* 556 PRs submitted (+5.3%), by 67 contributors across 28 repos — sustaining the post-February velocity and confirming deep integration and delivery effort.
+
+***
+
+### Conclusion
+
+**March 2025** reflected a **well-coordinated, high-performing open-source environment**. Code volume was high, QA cycles accelerated, and contributor engagement remained strong. IOHK’s scaling played a major role, but broader organizational input and fast feedback resolution confirmed ecosystem maturity.
+
+As the Cardano community enters Q2 2025, the challenge will be to **sustain this velocity**, enable wider participation from emerging orgs, and ensure robustness across the most critical infrastructure layers.
+
+{% file src=".gitbook/assets/Monthly Maturity Report- March 2025.pdf" %}
