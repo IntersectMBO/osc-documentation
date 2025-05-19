@@ -1,8 +1,4 @@
----
-description: The current report of Repo Maturity for Intersect "Core Cardano" Projects
----
-
-# 📈 Current Monthly Maturity Report
+# Monthly Maturity Report - April 2025
 
 ### Summary
 
@@ -57,4 +53,4 @@ Although total contributor participation narrowed slightly, new regions such as 
 
 **April 2025** marked a **strategic deceleration** following a highly active March. While contribution volume declined across several metrics, the ecosystem maintained a healthy delivery rhythm. **IOHK** remained the engine of development, while increased activity from **Cardano Foundation** and a **broadening geographic footprint** reinforced ecosystem resilience. As the Cardano community continues through Q2, the emphasis will shift to **sustaining quality, improving resolution throughput, and onboarding wider participation** into stabilized infrastructure workstreams.
 
-{% file src=".gitbook/assets/Monthly Maturity Report- April 2025.pdf" %}
+{% file src="../../../.gitbook/assets/Monthly Maturity Report- April 2025.pdf" %}
