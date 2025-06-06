@@ -4,57 +4,71 @@ description: The current report of Repo Maturity for Intersect "Core Cardano" Pr
 
 # 📈 Current Monthly Maturity Report
 
-### Summary
+#### Summary
 
-In **April 2025**, the Cardano open-source ecosystem **entered a consolidation phase** following March’s delivery peak. While overall **contribution volume declined**, the month remained marked by **strong core activity, regional diversification, and continued repository-level focus**. The drop in PRs and issues reflected a natural cooldown after sprint completions, while time-to-resolution increases hinted at more complex or long-lived engineering tasks.
+In May 2025, the Cardano open-source ecosystem maintained a steady delivery cadence, following April’s structural normalization. While total contributions declined from April’s elevated levels, key metrics such as issue volume, contributor diversity, and repository coverage signaled durable engagement and broader ecosystem participation. Emerging contributors like Quviq and sustained investment from IOHK underscored the ecosystem’s stability and onboarding capabilities.
 
-Major contributors like **IOHK** maintained high commit and author counts, while previously prominent sources such as **Unknown** and **BinarApps** continued to recede. Activity consolidated around core repositories like cardano-node, cardano-ledger, and cardano-cli, signaling a pivot toward integration and interface stabilization.
-
-Although total contributor participation narrowed slightly, new regions such as **UTC +2** and **UTC +10** emerged strongly, supporting the **ongoing decentralization of development** across the Cardano ecosystem.
+The elimination of “Unknown” contributors marked a major attribution improvement, enhancing the accountability of open-source activity. Repository-level distribution remained healthy, with cardano-ledger, cardano-node, and ouroboros-consensus showing notable PR growth — reflecting a shift toward protocol evolution and infrastructure hardening. Contributor participation remained geographically diverse, with distributed commit activity across all time zones.
 
 ***
 
-### General Observations
+#### General Observations
 
-**Organizational Contributions**
+Organizational Contributions
 
-* **IOHK** led with 906 commits and 54 authors — continuing its lead role with a modest 8% growth in contributors.
-* **Unknown** and **BinarApps** saw sharp pullbacks in both commits and authors, suggesting a sustained taper in unaffiliated or automated participation.
-* **Well-Typed** and **Tweag** both increased their contributor counts, indicating stable or slightly expanded engagement despite reduced commit volume.
-
-**Geographic Distribution**
-
-* **Central Europe (UTC +1)** activity declined by 71%, shifting Cardano’s engineering core further east and south.
-* **UTC +2** and **+10** surged — increasing by 345% and 5,600% respectively — reflecting new participation from Eastern Europe and the Asia-Pacific region.
-* **India and Central Asia (UTC +5)** dropped again, continuing the downward trend seen in March.
-
-**Repository Activity**
-
-* **cardano-node** became the most active repo with 198 commits (+58%), underscoring its role in protocol-level implementation.
-* **plutus**, **lsm-tree**, and **ouroboros-consensus** all saw declines of 30–40%, suggesting a cooldown after prior intensive development.
-* **cardano-cli** gained activity (+21%), reflecting greater investment in tooling and CLI refinements.
-
-**Code Volume**
-
-* Modified files decreased from 13,673 to 7,942 among top orgs, while **IOHK** remained dominant in technical footprint.
-* **Well-Typed** and **Unknown** dropped file changes by 60–90%, aligning with broader volume contraction.
-* **Cardano Foundation** expanded file modifications by 75%, reinforcing its increasing development presence.
-
-**Issue Lifecycle**
-
-* Issue submissions dropped 20–50% across key orgs, reversing March’s QA surge.
-* Median resolution times rose for **IOHK**, **cardano-ledger**, and **cardano-cli** — suggesting increased issue complexity or triage delays.
-* Projects like **ouroboros-consensus** and **formal-ledger-specs** maintained solid responsiveness with moderate QA loads.
-
-**Pull Requests**
-
-* 392 PRs submitted (−29.5%) by 56 contributors across 17 repos — reflecting consolidation and fewer concurrent delivery threads.
-* Unique submitters and touched repositories declined by 16% and 39% respectively, consistent with a focused delivery cadence.
+* IOHK led with 819 contributions and 56 authors — a +3.7% increase in contributor count from April, underscoring its pivotal engineering role.
+* Tweag (+33%) and Quviq (new) increased author presence, while Well-Typed (−33%) and Cardano Foundation (−50%) saw minor declines.
+* Unknown authorship dropped to zero, reflecting improved identity mapping and contributor traceability.
 
 ***
 
-### Conclusion
+Repository Activity
 
-**April 2025** marked a **strategic deceleration** following a highly active March. While contribution volume declined across several metrics, the ecosystem maintained a healthy delivery rhythm. **IOHK** remained the engine of development, while increased activity from **Cardano Foundation** and a **broadening geographic footprint** reinforced ecosystem resilience. As the Cardano community continues through Q2, the emphasis will shift to **sustaining quality, improving resolution throughput, and onboarding wider participation** into stabilized infrastructure workstreams.
+* cardano-ledger (+31%) and cardano-node (+64%) posted major gains in PR volume, reflecting protocol evolution work.
+* ouroboros-consensus and cardano-cli continued consistent activity, showing maintenance and CLI refinements.
+* plutus held the top position for PRs despite a slight dip, while cardano-node-tests dropped 40%, suggesting test framework stabilization.
 
-{% file src=".gitbook/assets/Monthly Maturity Report- April 2025.pdf" %}
+***
+
+Pull Requests
+
+* 424 PRs were submitted (+1.8%) across 24 repositories by 63 contributors.
+* Submitter diversity increased, with new orgs such as Quviq entering PR flows.
+* Distribution of PRs became more even across repositories, indicating healthier load balancing in core dev activity.
+
+***
+
+Issue Lifecycle
+
+* Issue volume rose 18%, with contributions from IOHK, Galois, and formal methods teams.
+* Resolution times remained stable, and critical repo responsiveness (e.g. plutus, formal-ledger-specs) stayed high.
+* Issue attribution improved — “Unknown” issue sources disappeared entirely.
+
+***
+
+Contributor Participation
+
+* Total contributions dropped from 5,676 to 1,073 (−81%), reflecting a cooldown from April’s spike
+* Unique contributors held strong at 73, indicating a stable participation base.
+* IOHK, Tweag, and Well-Typed accounted for most activity, with Quviq joining formally.
+* The sharp drop in anonymous contributions supports the push toward greater accountability.
+
+***
+
+Geographic Representation
+
+* Time zone distribution broadened again, with strong commit activity from UTC+1, UTC+2, UTC+3, and UTC+10 — sustaining decentralization across Europe, the Middle East, and Asia-Pacific.
+* UTC+0 (Western Europe and Africa) and UTC−5 (North America) maintained steady presence.
+* No single time zone dominated commit volume, reinforcing a global development footprint.
+* UTC+10 (Australia and East Asia) continued its emergence as a growing technical hub.
+
+***
+
+#### Conclusion
+
+May 2025 reflected a period of healthy stabilization following a peak sprint cycle in March–April. The ecosystem retained strong contributor diversity, added new formal participants, and improved accountability through better GitHub attribution. With core repositories gaining momentum and decentralized geographic activity holding firm, Cardano’s open-source infrastructure remains resilient and well-positioned for deeper integration and infrastructure scaling in Q2 and beyond.
+
+\
+
+
+{% file src=".gitbook/assets/Monthly Maturity Report- May 2025.docx (1).pdf" %}
