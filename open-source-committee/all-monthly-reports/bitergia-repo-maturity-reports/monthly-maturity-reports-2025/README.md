@@ -1,6 +1,6 @@
 # Monthly Maturity Reports - 2025
 
-Welcome to the official index of Cardano’s **Open Source Maturity Reports** for 2025, published monthly by Intersect’s Open Source Office.
+Welcome to the official index of Intersect’s **Open Source Maturity Reports** for 2025, published monthly by Intersect’s Open Source Office.&#x20;
 
 These reports offer a comprehensive view into the health, evolution, and engagement patterns of Cardano’s open-source ecosystem. Each edition provides data-backed insights across key areas:
 
