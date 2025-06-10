@@ -2,6 +2,8 @@
 
 Welcome to the central hub for Intersect’s **Open Source Maturity Reports**, a monthly publication powered by analytics from **Bitergia** and produced by Intersect’s Open Source Office.
 
+View our Public Dashboard: [Intersectmbo.biterg.io](https://intersectmbo.biterg.io)
+
 These reports offer transparent, data-driven insights into the ongoing development and decentralization of Cardano’s open-source ecosystem. They help ecosystem stakeholders — including contributors, core teams, governance bodies, and community members — understand how Cardano is evolving month by month.
 
 ***
