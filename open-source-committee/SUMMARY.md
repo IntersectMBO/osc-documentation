@@ -27,7 +27,8 @@
 
 ***
 
-* [Guides and Educational Resources](guides-and-educational-resources.md)
+* [Guides and Educational Resources](guides-and-educational-resources/README.md)
+  * [Onboarding Guide for Haskell Learners](guides-and-educational-resources/onboarding-guide-for-haskell-learners.md)
 
 ## Working Groups
 
