@@ -27,7 +27,8 @@
 
 ***
 
-* [Guides and Educational Resources](guides-and-educational-resources/README.md)
+* [📚 Guides and Educational Resources](guides-and-educational-resources/README.md)
+  * [🚶‍♂️ Hitchhiker's Guide to Cardano](guides-and-educational-resources/hitchhikers-guide-to-cardano.md)
   * [😉 Onboarding Guide for Aiken Learners](guides-and-educational-resources/onboarding-guide-for-aiken-learners.md)
   * [🤯 Onboarding Guide for Haskell Learners](guides-and-educational-resources/onboarding-guide-for-haskell-learners.md)
 

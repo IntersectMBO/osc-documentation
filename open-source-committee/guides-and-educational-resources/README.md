@@ -4,7 +4,7 @@ description: >-
   inaccuracies.
 ---
 
-# Guides and Educational Resources
+# 📚 Guides and Educational Resources
 
 ## 🧠 Developer Education & Resource Guides
 
