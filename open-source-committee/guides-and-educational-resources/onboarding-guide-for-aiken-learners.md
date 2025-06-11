@@ -1,5 +1,7 @@
 ---
-description: This page is under active construction and
+description: >-
+  This page is in active construction and welcome to feedback for any
+  inaccuracies.
 ---
 
 # 😉 Onboarding Guide for Aiken Learners
