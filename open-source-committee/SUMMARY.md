@@ -25,6 +25,10 @@
   * [📜 Intersecting Open Source and Sustainability:  A Paid Open Source Model for Ecosystems](about/open-source-office-oso/intersecting-open-source-and-sustainability-a-paid-open-source-model-for-ecosystems.md)
 * [🤩 Open Source Strategy](about/open-source-strategy.md)
 
+***
+
+* [Guides and Educational Resources](guides-and-educational-resources.md)
+
 ## Working Groups
 
 * [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
