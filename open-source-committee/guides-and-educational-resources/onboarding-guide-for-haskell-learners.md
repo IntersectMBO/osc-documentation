@@ -1,3 +1,9 @@
+---
+description: >-
+  This page is in active construction and wleocme to feedback for any
+  inaccuracies.
+---
+
 # Onboarding Guide for Haskell Learners
 
 ## Getting Started with Haskell for Cardano Development
