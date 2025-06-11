@@ -28,8 +28,8 @@
 ***
 
 * [Guides and Educational Resources](guides-and-educational-resources/README.md)
-  * [Page](guides-and-educational-resources/page.md)
-  * [Onboarding Guide for Haskell Learners](guides-and-educational-resources/onboarding-guide-for-haskell-learners.md)
+  * [😉 Onboarding Guide for Aiken Learners](guides-and-educational-resources/onboarding-guide-for-aiken-learners.md)
+  * [🤯 Onboarding Guide for Haskell Learners](guides-and-educational-resources/onboarding-guide-for-haskell-learners.md)
 
 ## Working Groups
 
