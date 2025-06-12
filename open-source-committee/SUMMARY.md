@@ -14,6 +14,7 @@
     * [😍 2024 OSO Roadmap (Archive)](about/open-source-office-oso/2024-ospo-roadmap/2024-ospo-roadmap.md)
   * [😲 Developer Advocate Program](about/open-source-office-oso/developer-advocate-program/README.md)
     * [State of Developer Experience Survey](about/open-source-office-oso/developer-advocate-program/state-of-developer-experience-survey.md)
+    * [Developer Advocate Cohort #1](about/open-source-office-oso/developer-advocate-program/developer-advocate-cohort-1.md)
   * [😎 Strategic Partnerships](about/open-source-office-oso/partnerships/README.md)
     * [🧑‍🏫 TODO Group](about/open-source-office-oso/partnerships/todo-group.md)
     * [🏗️ Linux Foundation Decentralized Trust (LFDT, prevousliy Hyperledger)](about/open-source-office-oso/partnerships/linux-foundation-decentralized-trust-lfdt-prevousliy-hyperledger.md)
