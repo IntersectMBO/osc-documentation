@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# (06/12/2025) Meeting Minutes
+# 🥳 (06/12/2025) Meeting Minutes
 
 ## Attendees:&#x20;
 
