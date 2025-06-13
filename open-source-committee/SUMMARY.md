@@ -35,6 +35,7 @@
   * [🧑‍🎓 Advanced Functional Programming in Haskell](guides-and-educational-resources/advanced-functional-programming-in-haskell.md)
   * [😁 Onboarding Guide for Rust Learners](guides-and-educational-resources/onboarding-guide-for-rust-learners.md)
   * [😉 Onboarding Guide for Aiken Learners](guides-and-educational-resources/onboarding-guide-for-aiken-learners.md)
+  * [😅 Onboarding Guide for Nix Learners](guides-and-educational-resources/onboarding-guide-for-nix-learners.md)
 
 ## Working Groups
 
