@@ -31,6 +31,8 @@
 * [📚 Guides and Educational Resources](guides-and-educational-resources/README.md)
   * [🚶‍♂️ Hitchhiker's Guide to Cardano](guides-and-educational-resources/hitchhikers-guide-to-cardano.md)
   * [🤯 Onboarding Guide for Haskell Learners](guides-and-educational-resources/onboarding-guide-for-haskell-learners.md)
+  * [🎓 Functional Programming in Haskell](guides-and-educational-resources/functional-programming-in-haskell.md)
+  * [🧑‍🎓 Advanced Functional Programming in Haskell](guides-and-educational-resources/advanced-functional-programming-in-haskell.md)
   * [😁 Onboarding Guide for Rust Learners](guides-and-educational-resources/onboarding-guide-for-rust-learners.md)
   * [😉 Onboarding Guide for Aiken Learners](guides-and-educational-resources/onboarding-guide-for-aiken-learners.md)
 
