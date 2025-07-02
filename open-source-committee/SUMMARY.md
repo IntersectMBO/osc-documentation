@@ -39,6 +39,7 @@
 
 ## Working Groups
 
+* [Working Group Calendar](working-groups/working-group-calendar.md)
 * [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
 * [Commercialization Working Group](working-groups/commercialization-working-group/README.md)
   * [SWOT Analysis](working-groups/commercialization-working-group/swot-analysis.md)
