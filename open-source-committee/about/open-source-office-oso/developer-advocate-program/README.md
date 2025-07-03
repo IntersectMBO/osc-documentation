@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 😲 Developer Advocate Program
 
 {% file src="../../../.gitbook/assets/Developer Advocate Program 2025 (Public) Revised.pdf" %}
@@ -12,8 +16,13 @@ By compensating developers for their contributions and providing them with resou
 
 ### Key Dates:&#x20;
 
+**First Round**\
 Applications Open: June 16, 2025\
-Applications Close: July 25, 2025
+Applications Close: July 1, 2025\
+\
+**Second Round**\
+Applications Open: July 15, 2025\
+Applications Close: July 1, 2025
 
 Interviews: July 28, 2025 - August 15, 2025
 
