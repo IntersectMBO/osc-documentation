@@ -21,10 +21,10 @@ Applications Open: June 16, 2025\
 Applications Close: July 1, 2025\
 \
 **Second Round**\
-Applications Open: July 15, 2025\
-Applications Close: July 1, 2025
+Applications Open: July 14, 2025\
+Applications Close: August 1, 2025
 
-Interviews: July 28, 2025 - August 15, 2025
+Interviews: August 4, 2025 - August 22, 2025
 
 Cohort #2 starts: September 1st 2025
 
