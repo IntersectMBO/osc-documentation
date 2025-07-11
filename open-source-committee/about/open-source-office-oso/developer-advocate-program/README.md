@@ -1,12 +1,8 @@
----
-hidden: true
----
-
 # 😲 Developer Advocate Program
 
-{% file src="../../../.gitbook/assets/Developer Advocate Program 2025 (Public) Revised.pdf" %}
+{% file src="../../../.gitbook/assets/Developer Advocate Program July 2025 (Public).pdf" %}
 
-{% file src="../../../.gitbook/assets/JD DAP Public Revised.pdf" %}
+{% file src="../../../.gitbook/assets/JD DAP July 2025 (Public).pdf" %}
 
 Intersect, a member-based organization within the Cardano ecosystem, recognizes the importance of engaging developers and empowering them to contribute effectively to the ecosystem's growth.
 
@@ -22,7 +18,7 @@ Applications Close: July 1, 2025\
 \
 **Second Round**\
 Applications Open: July 14, 2025\
-Applications Close: August 1, 2025
+Applications Close: July 31, 2025
 
 Interviews: August 4, 2025 - August 22, 2025
 
