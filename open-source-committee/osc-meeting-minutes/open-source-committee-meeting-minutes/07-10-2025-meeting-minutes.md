@@ -1,4 +1,4 @@
-# (07/10/2025) Meeting Minutes
+# 😝 (07/10/2025) Meeting Minutes
 
 ## Attendees:&#x20;
 
