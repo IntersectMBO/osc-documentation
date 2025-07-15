@@ -134,6 +134,7 @@
     * [Monthly Maturity Report - March 2025](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-reports-2025/monthly-maturity-report-march-2025.md)
     * [Monthly Maturity Report - April 2025](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-reports-2025/monthly-maturity-report-april-2025.md)
     * [Monthly Maturity Report- May 2025](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-reports-2025/monthly-maturity-report-may-2025.md)
+    * [Monthly Maturity Report- June 2025](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-reports-2025/monthly-maturity-report-june-2025.md)
   * [Monthly Maturity Reports -  2024](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-reports-2024/README.md)
     * [Monthly Maturity Report - May 2024](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-report-may-2024.md)
     * [Monthly Maturity Report - June 2024](all-monthly-reports/bitergia-repo-maturity-reports/monthly-maturity-report-june-2024.md)

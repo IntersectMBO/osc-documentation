@@ -1,8 +1,4 @@
----
-description: The current report of Repo Maturity for Intersect "Core Cardano" Projects
----
-
-# 📈 Current Monthly Maturity Report
+# Monthly Maturity Report- June 2025
 
 Summary
 
@@ -73,4 +69,4 @@ Geographic Representation
 
 June 2025 reflected a healthy stabilization period, marked by reduced surface-level activity and increased backend development. Contributor participation remained globally distributed, and repositories showed sustained focus on refinement and infrastructure. With core components under active development and new participants entering, Cardano’s open-source foundation remains strong and well-positioned for momentum in Q3.
 
-{% file src=".gitbook/assets/Monthly Maturity Report- June 2025.pdf" %}
+{% file src="../../../.gitbook/assets/Monthly Maturity Report- June 2025.pdf" %}
