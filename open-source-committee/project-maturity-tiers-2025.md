@@ -2,12 +2,12 @@
 description: >-
   This is a comprehensive assessment by the Open Source Office to analyze the
   maturity level, with the assistance of AI, of all projects currently under
-  Intersect. Only 63 repos have been analyzed.
+  Intersect.
 ---
 
 # 🥸 Project Maturity Tiers (2025)
 
-### _Note: This process is currently underway where the OSO is working with the individual projects teams to validate results, so some project ratings are subject to change. Only 63 repos have been analyzed with more to follow._
+### _Note: This process is currently underway where the OSO is working with the individual projects teams to validate results, so some project ratings are subject to change. Only 66 repos have been analyzed with more to follow._
 
 ### Executive Summary
 
