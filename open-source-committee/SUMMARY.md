@@ -47,10 +47,6 @@
   * [Project Incubation WG (Archive)](working-groups/osc-working-group-archive/project-incubation-working-group.md)
   * [Open Source Libraries Working Group](working-groups/osc-working-group-archive/open-source-libraries-working-group.md)
 
-***
-
-* [🥸 Project Maturity Tiers (2025)](project-maturity-tiers-2025.md)
-
 ## Policies
 
 * [Introduction](policies/introduction.md)
@@ -62,6 +58,7 @@
 * [🪜 Contribution Ladder Framework](policies/contribution-ladder-framework.md)
 * [😋 Project Incubation Lifecycle Framework](policies/project-incubation-lifecycle-framework/README.md)
   * [🥹 Project Incubation: Acceptance Criteria](policies/project-incubation-lifecycle-framework/project-incubation-acceptance-criteria.md)
+* [🥸 Project Maturity Tiers (2025)](policies/project-maturity-tiers-2025.md)
 * [✅ OSC Voting Policy](policies/osc-voting-policy/README.md)
   * [OSC Off-Cycle Vote 09.2024](policies/osc-voting-policy/osc-off-cycle-vote-09.2024.md)
 
