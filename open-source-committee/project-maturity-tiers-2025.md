@@ -7,6 +7,8 @@ description: >-
 
 # 🥸 Project Maturity Tiers (2025)
 
+### _Note: This process is currently underway where the OSO is working with the individual projects teams to validate results, so some project ratings are subject to change. Only 63 repos have been analyzed with more to follow._
+
 ### Executive Summary
 
 This evaluation reviews the maturity of 66 public repositories maintained under our organization. Each repository was assessed across three critical domains: Documentation, Technical Infrastructure, and Health & Sustainability. Evaluations were derived from both internal metrics and live GitHub data, ensuring an objective and up-to-date analysis.
