@@ -47,6 +47,10 @@
   * [Project Incubation WG (Archive)](working-groups/osc-working-group-archive/project-incubation-working-group.md)
   * [Open Source Libraries Working Group](working-groups/osc-working-group-archive/open-source-libraries-working-group.md)
 
+***
+
+* [🥸 Project Maturity Tiers (2025)](project-maturity-tiers-2025.md)
+
 ## Policies
 
 * [Introduction](policies/introduction.md)
