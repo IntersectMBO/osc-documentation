@@ -2,7 +2,7 @@
 description: The current report of Repo Maturity for Intersect "Core Cardano" Projects
 ---
 
-# 📈 Current Monthly Maturity Report
+# Monthly Maturity Report - July 2025
 
 #### Summary
 
@@ -33,7 +33,7 @@ Repository Activity
 Pull Requests
 
 * 442 PRs were submitted (+70.7%) across 27 repositories by 67 contributors.
-* IOHK sustained leadership with 285 PRs, while Intersect MBO (64 PRs) and “Unknown” contributors (35 PRs) expanded sharply.
+* IOHK sustained leadership with 285 PRs, while Intersect MBO (64 PRs) and “Unknown” contributors (35 PRs) expanded sharpl
 * Liqwid Labs PR volume rose +400%, reflecting targeted delivery efforts.
 
 ***
@@ -61,8 +61,8 @@ Geographic Representation
 
 ***
 
-**Conclusion**\
+Conclusion\
 \
 July 2025 reflected a high-velocity growth phase, with major increases in contributions, repository coverage, and governance-focused development. Intersect MBO was a large-scale contributor, alongside surging unaffiliated participation, marking a clear decentralization trend in Cardano’s engineering base. Coupled with geographic diversification and strong gains across both protocol and tooling projects, the ecosystem enters Q3 with momentum, expanded capacity, and broader participation than in previous cycles.
 
-{% file src=".gitbook/assets/Monthly Maturity Report- July 2025.pdf" %}
+{% file src="../../../.gitbook/assets/Monthly Maturity Report- July 2025.pdf" %}
