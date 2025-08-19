@@ -107,7 +107,7 @@ Once you’ve finished:
   * **Real World Haskell**
   * **Haskell Programming from First Principles**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Lectures
 

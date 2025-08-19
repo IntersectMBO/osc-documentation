@@ -25,18 +25,15 @@
   * [📈 Current Monthly Maturity Report](current-monthly-maturity-report.md)
   * [😉 True Open Source Maturity Pilot](about/true-open-source-maturity-pilot.md)
   * [📜 Intersecting Open Source and Sustainability:  A Paid Open Source Model for Ecosystems](about/open-source-office-oso/intersecting-open-source-and-sustainability-a-paid-open-source-model-for-ecosystems.md)
+  * [📚 Guides and Educational Resources](about/open-source-office-oso/guides-and-educational-resources/README.md)
+    * [🚶‍♂️ Hitchhiker's Guide to Cardano](about/open-source-office-oso/guides-and-educational-resources/hitchhikers-guide-to-cardano.md)
+    * [🤯 Onboarding Guide for Haskell Learners](about/open-source-office-oso/guides-and-educational-resources/onboarding-guide-for-haskell-learners.md)
+    * [🎓 Functional Programming in Haskell](about/open-source-office-oso/guides-and-educational-resources/functional-programming-in-haskell.md)
+    * [🧑‍🎓 Advanced Functional Programming in Haskell](about/open-source-office-oso/guides-and-educational-resources/advanced-functional-programming-in-haskell.md)
+    * [😁 Onboarding Guide for Rust Learners](about/open-source-office-oso/guides-and-educational-resources/onboarding-guide-for-rust-learners.md)
+    * [😉 Onboarding Guide for Aiken Learners](about/open-source-office-oso/guides-and-educational-resources/onboarding-guide-for-aiken-learners.md)
+    * [😅 Onboarding Guide for Nix Learners](about/open-source-office-oso/guides-and-educational-resources/onboarding-guide-for-nix-learners.md)
 * [🤩 Open Source Strategy](about/open-source-strategy.md)
-
-***
-
-* [📚 Guides and Educational Resources](guides-and-educational-resources/README.md)
-  * [🚶‍♂️ Hitchhiker's Guide to Cardano](guides-and-educational-resources/hitchhikers-guide-to-cardano.md)
-  * [🤯 Onboarding Guide for Haskell Learners](guides-and-educational-resources/onboarding-guide-for-haskell-learners.md)
-  * [🎓 Functional Programming in Haskell](guides-and-educational-resources/functional-programming-in-haskell.md)
-  * [🧑‍🎓 Advanced Functional Programming in Haskell](guides-and-educational-resources/advanced-functional-programming-in-haskell.md)
-  * [😁 Onboarding Guide for Rust Learners](guides-and-educational-resources/onboarding-guide-for-rust-learners.md)
-  * [😉 Onboarding Guide for Aiken Learners](guides-and-educational-resources/onboarding-guide-for-aiken-learners.md)
-  * [😅 Onboarding Guide for Nix Learners](guides-and-educational-resources/onboarding-guide-for-nix-learners.md)
 
 ## Working Groups
 
