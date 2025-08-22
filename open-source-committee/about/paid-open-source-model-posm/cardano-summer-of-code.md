@@ -1,5 +1,7 @@
 ---
-description: IN Draft, nothing in this page is confirmed or to be considered final.
+description: >-
+  This is a working draft. Nothing here should be treated as final until
+  formally approved. Formal OSC approval to follow.
 ---
 
 # Cardano Summer of Code
