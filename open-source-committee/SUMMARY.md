@@ -38,7 +38,7 @@
   * [Maintainer Retainer](about/paid-open-source-model-posm/maintainer-retainer.md)
   * [Code For Us](about/paid-open-source-model-posm/code-for-us.md)
   * [Tooling Sustainability](about/paid-open-source-model-posm/tooling-sustainability.md)
-  * [Bug Bounty](about/paid-open-source-model-posm/bug-bounty.md)
+  * [Bug Bounty Program](about/paid-open-source-model-posm/bug-bounty-program.md)
   * [Incident Monitoring](about/paid-open-source-model-posm/incident-monitoring.md)
   * [Project Support Services](about/paid-open-source-model-posm/project-support-services.md)
   * [Cardano Summer of Code](about/paid-open-source-model-posm/cardano-summer-of-code.md)
