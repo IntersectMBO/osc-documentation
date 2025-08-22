@@ -34,7 +34,7 @@
     * [😉 Onboarding Guide for Aiken Learners](about/open-source-office-oso/guides-and-educational-resources/onboarding-guide-for-aiken-learners.md)
     * [😅 Onboarding Guide for Nix Learners](about/open-source-office-oso/guides-and-educational-resources/onboarding-guide-for-nix-learners.md)
 * [🤩 Open Source Strategy](about/open-source-strategy.md)
-* [Paid Open Source Model (POSM)](about/paid-open-source-model-posm/README.md)
+* [🥇 Paid Open Source Model (POSM)](about/paid-open-source-model-posm/README.md)
   * [Maintainer Retainer](about/paid-open-source-model-posm/maintainer-retainer.md)
   * [Code For Us](about/paid-open-source-model-posm/code-for-us.md)
   * [Tooling Sustainability](about/paid-open-source-model-posm/tooling-sustainability.md)
