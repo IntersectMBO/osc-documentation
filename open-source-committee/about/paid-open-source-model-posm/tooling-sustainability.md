@@ -4,7 +4,61 @@ description: IN Draft, nothing in this page is confirmed or to be considered fin
 
 # Tooling Sustainability
 
-Proposed Funding Rules for Tooling Sustainability Program:
+This program is actively being worked on by the tooling working group:\
+[https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group](https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group)\
+
+
+**Mission:** The Tooling Working Group (WG) will serve as the working body that supports the Tooling Sustainability Program, focusing on identifying, funding, and supporting mission-critical open-source tools and libraries that are foundational to the Cardano ecosystem. The WG aims to ensure the long-term sustainability, security, and usability of these tools by providing targeted financial support and structured guidance, enabling both developers and the wider community to build with confidence.
+
+### **Scope & Objectives:**
+
+The Tooling WG will operate under a clear mandate to evaluate, fund, and support essential tooling projects based on community demand, technical merit, and ecosystem impact.
+
+### Project Identification & Evaluation:
+
+* Define Key Categories: Focus areas include but are not limited to:
+  * dApp Frameworks
+  * Voting Tools
+  * Education Frameworks
+  * Explorers & Monitoring Tools
+  * Smart Contract DSLs
+  * Wallets & Indexers
+  * Community-Suggested Tools (via open submission)
+* Community Demand & Adoption:
+  * Utilize community feedback loops and data-driven insights (e.g., usage metrics, adoption rates).
+  * Integrate Software Bill of Materials (SBOMs) and tools like Bitegria for dependency and impact analysis.
+* Licensing & Open Source Compliance:
+  * Confirm the open-source status of each project, ensuring adherence to permissive and community-compatible licenses (e.g., MIT, Apache 2.0).
+* Program Overlap & Ecosystem Fit:
+  * Review existing funded programs to avoid duplication and promote complementarity within the ecosystem.
+* Governance & Contribution Proof:
+  * Assess the governance structure of projects, focusing on transparency and community involvement.
+  * Require proof of contribution, including commit histories, contributor stats, and community engagement.
+* Roadmaps & ROI Evaluation:
+  * Mandate comprehensive project roadmaps that outline key milestones, timelines, and measurable outcomes.
+  * Evaluate contribution opportunities, sustainability plans, and expected return on investment (ROI) for the ecosystem.
+
+### Funding & Support Mechanism:
+
+* Establish a transparent funding process with clear selection criteria and reporting requirements.
+* Regularly monitor funded projects to ensure adherence to milestones and evaluate the continued impact.
+* Implement accountability measures, including periodic reviews, progress reports, and community check-ins.
+
+Provide non-financial support such as mentorship, technical guidance, and integration opportunities within the Cardano ecosystem.
+
+### Proposed Budget:
+
+* 2 Million ADA or ($1 Million USD) allocated to fund a diverse set of open-source tooling projects, prioritized based on ecosystem impact and community needs.
+* Budget will cover development costs, maintenance, and sustainability efforts for selected projects, with a focus on long-term viability.
+
+### Success Metrics:
+
+* Number of funded projects successfully launched and adopted.
+* Measurable improvements in ecosystem tooling coverage and usability.
+* Increased community engagement and contributions to funded projects.
+* Enhanced security and maintainability of critical open-source libraries.
+
+### Proposed Funding Rules for Tooling Sustainability Program:
 
 1. Subsidee Style Stipend- Meant to fund valued tools the ecosystem depends on but has no sustainable source of funds.
 2. Overlapping of external funds is a typical no go, can be reviewed case by case basis.
