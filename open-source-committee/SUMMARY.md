@@ -34,6 +34,17 @@
     * [😉 Onboarding Guide for Aiken Learners](about/open-source-office-oso/guides-and-educational-resources/onboarding-guide-for-aiken-learners.md)
     * [😅 Onboarding Guide for Nix Learners](about/open-source-office-oso/guides-and-educational-resources/onboarding-guide-for-nix-learners.md)
 * [🤩 Open Source Strategy](about/open-source-strategy.md)
+* [Paid Open Source Model (POSM)](about/paid-open-source-model-posm/README.md)
+  * [Maintainer Retainer](about/paid-open-source-model-posm/maintainer-retainer.md)
+  * [Code For Us](about/paid-open-source-model-posm/code-for-us.md)
+  * [Tooling Sustainability](about/paid-open-source-model-posm/tooling-sustainability.md)
+  * [Bug Bounty](about/paid-open-source-model-posm/bug-bounty.md)
+  * [Incident Monitoring](about/paid-open-source-model-posm/incident-monitoring.md)
+  * [Project Support Services](about/paid-open-source-model-posm/project-support-services.md)
+  * [Cardano Summer of Code](about/paid-open-source-model-posm/cardano-summer-of-code.md)
+  * [Accelerator Program](about/paid-open-source-model-posm/accelerator-program.md)
+  * [OSC Travel and Events](about/paid-open-source-model-posm/osc-travel-and-events.md)
+  * [Developer Advocates](about/paid-open-source-model-posm/developer-advocates.md)
 
 ## Working Groups
 
