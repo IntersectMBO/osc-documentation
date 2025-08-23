@@ -4,7 +4,7 @@ description: >-
   formally approved. Formal OSC approval to follow.
 ---
 
-# Maintainer Retainer
+# 🤓 Maintainer Retainer
 
 ### Executive Summary
 

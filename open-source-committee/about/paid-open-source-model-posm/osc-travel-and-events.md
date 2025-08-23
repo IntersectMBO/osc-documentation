@@ -2,7 +2,7 @@
 description: This page to refelct current events that the OSC is planning to attend .
 ---
 
-# OSC Travel and Events
+# 😶‍🌫️ OSC Travel and Events
 
 Current Places Listed:
 

@@ -4,7 +4,7 @@ description: >-
   formally approved. Formal OSC approval to follow.
 ---
 
-# Code For Us
+# 🤩 Code For Us
 
 ### Executive Summary
 

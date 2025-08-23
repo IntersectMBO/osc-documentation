@@ -4,7 +4,7 @@ description: >-
   approved by DReps and the Constitutional Committee in Q3 2025.
 ---
 
-# 🥇 Paid Open Source Model (POSM)
+# 🌄 Paid Open Source Model (POSM)
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -4,5 +4,5 @@ description: >-
   formally approved. Formal OSC approval to follow.
 ---
 
-# Cardano Summer of Code
+# 😝 Cardano Summer of Code
 

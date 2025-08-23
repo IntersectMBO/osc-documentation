@@ -4,11 +4,11 @@ description: >-
   formally approved. Formal OSC approval to follow.
 ---
 
-# Developer Advocates
+# 😌 Developer Advocates
 
 ### Overview
 
-The Developer Advocate Program is an initiative of the **Open Source Office (OSO)** and the **Open Source Committee (OSC)**, designed to strengthen the bridge between the Cardano open-source ecosystem and its global developer community. Developer Advocates serve as educators, communicators, and community builders, ensuring that **Core Cardano** and other ecosystem projects are accessible, well-documented, and approachable for contributors of all levels.
+The Developer Advocate Program is an initiative of the **Open Source Office (OSO)** and the **Open Source Committee (OSC)**, designed to strengthen the bridge between the Cardano open-source ecosystem and its global developer community. Developer Advocates serve as educators, communicators, and community builders, ensuring that **Core Cardano (Node)** and other ecosystem projects are accessible, well-documented, and approachable for contributors of all levels.
 
 ### Objectives
 

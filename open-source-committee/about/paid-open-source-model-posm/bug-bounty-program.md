@@ -4,7 +4,7 @@ description: >-
   sponsored prejcts.
 ---
 
-# Bug Bounty Program
+# 🫢 Bug Bounty Program
 
 #### Executive Summary
 

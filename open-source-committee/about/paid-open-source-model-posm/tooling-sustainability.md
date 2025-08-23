@@ -4,7 +4,7 @@ description: >-
   formally approved. Formal OSC approval to follow.
 ---
 
-# Tooling Sustainability
+# 😇 Tooling Sustainability
 
 This program is actively being worked on by the tooling working group:\
 [https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group](https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group)\
