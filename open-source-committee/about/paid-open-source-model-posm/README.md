@@ -6,7 +6,14 @@ description: >-
 
 # 🥇 Paid Open Source Model (POSM)
 
-The Paid Open Source Model is now from concept into a practice as we pilot this whitepaper idea into a thriving example of Web3 Sustainability to address the core problems found in most open-source ecosystems. This work started out as a YouTube presentation, gone to whitepaper to a budget line item in the Cardano treasury funding process and is now live after community approval from DReps and Constitutional Committee.
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+
+The Paid Open Source Model is now from concept into a practice as we pilot this whitepaper idea into a thriving example of Web3 Sustainability to address the core problems found in most open-source ecosystems. This work started out as a YouTube presentation, gone to whitepaper to a budget line item in the Cardano treasury funding process and is now live after community approval from DReps and Constitutional Committee.\
+\
+Also some may ask why do we have a Possum as a mascot?
+
+* _**Resilience and Adaptability:**_ Possums are survivors. They thrive in diverse and sometimes harsh environments, much like open source contributors who often work with limited resources, across many projects, and in constantly changing technical landscapes. Just as the possum adapts and endures, open source communities persist through challenges—volunteer burnout, shifting priorities, or funding gaps.
+* _**Communal Strength:**_ Possums are communal and resourceful—traits that mirror open source communities where collective effort is greater than the sum of individual parts. By making the possum the mascot of POSM, we highlight that sustainability in open source isn’t about a single project or person—it’s about collective survival and growth.
 
 For full details on this program and it's history, please see the below resources:
 
