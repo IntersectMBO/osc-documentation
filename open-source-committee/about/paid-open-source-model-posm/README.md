@@ -12,8 +12,8 @@ The Paid Open Source Model is now from concept into a practice as we pilot this 
 \
 Also some may ask why do we have a Possum as a mascot?
 
-* _**Resilience and Adaptability:**_ Possums are survivors. They thrive in diverse and sometimes harsh environments, much like open source contributors who often work with limited resources, across many projects, and in constantly changing technical landscapes. Just as the possum adapts and endures, open source communities persist through challenges—volunteer burnout, shifting priorities, or funding gaps.
-* _**Communal Strength:**_ Possums are communal and resourceful—traits that mirror open source communities where collective effort is greater than the sum of individual parts. By making the possum the mascot of POSM, we highlight that sustainability in open source isn’t about a single project or person—it’s about collective survival and growth.
+* _**Resilience and Adaptability:**_ Possums are survivors. They thrive in diverse and sometimes harsh environments, much like open source contributors who often work with limited resources, across many projects, and in constantly changing technical landscapes. Just as the possum adapts and endures, open source communities persist through challenges: volunteer burnout, shifting priorities, or funding gaps.
+* _**Communal Strength:**_ Possums are communal and resourceful; traits that mirror open source communities where collective effort is greater than the sum of individual parts. By making the possum the mascot of POSM, we highlight that sustainability in open source isn’t about a single project or person—it’s about collective survival and growth.
 
 For full details on this program and it's history, please see the below resources:
 
