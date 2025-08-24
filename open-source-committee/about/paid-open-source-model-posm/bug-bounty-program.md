@@ -74,14 +74,21 @@ This section defines how vulnerabilities are categorized, how reward amounts are
 
 All reported vulnerabilities are categorized based on impact and exploitability, using the following severity levels:&#x20;
 
-CVSS is utilized to measure impact scoring: [https://www.first.org/cvss/](https://www.first.org/cvss/)
-
 | Severity Level | Description                                                                               | Example Scenarios                                                         |
 | -------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | Critical       | Exploitable vulnerabilities that compromise funds, user data, or system control.          | Remote code execution, wallet private key leakage, full account takeover. |
 | High           | Issues that lead to significant security breaches, requiring minimal user interaction.    | Authentication bypass, API abuse allowing unauthorized transactions.      |
 | Medium         | Security flaws that require additional attack vectors to be exploited.                    | Information disclosure, improper access control, minor logic bugs.        |
 | Low            | Issues that do not pose immediate security risks but could contribute to larger exploits. | Minor UI flaws affecting security, error messages revealing stack traces. |
+
+These severity levels are evaluated according to the [https://www.first.org/cvss/](https://www.first.org/cvss/) score of the reported vulnerability mapped according to the [NIST Scale](https://nvd.nist.gov/vuln-metrics/cvss):
+
+| Severity Level | Score    |
+|----------------|----------|
+| Low            | 0.1-3.9  |
+| Medium         | 4.0-6.9  |
+| High           | 7.0-8.9  |
+| Critical       | 9.0-10.0 |
 
 #### 2.2 Reward Tiers and Payouts
 
@@ -145,7 +152,7 @@ Once a vulnerability is submitted, it goes through the Security Council’s vali
 
 1. Acknowledgment – Initial confirmation of submission within 24 hours.
 2. Triage and Reproduction – The Security Council attempts to reproduce the issue within 3-7 days, depending on complexity.
-3. Severity Classification – The issue is categorized based on impact (Critical, High, Medium, Low).
+3. Severity Classification – The issue is assigned a CVSS Score and categorized.
 4. Fix Deployment Planning – The Security Council coordinates with developers to determine a remediation timeline.
 5. Researcher Notification – The submitter is informed of classification and next steps.
 
@@ -205,6 +212,7 @@ The Open Source Committee acts as an oversight body ensuring the program aligns 
 **Key Responsibilities:**
 
 * Review program policies and governance structures to ensure alignment with community values.
+* Ensures core projects follow this policy and provide the necessary tools for proper reporting.
 * Audit budget utilization and make recommendations for adjustments if necessary.
 * Evaluate the effectiveness of the Security Council’s decisions.
 * Approve high-level policy changes while leaving execution to the Open Source Office.
