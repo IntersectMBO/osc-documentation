@@ -29,7 +29,9 @@ By implementing this structured and well-governed bug bounty program, the ecosys
 
 ### 1. Program Scope and Coverage
 
-This section defines the boundaries of the bug bounty program, specifying which systems are eligible for testing and which activities are prohibited to ensure ethical participation.
+This section defines the boundaries of the bug bounty program, specifying which systems are eligible for testing and which activities are prohibited to ensure ethical participation.\
+\
+&#xNAN;_**Please note:**_ The scope of this program is limited to components and codebases maintained or supported by Intersect. Vulnerabilities in third-party applications, such as smart contracts powering decentralized applications (DApps), are out of scope
 
 #### 1.1 Systems and Assets in Scope
 
@@ -72,7 +74,7 @@ This section defines how vulnerabilities are categorized, how reward amounts are
 
 #### 2.1 Classification Criteria (Critical, High, Medium, Low)
 
-All reported vulnerabilities are categorized based on impact and exploitability, using the following severity levels:&#x20;
+All reported vulnerabilities are categorized based on impact and exploitability, using the following severity levels:
 
 | Severity Level | Description                                                                               | Example Scenarios                                                         |
 | -------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -84,7 +86,7 @@ All reported vulnerabilities are categorized based on impact and exploitability,
 These severity levels are evaluated according to the [https://www.first.org/cvss/](https://www.first.org/cvss/) score of the reported vulnerability mapped according to the [NIST Scale](https://nvd.nist.gov/vuln-metrics/cvss):
 
 | Severity Level | Score    |
-|----------------|----------|
+| -------------- | -------- |
 | Low            | 0.1-3.9  |
 | Medium         | 4.0-6.9  |
 | High           | 7.0-8.9  |
@@ -165,13 +167,13 @@ Once a vulnerability is submitted, it goes through the Security Council’s vali
 
 To maintain transparency and efficiency, the following response timelines are enforced:
 
-| Action                               | Response Time                                        |
-| ------------------------------------ | ---------------------------------------------------- |
-| Acknowledgment of submission         | Within 24 hours                                      |
-| Validation & severity classification | Within 7-14 days                                     |
-| Fix deployment timeline              | Critical: 7 days, High: 14 days, Medium/Low: 30 days |
-| Final researcher notification        | Within 30 days of fix deployment                     |
-| Reward payout processing             | Within 30 days of validation                         |
+| Action                               | Response Time                                                                            |
+| ------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Acknowledgment of submission         | Within 24 hours                                                                          |
+| Validation & severity classification | Within 7-14 days                                                                         |
+| Fix deployment timeline              | <p>These are intended Goals:<br>Critical: 7 days, High: 14 days, Medium/Low: 30 days</p> |
+| Final researcher notification        | Within 30 days of fix deployment                                                         |
+| Reward payout processing             | Within 30 days of validation                                                             |
 
 **Security Council Escalations:**
 
@@ -239,4 +241,4 @@ The Open Source Office is responsible for executing the Bug Bounty Program by ha
 
 The Open Source Office has full operational control over the program’s implementation, ensuring that all validated vulnerabilities are addressed efficiently and transparently.
 
-\
+\\
