@@ -46,7 +46,7 @@ When accepted into incubation, projects receive:
 1. Review the [**Project Incubation Lifecycle Framework**](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/policies/project-incubation-lifecycle-framework).
 2. Ensure your project meets the [**Acceptance Criteria**](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/policies/project-incubation-lifecycle-framework/project-incubation-acceptance-criteria).
 3. Complete a **self-assessment** of project maturity (vision, technical foundation, roadmap, and community plan).
-4. Submit your project through the official [**Incubation Application Form**](https://docs.google.com/forms/d/13omjb-nv_lu5BX-MHo34eJ7R1yjmOcQPPI2vI26MNQw/edit).
+4. Submit your project through the official [**Incubation Application Form**](https://docs.google.com/forms/d/13omjb-nv_lu5BX-MHo34eJ7R1yjmOcQPPI2vI26MNQw/prefill).
 
 ### Review Process
 
@@ -109,7 +109,7 @@ The **Incubation Program** is Intersect’s commitment to empowering open-source
 Whether your project is an early prototype or a growing open-source initiative, incubation ensures it has the guidance, community support, and best practices needed to thrive.
 
 📌 **Take the next step — bring your vision into the Cardano ecosystem.**\
-👉 [Apply to the Incubation Program](https://docs.google.com/forms/d/13omjb-nv_lu5BX-MHo34eJ7R1yjmOcQPPI2vI26MNQw/edit)
+👉 [Apply to the Incubation Program](https://docs.google.com/forms/d/13omjb-nv_lu5BX-MHo34eJ7R1yjmOcQPPI2vI26MNQw/prefill)
 
 
 
