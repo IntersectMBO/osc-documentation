@@ -63,8 +63,8 @@ When accepted into incubation, projects receive:
     * If only one committee provides a recommendation, the project will undergo an inter-committee review to determine its eligibility for incubation.
     * Projects that are rejected will not enter incubation, but will receive a rationale for the decision and may reapply after six months
 * Once a project is accepted, there are one of two paths to follow with the project Intellectual Property: (See Ownership and Governance for details)
-  * **Foster IP under Intersect**
-  * #### **Retain IP but Align with Intersect Processes**
+  * Foster IP under Intersect
+  * Retain IP but Align with Intersect Processes
 * **During Incubation:** Project progress is tracked against roadmap, documentation, and contributor engagement milestones.
 
 **Outputs of successful incubation include:**
