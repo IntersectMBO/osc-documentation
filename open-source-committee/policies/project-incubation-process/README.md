@@ -43,8 +43,8 @@ When accepted into incubation, projects receive:
 
 ### How to Apply
 
-1. Review the [**Project Incubation Lifecycle Framework**](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/policies/project-incubation-lifecycle-framework).
-2. Ensure your project meets the [**Acceptance Criteria**](https://app.gitbook.com/o/Prbm1mtkwSsGWSvG1Bfd/s/LBdnzp0eZpGri9sVpseI/policies/project-incubation-lifecycle-framework/project-incubation-acceptance-criteria).
+1. Review the [**Project Incubation Lifecycle Framework**](https://opensourcecommittee.docs.intersectmbo.org/policies/project-incubation-process/project-incubation-lifecycle-framework).
+2. Ensure your project meets the [**Acceptance Criteria**](https://opensourcecommittee.docs.intersectmbo.org/policies/project-incubation-process/project-incubation-acceptance-criteria).
 3. Complete a **self-assessment** of project maturity (vision, technical foundation, roadmap, and community plan).
 4. Submit your project through the official [**Incubation Application Form**](https://forms.clickup.com/9015279944/f/8cnmga8-36715/66ELL3D8626W65USTY).
 
