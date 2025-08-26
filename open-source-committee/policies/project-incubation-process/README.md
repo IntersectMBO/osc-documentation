@@ -85,7 +85,7 @@ When a project is accepted into incubation, the submitting team remains the **co
 * The submitting team continues as the core maintainers, but Intersect becomes the neutral steward of the codebase.
 * This approach ensures that no single company controls the project and that the ecosystem can safely adopt it.
 
-**Example:** The Linux kernel is hosted by the Linux Foundation — Linus Torvalds and maintainers drive development, but the Linux Foundation holds the trademarks and provides neutral governance. Similarly, Hyperledger Fabric was contributed by IBM to the Linux Foundation. IBM engineers still contribute heavily, but governance and IP are neutral, making adoption safer for the whole industry.
+**Example:** The Linux kernel is hosted by the Linux Kernel Organization — Linus Torvalds and maintainers drive development, but the Linux Foundation holds the trademarks and provides neutral governance. Similarly, Hyperledger Fabric was contributed by IBM to the Linux Foundation. IBM engineers still contribute heavily, but governance and IP are neutral, making adoption safer for the whole industry.
 
 #### 2. **Retain IP but Align with Intersect Processes**
 
