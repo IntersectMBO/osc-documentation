@@ -197,7 +197,7 @@ The Security Council is the primary authority responsible for managing vulnerabi
 * Categorize vulnerabilities based on severity and assign priorities.
 * Coordinate remediation efforts with developers and security engineers.
 * Ensure proper ethical reporting practices and enforce disclosure policies.
-* Escalate major security incidents to the appropriate body depending on the issue raised. (Technical Steering Committee, Open Source Committee, or Security Council).
+* Escalate major security incidents to the appropriate body depending on the type of issue raised. (Technical Steering Committee, Open Source Committee, or Security Council).
 * Provide quarterly reports on program performance, trends, and challenges.
 
 **Composition:**
@@ -224,6 +224,7 @@ The Open Source Committee acts as an oversight body ensuring the program aligns 
 
 * Does not handle day-to-day program execution.
 * Cannot directly distribute rewards or approve specific reports.
+* Approves the bug bounty reward payouts based on the Security Councils recommended evaluation.
 
 #### 4.3 Open Source Office: Execution and Administration
 
@@ -240,5 +241,3 @@ The Open Source Office is responsible for executing the Bug Bounty Program by ha
 **Execution Power:**
 
 The Open Source Office has full operational control over the program’s implementation, ensuring that all validated vulnerabilities are addressed efficiently and transparently.
-
-\\
