@@ -33,12 +33,12 @@ Community/Other Attendees
 
 ## Agenda 08.21.25
 
-Old Business
+**Old Business**
 
 * Maintainer Evaluation process
 * Bug Bounty Program
 
-New Business
+**New Business**
 
 * Developer Advocate Selection
 * Member polls for Community sentiment
@@ -47,7 +47,7 @@ New Business
 * Thread management - Discord
 * Committee calendar/events
 
-AOB
+**AOB**
 
 * OSC unelected contributors
 * SME - Christina
