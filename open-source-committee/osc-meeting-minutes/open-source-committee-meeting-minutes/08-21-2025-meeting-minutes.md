@@ -2,19 +2,7 @@
 
 ## Attendees:&#x20;
 
-| Name                     | Attendance | Role        | Voting Seat (Y/N) |
-| ------------------------ | ---------- | ----------- | ----------------- |
-| Elaine Cardenas          | Yes        | Vice Chair  | Y                 |
-| Terence ‘Tex’ McCutcheon | Yes        | Secretary   | N                 |
-| Christian Taylor         | Yes        | SME         | N                 |
-| P. Lucas                 | Yes        | Member/Seat | Y                 |
-| Arnaud Bailly            | No         | Member/Seat | Y                 |
-| Adam Dean                | Yes        | Member/Seat | Y                 |
-| Georg Link               | Yes        | Member/Seat | Y                 |
-| Jonathan Kelly           | Yes        | Member/Seat | Y                 |
-| Niels Mündler            | No         | Member/Seat | Y                 |
-| Sebastian Pabon          | Yes        | Member/Seat | Y                 |
-| Philip DiSarro           | No         | Member/Seat | Y                 |
+<table data-header-hidden><thead><tr><th width="146.93359375"></th><th width="113.17578125"></th><th width="131.375"></th><th></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td><td>Term</td></tr><tr><td>Elaine Cardenas</td><td>Yes</td><td>Chair</td><td>Y</td><td>October 2025</td></tr><tr><td>Terence ‘Tex’ McCutcheon</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Christian Taylor</td><td>Yes</td><td>SME</td><td>N</td><td>N/A</td></tr><tr><td>Adam Dean</td><td>Yes</td><td>Vice Chair</td><td>Y</td><td>October 2025</td></tr><tr><td>Arnaud Bailly</td><td>No</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>P. Lucas</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Georg Link  </td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Jonathan Kelly</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2025</td></tr><tr><td>Niels Mündler</td><td>No</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Sebastian Pabon</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2025</td></tr><tr><td>Philip DiSarro</td><td>No</td><td>Member</td><td>Y</td><td>April 2026</td></tr></tbody></table>
 
 Community/Other Attendees
 
@@ -31,27 +19,17 @@ Community/Other Attendees
 
 ## Intros
 
-Christian: Head of Open Source Office, Intersect Staff
-
-Tex: Open Source Program Manager, Intersect Staff, Open Source Committee Secretary
-
-Sandip: Dquadrant
-
-Adam: Adam Dean, LLC, Co-Founder, DripDropz, LLC, CIP Editors, Intersect Maintainer
-
-Georg: TBD Bitergia
-
-Lucas: 45B - Cardano Enablement, Onboarding end-users; Supporting cardano Projects;
-
-Sebastian: Gimbalabs contributor, MeshJS contributor, Andamio platform co-founder
-
-Johnny: Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet Stake Pools. Cardano Keystone Wallet Ambassador.
-
-Moritz: TBD&#x20;
-
-Nicolas: TBD&#x20;
-
-Robin: TBD&#x20;
+**Christian:** Head of Open Source Office, Intersect, OS SME\
+**Tex:** Open Source Program Manager, Intersect Staff, Open Source Committee Secretary\
+**Adam:** OSC, TSC Intersect, CIP Editors, DripDropz, LLC\
+**Arnaud:** OSC Member, CF\
+**Elaine:** newly elected OSC, Aira corporation CTO\
+**Georg**: Bitergia\
+**Johnny:** Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet Cardano SPO Clients. Keystone Ambassador. Voting Seat Member on Technical Steering Committee and Open Source Committee.\
+**Lucas:** OSC Chair, 45B.io(SMB onboarding)\
+**Niels:** tbd\
+**Sebastian:** OSC, Gimbalabs, contributor, Andamio co-founder.\
+**Philip:** tbd&#x20;
 
 ## Agenda 08.21.25
 
