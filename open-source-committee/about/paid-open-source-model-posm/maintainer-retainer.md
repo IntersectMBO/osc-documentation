@@ -16,26 +16,26 @@ Maintainer Retainer Program provides recurring funding to experienced contributo
 Senior project steward with final technical authority over a repo’s direction. Owns strategic decisions, governance/policy work, release sign-off, and security-sensitive changes; mentors others and ensures long-term project health.
 
 **Community Maintainer**\
-A Trusted-Committer–level maintainer funded via the Maintainer Retainer program to expand capacity around a project. Focuses on day-to-day maintenance and community operations that increase quality and throughput—without holding ultimate decision rights or high-risk credentials. Must meet the Contribution Ladder threshold (≥ Trusted Committer) and pass the program’s 30-day evaluation before ongoing funding.\
+A Trusted-Committer–level maintainer funded via the Maintainer Retainer program to expand capacity around a project (including technical, documentation, community, or ecosystem-advocacy work—not limited to coding). Focuses on day-to-day maintenance, user-feedback loops, and community operations that increase quality and throughput; without holding ultimate decision rights or high-risk credentials. Must meet the Contribution Ladder threshold (≥ Trusted Committer) across code, docs, governance, or ecosystem advocacy, and pass the program’s 30-day evaluation before ongoing funding.\
 \
 Contribution Ladder reference: [https://committees.docs.intersectmbo.org/intersect-open-source-committee/policies/contribution-ladder-framework](https://committees.docs.intersectmbo.org/intersect-open-source-committee/policies/contribution-ladder-framework)
 
 ## How they differ (at a glance)
 
-| Dimension                    | Core Maintainer                                                                                                                                | Community Maintainer                                                                                                                            |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Primary mandate              | Set strategy, make final technical/governance calls, ensure release quality and sustainability.                                                | Execute and scale day-to-day maintenance; triage, review, test, document, and shepherd contributions to keep velocity high.                     |
-| Authority & decision rights  | Final say on architecture, roadmap alignment, releases, and policy within project governance.                                                  | Recommend and implement; proposes changes and participates in reviews, but defers final calls to Core Maintainers/PMC.                          |
-| Access level                 | May hold elevated repo permissions and release responsibilities; at least one Maintainer should be an approved “Insider” for security matters. | Standard write/maintain permissions; no admin/secrets or signing keys by default; can be added as “Insider” only if vetted per security policy. |
-| Security-sensitive work      | Leads/co-leads on embargoed fixes and coordinated releases.                                                                                    | Assists under direction (repro, tests, docs, backports); escalates promptly; Insider status if/when approved.                                   |
-| Release responsibilities     | Owns release criteria and final sign-off.                                                                                                      | Preps changelogs, verifies checks, tags low-risk backports as delegated.                                                                        |
-| Program eligibility & review | Typically already at top of ladder; subject to governance expectations.                                                                        | Must be ≥ Trusted Committer and complete 30-day trial; then quarterly/annual performance reviews for continued funding.                         |
+| Dimension                    | Core Maintainer                                                                                                                                | Community Maintainer                                                                                                                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Primary mandate              | Set strategy, make final technical/governance calls, ensure release quality and sustainability.                                                | Execute and scale day-to-day maintenance; triage, review, test, document, and surface ecosystem/user feedback and usage patterns to keep velocity and relevance high (not limited to coding).             |
+| Authority & decision rights  | Final say on architecture, roadmap alignment, releases, and policy within project governance.                                                  | Recommend and implement; proposes changes and participates in reviews, but defers final calls to Core Maintainers/PMC.                                                                                    |
+| Access level                 | May hold elevated repo permissions and release responsibilities; at least one Maintainer should be an approved “Insider” for security matters. | Standard write/maintain permissions; no admin/secrets or signing keys by default; can be added as “Insider” only if vetted per security policy.                                                           |
+| Security-sensitive work      | Leads/co-leads on embargoed fixes and coordinated releases.                                                                                    | Assists under direction (repro, tests, docs, backports); escalates promptly; Insider status if/when approved.                                                                                             |
+| Release responsibilities     | Owns release criteria and final sign-off.                                                                                                      | Preps changelogs, verifies checks, tags low-risk backports as delegated; channels user-impact notes from the field.                                                                                       |
+| Program eligibility & review | Typically already at top of ladder; subject to governance expectations.                                                                        | Must be ≥ Trusted Committer and complete 30-day trial; then quarterly/annual performance reviews for continued funding; eligibility includes code, docs, governance, or ecosystem advocacy contributions. |
 
 ## How Community Maintainers assist Core Maintainers
 
 * **Triage & backlog hygiene (as permitted):** label/route issues, reproduce bugs, close stale items, maintain the project board.
-* **Code quality pipeline (as permitted):** review routine PRs, enforce contribution standards, add tests, handle dependency and CI updates.
-* **Docs & comms (as permitted):** keep READMEs/guides current, draft release notes, respond to contributor queries, mentor newcomers.
+* **Code quality pipeline (as permitted and when requested):** review routine PRs, enforce contribution standards, add tests, handle dependency and CI updates—but only where a project has identified a genuine need for extra engineering support.
+* **Docs, user feedback & comms (as permitted):** keep READMEs/guides current, draft release notes, respond to contributor queries, mentor newcomers, and act as power users who surface pain points, highlight usage patterns, and assess feature impacts across the ecosystem. These contributions may be entirely non-code but are equally critical to project health.
 * **Security support (as permitted):** assist responders with reproductions, testing, and backports under Insider controls when approved.
 
 ### Governance & compliance responsibilities (Community Maintainers)
@@ -46,7 +46,7 @@ Contribution Ladder reference: [https://committees.docs.intersectmbo.org/interse
 * **Process stewardship:** facilitate issue/PR templates, labeling policies, and RFC/CIP-style proposal flows where applicable; coordinate governance ceremonies (e.g., release readiness, roadmap checkpoints).
 * **Risk and quality gates:** verify that pre-merge and pre-release gates (tests, SBOMs, vulnerability scans, dependency policies) are applied and documented; escalate exceptions to Core Maintainers for final determination.
 
-> Program note: Maintainer Retainer requires at least Trusted Committer level and includes a 30-day evaluation plus recurring performance reviews—this is the default gate for Community Maintainers entering the role.
+> Program note: Maintainer Retainer requires at least Trusted Committer level and includes a 30-day evaluation plus recurring performance reviews—this is the default gate for Community Maintainers entering the role. Importantly, contributions may take different forms depending on project needs: coding, documentation, governance, or ecosystem advocacy.
 
 ### Eligibility Criteria
 
@@ -54,9 +54,9 @@ To qualify, maintainers must:
 
 * Be active contributors to eligible Cardano open-source repositories.
 * Have achieved at least Trusted Committer Level according to the Contribution Ladder Framework.
-* Consistently contribute in areas like code commits, issue resolution, documentation, or governance.
+* Consistently contribute in areas such as code commits, issue resolution, documentation, governance, or ecosystem/user advocacy (e.g., identifying pain points, usage patterns, and assessing feature impact).
 * Maintain projects in one of the Incubation, Growth, or Maturity stages per the Project Lifecycle Framework.
-* Pass an initial 30-day evaluation period, demonstrating technical capability, responsiveness, and community engagement.
+* Pass an initial 30-day evaluation period, demonstrating role-appropriate capability (technical, documentation, governance, or ecosystem advocacy), responsiveness, and community engagement.
 * Commit to following best practices, including open-source governance standards, repository security, documentation accuracy, and community mentoring.
 
 ### Project Qualification Criteria
@@ -65,10 +65,9 @@ For a project to qualify:
 
 * It must be categorized at the Incubation, Growth, or Maturity stage.
 * It must provide critical infrastructure, foundational technology, or developer tooling for the Cardano ecosystem.
-* Demonstrate active and significant usage within the Cardano community (developers, dApps).
-* Maintain clear governance procedures, an active roadmap, structured issue resolution processes, and up-to-date documentation.
-* Obtain formal approval from both the Technical Steering Committee (TSC) and the Open Source Committee (OSC).\
-
+* Demonstrate active and significant usage within the Cardano community (developers, dApps, operators/power users, and other ecosystem stakeholders).
+* Maintain clear governance procedures, an active roadmap, structured issue resolution processes, and up-to-date documentation with established user-feedback channels (e.g., pain-point intake, usage pattern tracking) to inform priorities.
+* Obtain formal approval from both the Technical Steering Committee (TSC) and the Open Source Committee (OSC).
 
 ### Funding Structure & Resource Allocation
 
