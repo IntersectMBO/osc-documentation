@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# (09/18/2025) Meeting Minutes
+# 🙃 (09/18/2025) Meeting Minutes
 
 ## Attendees:&#x20;
 
