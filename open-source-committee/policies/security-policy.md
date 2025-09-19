@@ -1,6 +1,6 @@
 # 🔐 Security Policy
 
-## &#x20; Intersect Security Policy | Security Working Group
+## Intersect Security Policy | Security Council
 
 ### Roles and bodies
 
@@ -14,21 +14,21 @@ The responsibilities of the OSC with respect to security are:
 
 * Ensure that there is sufficient security policy in place and that this policy is reflected accurately in the governance structures for Intersect projects.
 
-#### Security Working Group
+#### Security Council
 
-The Security Working Group (SWG) is a working group reporting to the Intersect Technical Steering Committee. Members of the Security Working Group primarily need to be highly trustworthy since they are responsible for overseeing the rest of the security processes. They should be appointed by Intersect, and not elected by Intersect members.
-
-
-
-The Security Working Group should be trustworthy enough to receive sensitive information, but they should generally only be given it when they need to know it.\
+The Security Council (SC) is a working group reporting to the Intersect Technical Steering Committee. Members of the Security Council primarily need to be highly trustworthy since they are responsible for overseeing the rest of the security processes. They should be appointed by Intersect, and not elected by Intersect members.
 
 
-The responsibilities of the Security Working Group are:
+
+The Security Council should be trustworthy enough to receive sensitive information, but they should generally only be given it when they need to know it.\
+
+
+The responsibilities of the Security Council are:
 
 * Approve all individuals who are given access to sensitive information
   * This may involve some kind of vetting
 * Appoint and manage the Security Manager
-* At least one member of the Security Working Group should be available and qualified to act as a backup Security Manager
+* At least one member of the Security Council should be available and qualified to act as a backup Security Manager
 * Appoint and manage Responders
 * Insulate the rest of Intersect from access to sensitive information
 * Ensure that contributors are made aware of security issues where necessary
@@ -41,18 +41,16 @@ Appointments are made by Intersect. The process is to be agreed, but there will 
 
 
 
-Qualifications for the Security Working Group:
+Qualifications for the Security Council:
 
 * Member of Intersect
-* Some kind of vetting (TBD)
+* Some kind of vetting: [https://committees.docs.intersectmbo.org/intersect-technical-steering-committee/about/security-council](https://committees.docs.intersectmbo.org/intersect-technical-steering-committee/about/security-council)
 * Experience of dealing with security incidents is desirable
 * Relevant technical experience is desirable but not absolutely required
 
 #### Security Manager
 
 The Security Manager (SM) is a specific individual reporting to the Security Working Group. They should be an employee of Intersect, or other highly vetted individual. The Security Manager is responsible for most procedural aspects relating to security issues. They are primarily a trustworthy project manager, rather than necessarily being technically qualified.
-
-
 
 The responsibilities of the Security Manager are:
 
@@ -70,13 +68,13 @@ The responsibilities of the Security Manager are:
 
 **Appointments**
 
-Appointments are made by the Security Working Group. The process is to be confirmed.\
+Appointments are made by the Security Council. The process is to be confirmed.\
 
 
 Qualifications for the Security Manager:
 
 * Employee of Intersect (or individual under continuity contract)
-* Some kind of vetting (TBD)
+* Some kind of vetting: [https://committees.docs.intersectmbo.org/intersect-technical-steering-committee/about/security-council](https://committees.docs.intersectmbo.org/intersect-technical-steering-committee/about/security-council)
 * Experience of dealing with security incidents desirable
 * Relevant technical experience desirable but not required
 
@@ -86,25 +84,15 @@ The Finder is the person (or persons) who finds and reports a potential security
 
 #### Insider
 
-An Insider is an individual who is cleared by the SWG to know about sensitive information about a specific project or technical area (security issues, technical reports discussing potential security problems, etc.). The identities of Insiders should not be known except to the SO, the SWG, and some number of Insiders as needed (e.g. by the Responder for an issue. Generally, Insiders on the same project should likely know each others’ identities).
-
-
+An Insider is an individual who is cleared by the SC to know about sensitive information about a specific project or technical area (security issues, technical reports discussing potential security problems, etc.). The identities of Insiders should not be known except to the SO, the SC, and some number of Insiders as needed (e.g. by the Responder for an issue. Generally, Insiders on the same project should likely know each others’ identities).
 
 Insider status should be reviewed regularly and should expire quickly if contributors become inactive or if they show themselves to be insufficiently trustworthy.
 
-
-
 Not all Insiders working on an issue need be considered equal; it is up to the Responder to determine which Insiders should be granted which access to information concerning an issue and when.
-
-
 
 If a project needs Insiders, then at least one Maintainer should be an Insider.
 
-
-
 Insiders should be asked to sign a security-specific NDA, with limited scope relating to security issues.
-
-
 
 The responsibilities of an Insider are to:
 
@@ -113,9 +101,7 @@ The responsibilities of an Insider are to:
 
 **Appointments**
 
-Insiders will be nominated by the PMC for a project, and then vetted by the Security Working Group.
-
-
+Insiders will be nominated by the PMC for a project, and then vetted by the Security Council
 
 Qualifications for Insiders:
 
@@ -123,23 +109,18 @@ Qualifications for Insiders:
 
 #### Responder
 
-A Responder is an Insider who is the “Directly Responsible Individual” for the resolution (fix or mitigation) of a technical issue. The Responder for an issue need not remain constant; it may make sense to pass it on to someone else at some points.\
+A Responder is an Insider who is the “Directly Responsible Individual” for the resolution (fix or mitigation) of a technical issue. The Responder for an issue need not remain constant; it may make sense to pass it on to someone else at some points.
 
+The Responder is responsible for the complete resolution of the issue. They must ensure that the issue gets all the way to being resolved (including releases, following up to make sure mitigations have been applied etc.)
 
-The Responder is responsible for the complete resolution of the issue. They must ensure that the issue gets all the way to being resolved (including releases, following up to make sure mitigations have been applied etc.).
-
-
-
-The position of Responder is a fluid one: if another Insider takes over an issue, then they become the Responder. Some number of default Responders for certain technical areas should be maintained by the SM to ensure that they know who to talk to when there is a problem.
-
-\
+The position of Responder is a fluid one: if another Insider takes over an issue, then they become the Responder. Some number of default Responders for certain technical areas should be maintained by the SM to ensure that they know who to talk to when there is a problem.\
 The responsibilities of a Responder are:
 
 * Receive and triage reports of security issues relevant to their area
   * Set the severity level of the issue in discussion with the Security Officer
 * Ensure that issues are resolved
   * Formulate a plan to address the issue, bringing in Insiders as needed to help plan or execute
-  * Liaise with the SWG to bring on additional Insiders if necessary
+  * Liaise with the SC to bring on additional Insiders if necessary
   * Communicate with the Finder as needed to keep them up to date or seek additional information
 * Handle information discipline relating to issues
   * Formulate a communication strategy, if necessary, for referring to an issue in public channels
@@ -151,9 +132,7 @@ The responsibilities of a Responder are:
 
 #### Bringing in new Insiders
 
-Insiders should strictly be brought in after vetting by the SWG.
-
-
+Insiders should strictly be brought in after vetting by the SC.
 
 In some cases there may be urgency to bring someone in, e.g. if they are doing independent investigation as a community member. In cases such as this we should ask the individual to follow information discipline and promise to move towards making them an Insider on this topic. If they won’t stick to that, they probably aren’t trustworthy enough to bring in anyway.
 
@@ -162,7 +141,7 @@ In some cases there may be urgency to bring someone in, e.g. if they are doing i
 The lifecycle of an issue is:
 
 * An issue is reported by the Finder to the Security Manager
-* The Security Manager reports this to the Security Working Group, and then designates a Responder to triage it (this may lead to the Responder changing)
+* The Security Manager reports this to the Security Council, and then designates a Responder to triage it (this may lead to the Responder changing)
 * The Responder collaborates with relevant Insiders to create a plan to address the issue, and to implement it
 * The Security Manager monitors the process and ensures that everything is progressing properly and that everyone is kept informed
 * The issue is resolved or mitigated
@@ -183,13 +162,13 @@ Here’s a longer worked example of what an issue lifecycle might look like.\
 
 
 * Fred (the Finder) reports a serious security issue in Cardano by emailing the security report email address
-* Janet (the Security Manager) receives the email, acknowledges receipt to Fred, notifies the SWG, and looks for a sensible Responder to start with. Based on a cursory look at the issue, they think it may be related to the consensus layer, so they contact a Responder from that project (Carrie).
+* Janet (the Security Manager) receives the email, acknowledges receipt to Fred, notifies the SC, and looks for a sensible Responder to start with. Based on a cursory look at the issue, they think it may be related to the consensus layer, so they contact a Responder from that project (Carrie).
 * Carrie understands the issue more deeply and instead suggests that Alison take on the Responder role this time.
 * Alison triages the issue, tags it as medium severity, and pulls in Xenia and Will (Insiders) to form a plan and fix the issue.
 * The team comes up with a fix and also a mitigation.
-* Alison and Janet update Fred and the SWG on the progress. Fred is informed that while the fix will take until the next HF, once the mitigation is deployed we can responsibly disclose the issue.
+* Alison and Janet update Fred and the SC on the progress. Fred is informed that while the fix will take until the next HF, once the mitigation is deployed we can responsibly disclose the issue.
 * Alison liaises with some SPO Insiders to test the mitigation and later the fix.
-* It turns out that there are performance considerations. Alison goes to the SWG to ask to bring in one of the performance team as an Insider so they can help.
+* It turns out that there are performance considerations. Alison goes to the SC to ask to bring in one of the performance team as an Insider so they can help.
 * Xenia and Will write and test the fix on a private fork, and merge it into the main codebase surreptitiously.
 * The full fix goes out in the next HF.
 * Once Alison is satisfied that the HF successfully mitigates the issue, and that its disclosure would not create any further security risks, the issue can be disclosed publicly.&#x20;
@@ -207,8 +186,6 @@ Project Maintainers are responsible for ensuring that messages which reveal sens
 * Code comments that reveal the issue should be eliminated
 * Github issues should be edited or deleted
 * Public Slack messages should be deleted
-
-
 
 Users who post such information should be cautioned, and repeated offences should be considered grounds for a ban from contributing to code repositories. Poor information hygiene with regard to security issues should be a mark against an individual being assigned insider status.
 
@@ -242,8 +219,6 @@ We want at least a durable mailing list for reporting issues to, although maybe 
 
 Some kind of private issue tracking system with visibility and permissions levels. Maybe also audit logs?
 
-
-
 Github Security Advisories are actually pretty decent for this.
 
 #### Private document store
@@ -254,7 +229,7 @@ Some kind of private document store with permission levels so that Insiders can 
 
 Private channels for:
 
-* The Security Working Group
+* The Security Council
 * The Security Manager to talk to&#x20;
   * Responders (email?)
   * Finders (email?)
