@@ -8,7 +8,7 @@ description: >-
 
 ### **Executive Summary:**
 
-As steward of the Original Core Node Repositories and a coordination point for decentralized projects, Intersect MBO is establishing a **decentralized security support process** that plugs into existing stakeholder setups—SPO networks, core engineering teams, vendors, community ops, and the Security Council/technical committees. The goal is a coordinated, accountable approach to issues affecting core node operations and broader ecosystem incidents.\
+As steward of the Haskell Core Node Repositories and a coordination point for decentralized projects, Intersect MBO is establishing a **decentralized security support process** that plugs into existing stakeholder setups—SPO networks, core engineering teams, vendors, community ops, and the Security Council/technical committees. The goal is a coordinated, accountable approach to issues affecting core node operations and broader ecosystem incidents.\
 **The process aims to:**
 
 * **Unify intake & triage:** Provide a single, coordinated path for reports (vulnerabilities, outages, anomalies) with a shared severity model and escalation map; ideally avoiding ad-hoc routes that slow response or miss critical reviewers.
@@ -63,7 +63,7 @@ The SIO will work closely with **partner incident-response providers** such as t
 
 | Department:   | Open Source Office and (Security Council) |
 | ------------- | ----------------------------------------- |
-| Job Function: | Incident Security Officer                 |
+| Job Function: | Security Incident Officer                 |
 
 Department:\
 Open Source Office (OSO) – Intersect MBO
