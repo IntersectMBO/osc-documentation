@@ -6,6 +6,14 @@ description: >-
 
 # 🫣 Incident Monitoring
 
+**Important Links:**
+
+**1) Security Council:** \
+[**https://committees.docs.intersectmbo.org/intersect-technical-steering-committee/about/security-council**](https://committees.docs.intersectmbo.org/intersect-technical-steering-committee/about/security-council)
+
+**2) Security Policy:** \
+[**https://opensourcecommittee.docs.intersectmbo.org/policies/security-policy**](https://opensourcecommittee.docs.intersectmbo.org/policies/security-policy)
+
 ### **Executive Summary:**
 
 As steward of the Haskell Core Node Repositories and a coordination point for decentralized projects, Intersect MBO is establishing a **decentralized security support process** that plugs into existing stakeholder setups—SPO networks, core engineering teams, vendors, community ops, and the Security Council/technical committees. The goal is a coordinated, accountable approach to issues affecting core node operations and broader ecosystem incidents.\
