@@ -32,7 +32,7 @@ As steward of the Haskell Core Node Repositories and a coordination point for de
 
 #### Coordination Layer
 
-The **Security Council (SC)** serves as the coordination layer for decentralized security support Haskell Node. It assesses risks, validates incidents, and determines the appropriate response under the Incident Management Process. The SC ensures governance continuity while drawing on additional support from the **Open Source Committee (OSC)** and the **Technical Steering Committee (TSC)** to align technical and governance actions across the landscape.
+The **Security Council (SC)** serves as the coordination layer for decentralized security support for the whole network. It assesses risks, validates incidents, and determines the appropriate response under the Incident Management Process. The SC ensures governance continuity while drawing on additional support from the **Open Source Committee (OSC)** and the **Technical Steering Committee (TSC)** to align technical and governance actions across the landscape.
 
 #### Operational Lead: Security Incident Officer (SIO)
 
@@ -48,7 +48,7 @@ Core responsibilities of the SIO include:
 * **Procedure development & drills** – defining playbooks and running exercises.
 * **Release event oversight** – monitoring critical software releases to ensure secure deployment.
 * **Best practices adoption** – embedding CI/CD checks, static analysis, and security scanning into repos.
-* **Tooling feasibility** – designing/assessing monitoring solutions (transactions, contracts, wallets, addresses, dashboards, alerts)
+* **Tooling feasibility** – designing/assessing monitoring solutions (transactions, contracts, wallets, addresses, dashboards, alerts).
 
 #### External Coordination with Partner IR Teams
 
