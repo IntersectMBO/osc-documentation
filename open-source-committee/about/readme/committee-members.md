@@ -16,5 +16,5 @@
 | Committee Seat     | Arnuad Bailly                                  | April '26                |
 | Committee Seat     | Philip DiSarro                                 | April '26                |
 | Committee Seat     | Georg Link - Bitergia                          | April '26                |
-| Committee Seat     | Niels Mündler                                  | April '26                |
+| Committee Seat     | Vacant Seat                                    | April '26                |
 
