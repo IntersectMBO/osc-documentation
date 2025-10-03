@@ -69,6 +69,7 @@
 * [🥳 Project Incubation Process](policies/project-incubation-process/README.md)
   * [😋 Project Incubation Lifecycle Framework](policies/project-incubation-process/project-incubation-lifecycle-framework.md)
   * [🥹 Project Incubation: Acceptance Criteria](policies/project-incubation-process/project-incubation-acceptance-criteria.md)
+  * [😃 Incubated Projects](policies/project-incubation-process/incubated-projects.md)
 * [🥸 Project Maturity Tiers (2025)](project-maturity-tiers-2025.md)
 * [✅ OSC Voting Policy](policies/osc-voting-policy/README.md)
   * [OSC Off-Cycle Vote 09.2024](policies/osc-voting-policy/osc-off-cycle-vote-09.2024.md)
