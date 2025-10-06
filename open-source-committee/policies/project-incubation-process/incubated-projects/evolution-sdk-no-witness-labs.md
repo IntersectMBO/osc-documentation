@@ -7,50 +7,7 @@ icon: gear-complex-code
 
 ![](../../../.gitbook/assets/unknown.png)\
 \
-We’re excited to share a significant milestone for Intersect’s Incubation Program: Evolution SDK has been officially accepted as the first project to enter incubation and the first project to do so after being reviewed by both our Open Source and Technical Steering Committees.
 
-### Introducing Evolution SDK
-
-Building decentralized applications (DApps) on Cardano has often been more complex than it should be. Developers face challenges in transaction construction, fragmented tooling, and scaling their solutions. Evolution SDK changes this dynamic – providing a scalable transaction builder and off-chain framework that makes it dramatically easier for developers to build production-ready DApps.
-
-By incubating the Evolution SDK, Intersect ensures that this critical developer infrastructure grows in a community-driven, vendor-neutral environment, thereby accelerating Cardano adoption across the ecosystem.
-
-The road ahead
-
-The Evolution SDK begins its journey in the Incubation Phase, where it will be nurtured with support from Intersect’s open-source governance model, technical expertise, and ecosystem partnerships. The project roadmap includes:
-
-* Robust transaction builder and UTXO selection tools.
-* Multi-provider support (Maestro, Blockfrost, Koios, and more).
-* Wallet integrations and smart contract support.
-* Future-ready scaling features, including Hydra integration.
-
-Over time, Evolution SDK will scale into a mature project, aiming to become a foundational layer for Cardano’s developer ecosystem.
-
-What this unlocks for the ecosystem
-
-* Developer efficiency: Teams can focus on innovation, not reinventing infrastructure.
-* Ecosystem growth: Wallets, DeFi protocols, and governance tools can all build on top of Evolution SDK.
-* Onboarding: TypeScript-first design lowers the barrier for developers from other ecosystems to join Cardano.
-
-Looking forward
-
-This is just the beginning. With the Evolution SDK setting the pace, Intersect’s Incubation Program will continue to bring forward projects that strengthen Cardano’s open-source foundation and empower developers worldwide.
-
-Quote from No Witness Labs on this move:\
-“By bringing Evolution SDK under Intersect’s stewardship, we’re giving Cardano developers a durable, neutral home for a tool they will be able to rely on while keeping the same team building it and planning the roadmap. As part of Intersect’s incubation program, Evolution SDK is going to get structured support from open-source professionals, technical validation of quality, visibility and ensure longevity.
-
-We are happy and proud No.Witness Labs received this opportunity while remaining the primary maintainer focused on quality. Together, we’re committing to a simple promise: Evolution SDK will be better than it is today.”
-
-— Jonathan Rodriguez, Cofounder, No Witness Labs\
-\
-Quote from Christian on this move:\
-\
-‘After a year and a half of development on this incubation process, bringing Evolution SDK as the first project into incubation isn’t just a project win; it’s a mission moment for Intersect. We’re here to serve the Cardano community as a true member-based organization, with our open source efforts a key pillar in our coordination role; similar to the way the Linux Foundation serves its ecosystems: neutral, accountable, and focused on the long haul. Our job is to make it easier to build on Cardano and to keep that work community-owned. Incubation is how we do it; help great ideas grow into mature, reliable infrastructure that everyone can trust.’
-
-— Christian Taylor, Head of the Open Source Office and Incuabtion, Intersect
-
-Proposal Acceptance Document:\
-[Project Submission #005: Evolution - SDK](https://493748844-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLBdnzp0eZpGri9sVpseI%2Fuploads%2FRR3oTiC14HVY8QPLwj3w%2FProject%20Submission%20%23005_%20Evolution%20-%20SDK.pdf?alt=media\&token=bfdbfbc9-b3d1-4d7b-851e-fe98afb5342d)
 
 ### Frequently Asked Questions (FAQ)
 
