@@ -70,7 +70,7 @@
 * [🥳 Project Incubation Process](policies/project-incubation-process/README.md)
   * [😋 Project Incubation Lifecycle Framework](policies/project-incubation-process/project-incubation-lifecycle-framework.md)
   * [🥹 Project Incubation: Acceptance Criteria](policies/project-incubation-process/project-incubation-acceptance-criteria.md)
-  * [😃 Incubated Projects](policies/project-incubation-process/incubated-projects/README.md)
+  * [😃 Incubated Projects](policies/project-incubation-process/incubated-projects.md)
     * [Evolution SDK- No Witness Labs](policies/project-incubation-process/incubated-projects/evolution-sdk-no-witness-labs.md)
 * [🥸 Project Maturity Tiers (2025)](project-maturity-tiers-2025.md)
 * [✅ OSC Voting Policy](policies/osc-voting-policy/README.md)
