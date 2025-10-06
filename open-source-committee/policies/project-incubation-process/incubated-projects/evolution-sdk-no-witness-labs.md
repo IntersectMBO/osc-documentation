@@ -1,5 +1,5 @@
 ---
-description: Quick Description of Evolution SDK
+description: Frequently Asked Questions of Evolution SDK
 icon: gear-complex-code
 ---
 
