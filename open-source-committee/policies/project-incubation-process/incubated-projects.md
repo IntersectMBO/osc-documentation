@@ -6,6 +6,7 @@ description: List of Active Incubating Projects and their Maturity Levels
 
 #### Frequently Asked Questions (FAQ): [Evolution SDK](incubated-projects/evolution-sdk-no-witness-labs.md)
 
+**Project Link:** [**https://github.com/IntersectMBO/evolution-sdk**](https://github.com/IntersectMBO/evolution-sdk)\
 **Date Incubated:** 10/7/2025\
 **Press Release or blog:** Coming Soon\
 **Project Maturity Level:** Incubating\
