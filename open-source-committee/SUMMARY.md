@@ -50,7 +50,8 @@
 
 * [Working Group Calendar](working-groups/working-group-calendar.md)
 * [Tooling Working Group](working-groups/tooling-working-group.md)
-* [Developer Experience Working Group](working-groups/developer-experience-working-group.md)
+* [Developer Experience Working Group](working-groups/developer-experience-working-group/README.md)
+  * [Meeting Minutes date](working-groups/developer-experience-working-group/meeting-minutes-date.md)
 * [Commercialization Working Group](working-groups/commercialization-working-group/README.md)
   * [SWOT Analysis](working-groups/commercialization-working-group/swot-analysis.md)
 * [OSC Working Group Archive](working-groups/osc-working-group-archive/README.md)
