@@ -1,5 +1,13 @@
 # 🤓 Maintainer Retainer
 
+{% hint style="info" %}
+Applications for Community Projects to be maintained are open! [https://tinyurl.com/MRP-Projects](https://tinyurl.com/MRP-Projects)&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+Applications are open for Developers>Community Maintainers! [https://tinyurl.com/MRP-Maintainer](https://tinyurl.com/MRP-Maintainer)
+{% endhint %}
+
 ## Executive Summary
 
 Maintainer Retainer Program provides recurring funding to experienced contributors responsible for maintaining critical Cardano open-source repositories, ensuring projects remain secure, regularly updated, and actively developed.

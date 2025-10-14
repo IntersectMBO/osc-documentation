@@ -7,6 +7,10 @@ description: >-
 
 # 🥳 Project Incubation Process
 
+{% hint style="info" %}
+Ready for the next step? Apply now to incubate your project! [https://tinyurl.com/OSO-Incubation](https://tinyurl.com/OSO-Incubation)
+{% endhint %}
+
 ### What is an Incubation Process?
 
 The **Incubation Process** is how Intersect supports open-source projects in the Cardano ecosystem.\

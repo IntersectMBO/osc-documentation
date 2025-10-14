@@ -1,10 +1,8 @@
----
-description: >-
-  This is a working draft. Nothing here should be treated as final until
-  formally approved. Formal OSC approval to follow.
----
-
 # 😇 Tooling Sustainability
+
+{% hint style="info" %}
+Applications for Tooling Projects are open! Apply here: [https://tinyurl.com/OSC-Tooling](https://tinyurl.com/OSC-Tooling)
+{% endhint %}
 
 This program is actively being worked on by the tooling working group:\
 [https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group](https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group)\
