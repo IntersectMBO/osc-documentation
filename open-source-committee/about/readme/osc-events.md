@@ -6,8 +6,14 @@ The Open Source Committee was awarded a budget from the Cardano Treasury to enac
 
 ### Quarter 4 2025 - Events
 
-1. Open Source Summit Japan - Elaine (Chair)
-2. Cardano Summit Berlin - Elaine (Chair), Georg, Sebastian
+1. Cardano Summit Berlin - Elaine (Chair), Georg, Sebastian
+   1. Market the Paid Open Source Model
+   2. Market OSC - POSM Programs
+   3. Open Source Metrics Spotlight (at Intersect Booth)
+2. Open Source Summit Japan - Elaine (Chair)
+   1. Market the Paid Open Source Model
+   2. Attend sessions to deepen open-source knowledge
+   3. Network creating connections for Cardano Community Members and potential future partnerships. &#x20;
 
 
 
