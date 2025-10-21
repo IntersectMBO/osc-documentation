@@ -58,6 +58,93 @@ Provide non-financial support such as mentorship, technical guidance, and integr
 * Increased community engagement and contributions to funded projects.
 * Enhanced security and maintainability of critical open-source libraries.
 
+## Program Overview
+
+The Tooling Sustainability Program is designed to fund and support critical open-source tools that the Cardano ecosystem depends on. Its purpose is to keep these projects healthy, reliable, and maintainable over the long term by providing structured support and accountability.
+
+We focus on projects that:
+
+* Improve developer experience (e.g., better workflows, faster onboarding, simplified tooling).
+* Enhance interoperability between projects and across ecosystems.
+* Strengthen day-to-day productivity for developers and operators.
+* Reduce technical debt across the ecosystem by ensuring tools remain modern, tested, and documented.
+
+Applicants must demonstrate they are ready for sustainability funding by meeting a must-have checklist covering repository hygiene, governance, delivery planning, and baseline risk/security practices.
+
+### How the Process Works
+
+#### Phase 1 — Interest & Eligibility (this form)
+
+* Submit your project through the ClickUp intake form.
+* Confirm all required checklist items (using[ the self-attestation script](https://github.com/IntersectMBO/Project-Compliance-Attestation) results as a pdf with submission evidence).
+* Only applications that meet all criteria will advance.
+
+**Outcome:**
+
+* **Pass:** Invited to Phase 2.
+* **Fail:** Feedback provided with remediation steps. Applicants may re-apply once fixed.
+
+#### Phase 2 — Evaluation & Demo (with OSC and Tooling WG)
+
+* Qualified projects enter a structured evaluation led by the Open Source Committee (OSC).
+* Components include:
+  * **Concise project demo** (\~5–10 minutes).
+  * **Review of repository artifacts**, cross-checked with your attestation output.
+  * **Q\&A session** covering scope, technical readiness, governance, roadmap, and security posture.
+
+**What reviewers look for:**
+
+* Clear problem definition and user need.
+* Evidence of adoption or demand.
+* Defined path to PoC/MVP with acceptance criteria.
+* Demonstrated ability to deliver on milestones.
+
+#### Phase 3 — Selection & Funding Terms
+
+Projects approved by OSC move to **funding alignment**, which formalizes:
+
+* **Milestones** (broken into 2–4 measurable deliverables).
+* **Acceptance criteria** for each milestone.
+* **Reporting cadence** (e.g., monthly check-ins, milestone demos).
+* **Disbursement schedule**, tied directly to milestone completion.
+* **Non-funding support** (optional): security reviews, governance consulting, documentation support, community testing, analytics setup.
+
+**Outcome:**
+
+Projects become formally supported under the Tooling Sustainability Program, with sustained backing for successful delivery and long-term maintainability.
+
+### **Payment Bands (Guidance Framework)**
+
+| **Band**                                     | **Work Type**                                      | **One-Time Payout (USD)**             | **Criticality Level**                        |
+| -------------------------------------------- | -------------------------------------------------- | ------------------------------------- | -------------------------------------------- |
+| **Band 0 — Exceptional (Ceiling Tier)**      | Groundbreaking or ecosystem-critical tooling       | **$35,000- $50,000 (OSC discretion)** | 🔴 Mission-critical or ecosystem-wide impact |
+| **Band 1 — Core Critical Tools**             | Infrastructure, build systems, or protocol tooling | **$15,000 – $35,000**                 | 🔴 Essential for Cardano’s operation         |
+| **Band 2 — High Impact Developer Tooling**   | SDKs, testing suites, language tools               | **$5,000 – $15,000**                  | 🟠 Widely used by developers but non-core    |
+| **Band 3 — Ecosystem Utilities & Libraries** | Middleware, dashboards, CLI tools                  | **$2,000 – $5,000**                   | 🟡 Improves productivity or observability    |
+| **Band 4 — Experimental / Incubation Tools** | New or early-stage repos                           | **$500 – $2,000**                     | 🟢 Innovative but unproven                   |
+
+**Note:** The above bands serve as _guidance only._ Final award amounts are determined at the discretion of the Open Source Committee (OSC) based on submission quality, impact, and ecosystem priority. Band categories may also change at any time, but notice will be provided. The maximum ceiling for any individual payout is $50,000 USD.
+
+### Self-Attestation (Phase 1 Requirement)
+
+As part of the application, projects must complete a **self-attestation** using the Intersect Open Source Office scripts. This ensures consistent baseline checks before moving forward.
+
+**Script location:**
+
+[Intersect OSO – Self-Attestation Scripts](https://github.com/IntersectMBO/Project-Compliance-Attestation)
+
+#### How to Use the Scripts
+
+1. Follow the Readme: [IntersectMBO/Project-Compliance-Attestation: This is a basic script that runs compliance checks for projects in Tooling Program](https://github.com/IntersectMBO/Project-Compliance-Attestation)
+2. **Run the appropriate script** against your repository URL or local path. Each script validates critical areas such as:
+   * Required files ([`README.md`](http://readme.md/), `LICENSE`, [`CONTRIBUTING.md`](http://contributing.md/), [`SECURITY.md`](http://security.md/))
+   * Governance and maintainer metadata ([`MAINTAINERS.md`](http://maintainers.md/), roles, roadmap)
+   * CI/CD presence and test coverage
+   * Dependency hygiene (lockfiles, SBOM, dependency update tooling)
+   * Security reporting and disclosure basics
+3. **Save the output** (console log or generated report).
+4. **Attach the pdf results to your application form** along with links to your evidence (repo files, CI config, SBOM, etc.).
+
 ### Proposed Funding Rules for Tooling Sustainability Program:
 
 1. Subsidee Style Stipend- Meant to fund valued tools the ecosystem depends on but has no sustainable source of funds.
