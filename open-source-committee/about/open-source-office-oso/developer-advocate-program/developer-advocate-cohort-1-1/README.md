@@ -8,7 +8,11 @@ TBD
 
 #### **Emmanuel:**  [https://www.linkedin.com/in/emmanuel-shikuku-devops/](https://www.linkedin.com/in/emmanuel-shikuku-devops/)
 
-TBD
+Emmanuel Titi is a Developer Advocate at Intersect, dedicated to empowering developers within the Cardano ecosystem. His work focuses on onboarding new contributors, maintaining and improving technical documentation across core repositories, and driving developer evangelism through open collaboration and education.
+
+With a strong background in full-stack and DevOps engineering, Emmanuel has been a key contributor to open-source Cardano projects such as Catalyst Explorer and Govtool Outcomes Pillar. Before joining Intersect, he led development at Lidonation, where he built Cardano-integrated learning and reward platforms, NFT minting tools, and crypto payment packages .
+
+Passionate about open-source development, Emmanuel advocates for a inclusive, and well-documented developer experience helping make Cardano more accessible to builders around the world.
 
 #### Harun:  [https://www.linkedin.com/in/harunslinked/](https://www.linkedin.com/in/harunslinked/)
 
