@@ -4,7 +4,11 @@
 
 #### **Dan:** [https://www.linkedin.com/in/danbaruka/](https://www.linkedin.com/in/danbaruka/)
 
-TBD
+Dan Baruka is a Developer Advocate at Intersect and co-founder of Uptodate Developers, where he leads initiatives focused on strengthening developer engagement and advancing blockchain innovation. A Cardano Ambassador since 2021, he is passionate about empowering developers through education, hands-on collaboration, and real-world adoption of decentralized technologies.
+
+With a strong background in DevOps, software engineering, and blockchain systems, he has directed numerous projects across fintech, education, and decentralized applications, including platforms such as AdaEx and DevCommunityIo. Beyond development, he is an active article writer, meetup organizer, workshop facilitator, and hackathon leader, driving community growth and technical awareness across Africa and beyond.
+
+His leadership combines deep technical expertise with a strong commitment to open collaboration, infrastructure reliability, and developer experience, helping make Cardano and Web3 technologies more accessible to builders worldwide.
 
 #### **Emmanuel:**  [https://www.linkedin.com/in/emmanuel-shikuku-devops/](https://www.linkedin.com/in/emmanuel-shikuku-devops/)
 
@@ -20,7 +24,11 @@ TBD
 
 #### Uche: [https://www.linkedin.com/in/thisisobate/](https://www.linkedin.com/in/thisisobate/)
 
-TBD
+Uchechukwu Obasi is a Software Engineer passionate about open source, developer experience, and community building. He currently serves as a Developer Advocate at Intersect, where he helps grow and support the global Cardano developer ecosystem.
+
+Uchechukwu focuses on empowering developers through education, technical content, and advocacy — helping new and existing contributors navigate the ecosystem and build impactful projects on Cardano.
+
+He is also an active speaker and community mentor, dedicated to fostering inclusive spaces where developers can learn, collaborate, and innovate together.
 
 
 
