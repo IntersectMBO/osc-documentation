@@ -6,89 +6,138 @@ description: >-
 
 # 🤯 Accelerator Program
 
-Mission:
+### Executive Summary
 
-To empower and accelerate high-potential projects within the Cardano ecosystem by offering tailored support, strategic guidance, and essential resources through the Commercialization Working Group.&#x20;
+The POSM Accelerator Program is a structured, mentor-led initiative designed to help open-source Cardano projects evolve from early-stage ideas into sustainable, investable ventures. It combines three specialized workshop circuits that can operate independently or sequentially as a full acceleration path:
 
-This accelerator initiative aims to bridge the gap between open-source innovation and market adoption (from start-ups to Fortune 1000 companies), ensuring projects have the tools to scale, deliver tangible value, and contribute to the sustainable commercial growth of the Cardano ecosystem.
+1. [COSS for Cardano](https://docs.google.com/document/d/1YDcCEwszHQyc7UQtSv2Mk_YNKQHuRubxHYQZizKpY_c/edit?usp=sharing) – teaches how to turn open-source projects into sustainable Commercial Open Source Software (COSS) businesses.
+2. [Investor Pitching & Fundraising](https://docs.google.com/document/d/1bFLTSxrdaJIsYGNF9CrRpQf1N0kft8hl005mYo2P6GU/edit?usp=sharing) – prepares founders to effectively present their ideas to investors, funds, and ecosystem programs.
+3. [Technical/Product Review & Market Fit](https://docs.google.com/document/d/1sAByO44UTEDZ2aS9DGdRg7Zb8weks_kH5vKDuYI53Yk/edit?usp=sharing) – validates technical integrity, user alignment, and market readiness before scaling.
 
-\
-Scope of Work:
+Each circuit runs as a five-session series (1 hour per week over one month) and is guided by mentors with deep expertise in blockchain, open source, and venture acceleration. The program produces tangible outputs — including validated business models, investor-ready decks, and market-aligned product roadmaps — and establishes a reusable library of tools, templates, and recordings for future cohorts.
 
-The Accelerator Research Program will focus on three key stages of project development to support teams from ideation through market launch:
+### Program Purpose
 
-1. Pre-Catalyst Proposal Training:
-2. Equip early-stage projects with skills to develop strong, fundable proposals.
-3. Focus on technical feasibility, value proposition, and market positioning.
-4. Post-Catalyst Business Model Mentoring:
-5. Provide structured guidance to funded projects on refining their business models, enhancing go-to-market strategies, and ensuring long-term sustainability.
-6. Emphasis on revenue generation pathways and scalability.
-7. Product Viability & Performance (PVP) Accelerator:
-8. Develop a pilot program to prepare projects for commercialization readiness, including product validation, market fit analysis, and investor preparation.
-9. Research and document best practices for running accelerators within Cardano and analyze models from similar ecosystems.
+The Accelerator Program strengthens Cardano’s open-source ecosystem by professionalizing how builders develop, validate, and scale their projects. While treasury and grant mechanisms provide essential funding, long-term sustainability requires education, discipline, and market understanding.
 
-#### Program Objectives:
+Through POSM, Intersect provides the structure and mentorship to bridge technical innovation with real-world execution. This program helps teams move from grant dependency to commercial readiness, from idea to product-market fit, and from code to capital.
 
-* Support Market Readiness:\
-  Prepare projects with the resources and mentorship needed to move from development to a market-ready state.
-* Drive Ecosystem Adoption:\
-  Enable projects to achieve real-world adoption within the Cardano ecosystem and the broader blockchain space.
-* Enhance Commercial Viability:\
-  Guide projects in refining their business models, establishing go-to-market strategies, and identifying revenue opportunities.
-* Foster Strategic Partnerships:\
-  Connect accelerator participants with industry partners, investors, and ecosystem collaborators to drive growth and adoption.
-* Work with [Project Catalyst Accelerators:\
-  ](https://projectcatalyst.io/funds/13/cardano-partners-growth-and-acceleration)Help to provide mentors to Project Catalyst funded accelerators such as Techstars, Draper, United Nations Development Program w/ Emurgo and CV Labs .&#x20;
-* Ensure Sustainable Growth:\
-  Support the development of scalable solutions aligned with Cardano’s long-term ecosystem vision.
-* Monitor & Measure Impact:\
-  Define and track Key Performance Indicators (KPIs) to assess project progress, ensuring they meet milestones and deliver measurable value.
+### Workshop Circuits Overview
 
-#### Program Structure & Staffing:
+#### 1. [COSS for Cardano](https://docs.google.com/document/d/1YDcCEwszHQyc7UQtSv2Mk_YNKQHuRubxHYQZizKpY_c/edit?usp=sharing)
 
-* Staffing Needs:
-  * Senior Business Subject Matter Experts (SMEs): To provide strategic mentoring and domain expertise.
-  * Business Architects: To guide projects in designing scalable and sustainable models.
-  * Mentors & Judges: To assess project potential, offer feedback, and evaluate progress during accelerator stages.
-  * "Sharks": For mock pitch sessions and funding simulations, helping teams prepare for real investor scenarios.
-* Framework:
-  * Design and implement training pilots for each program area:
-  * Pre-Catalyst Proposal Training
-  * Post-Catalyst Business Model Mentoring
-  * PVP Accelerator or preparation for external funding arenas
-* Filtering Process:
-  * Develop a selection framework to identify high-potential projects, with possible focus on specific market categories to align with Cardano’s strategic goals.
+Focus: Building sustainable Commercial Open Source Software (COSS) businesses.
 
-#### Connection to Other Programs:
+Mentors: Chinstrap Community (specialists in COSS and blockchain business design).
 
-This accelerator will integrate with existing Cardano programs and funding mechanisms, such as Project Catalyst and the Commercialization Working Group, ensuring continuity and maximizing the impact of funded projects. The accelerator will also provide insights for refining future programs and creating stronger pathways for ecosystem growth.
+Structure (5 × 1-hour sessions):
 
-Connect to other Accelerators/Incubators to understand what works or is needed to have a successful project run. Connect Cardano Developers/Mentors to other Accelerators where we are projects that touch Cardano Ecosystem are active.
-
-\
+1. Intro to COSS & Cardano Context
+2. Grants, Treasury & Funding Interplay
+3. Legal & DAO Structures for COSS
+4. Business Model Building for Blockchain
+5. Market Adoption & Scaling (with pitch-back session)\
 
 
-#### Budget Request:
+Deliverables (Per Cohort):
 
-* Amount Requested: $50,000 USD
-* Allocation:
-  * Fund three (2-3 week) pilot programs, covering each accelerator stage
-    * Each pilot program would have 5-10 startups.
-  * Support staffing, materials, mentorship costs, and participant stipends.
-  * Conduct research and deliver an analysis document for the PVP Accelerator, outlining a scalable accelerator framework and best practices.
-  * Framework for Accelerator SaaS - off-shelf white label service ( to be integrated into Intersect web domain) - reduced cost of running the accelerator and need for permanent staff [(The Secret - Demo Video](https://www.loom.com/share/95594ed7239a473a910f0a041f973a4c?sid=7dda70e6-657d-4d78-973a-09f3a0bebb0d) - 4 mins ;[ Costs 1K USD/year](https://www.joinsecret.com/business) - website
+* COSS Opportunity Map
+* Funding Alignment Plan
+* Legal/DAO Checklist
+* Cardano-tailored Business Model Canvas
+* Draft COSS Pitch
 
-| <p>Pilot Programs (3 programs)</p><p>Mentorship costs:</p><p>$500 per mentor</p><p>3 mentors per startup (Technical + Business)</p><p>5 startups per program</p><p><br></p>                                                                                                                      | $7,500 per program = $22,500      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
-| <p>Research &#x26; Analysis</p><p>Market research, competitive benchmarking, and scalable accelerator framework</p>                                                                                                                                                                              | $5,000                            |
-| <p>Accelerator SaaS Setup</p><p>White-label SaaS setup &#x26; customization: ~$1,000</p><p>Hosting, Integrations, Software licenses: ~$3,000+ (depends on Intersect infrastructure)</p><p>Automation &#x26; CRM tools (for applications, mentor matching, etc.): ~$2,000 annually</p><p><br></p> | Total SaaS & Tech Costs: \~$6,000 |
-| Marketing / Community Engagement - to be used by Intersect marketing team: \~$1,500                                                                                                                                                                                                              | $1,500                            |
-| Total                                                                                                                                                                                                                                                                                            | \~$35,000                         |
+Value:
 
-#### Success Metrics:
+* Builds commercial acumen for open-source maintainers.
+* Reduces reliance on grants by fostering business sustainability.
+* Reusable templates and resources contribute to ecosystem maturity.
 
-* Number of projects completing each accelerator stage.
-* Mobilization of mentors and resources for Cardano Start-ups.
-* Percentage of projects securing follow-on funding or partnerships post-accelerator.
-* Measurable improvements in project readiness, market fit, and adoption rates.
-* Participant feedback scores on program effectiveness and value.
+***
+
+#### 2. [Investor Pitching & Fundraising](https://docs.google.com/document/d/1bFLTSxrdaJIsYGNF9CrRpQf1N0kft8hl005mYo2P6GU/edit?usp=sharing)
+
+Focus: Preparing founders to confidently and effectively raise investment capital.
+
+Mentors: Startup and VC professionals with experience in blockchain fundraising.
+
+Structure (5 × 1-hour sessions):
+
+1. The Anatomy of a Pitch Deck – the 10 essential slides and blockchain-specific adjustments.
+2. Storytelling & Communication – turning complex technology into investor-friendly narratives
+3. Investor Expectations & Fundraising Mechanics – evaluating funding options (equity, tokens, SAFE, grants).
+4. Pitch Practice & Objection Handling – refining delivery and fielding hard questions.
+5. Mock Pitch Day – live investor simulation with feedback and scoring.\
+   \
+
+
+Deliverables (Per Cohort):
+
+* Investor-Ready Pitch Deck
+* Storytelling Framework Notes
+* Fundraising Strategy Roadmap
+* Mentor Feedback Report
+* Investor Readiness Checklist
+
+Value:
+
+* Founders gain investor fluency and pitch confidence.
+* Projects transition from ecosystem grants to external capital.
+* Reusable pitch frameworks and feedback reports form part of Cardano’s accelerator toolkit.
+
+***
+
+#### 3. [Technical / Product Review & Market Fit](https://docs.google.com/document/d/1sAByO44UTEDZ2aS9DGdRg7Zb8weks_kH5vKDuYI53Yk/edit?usp=sharing)
+
+Focus: Validating technical integrity, user value, and ecosystem alignment.
+
+Mentors: Product managers, technical architects, and ecosystem engineers.
+
+Structure (5 × 1-hour sessions):
+
+1. Technical Due Diligence – code quality, architecture, documentation, and security checks.
+2. Product Market Discovery – identifying user needs, personas, and feedback channels.
+3. Ecosystem Fit & Dependencies – Cardano integration mapping and interoperability review.
+4. Competitive Analysis – benchmarking and gap identification.
+5. Validation Day – final product and roadmap presentation with mentor critique.
+
+Deliverables (Per Cohort):
+
+* Technical Review Report
+* Market Fit Canvas
+* Competitor Landscape Map
+* Validated Product Roadmap
+
+Value:
+
+* Ensures quality and fit before funding or launch.
+* Strengthens trust in Cardano’s technical ecosystem.
+* Creates long-term accountability through validated milestones.\
+
+
+### Cross-Program Deliverables
+
+At the end of any track — or the full linear progression — each participant will have:
+
+* A validated COSS model and business plan.
+* An investor-ready deck and fundraising roadmap.
+* A reviewed, technically sound, market-aligned product plan.
+
+Projects completing all three circuits qualify for a “POSM Accelerator Graduate” designation, recognized by the Open Source Committee as being investment and adoption ready.
+
+### Logistics
+
+* Format: All sessions are held via an online medium (1-hour weekly).
+* Schedule: Each circuit runs for one month; three to six total cohorts per year.
+* Rules: Sessions conducted under the Chatham House Rule to encourage open discussion.
+* Recordings: Only with consent; otherwise confidential.
+* Eligibility: Preference to active Cardano maintainers or Intersect members.
+* Cost: Funded under the Paid Open Source Model (POSM) Accelerator budget.
+
+### Value to Intersect & the Ecosystem
+
+* Sustainability: Empowers open-source builders to generate sustainable revenue.
+* Professionalization: Builds business, fundraising, and technical maturity.
+* Ecosystem Growth: Strengthens Cardano’s project portfolio and credibility.
+* Reusability: Generates long-term educational assets and playbooks.
+* Pipeline Development: Creates a feeder channel for the Maintainer Retainer, Code for Us, and Tooling Sustainability programs.
