@@ -6,63 +6,59 @@ description: The current report of Repo Maturity for Intersect "Core Cardano" Pr
 
 #### Summary
 
-In July 2025, the Cardano open-source ecosystem entered a broad-based acceleration phase, reversing June’s contraction and delivering one of the most active months in recent cycles. Total contributions surged across nearly all activity metrics, with commits doubling (+101%), pull requests climbing (+70.7%), and issues increasing (+79.7%). Code volume expanded sharply, driven by a +651% jump in modified files — signaling large-scale structural updates, feature integrations, and dependency changes. IOHK maintained its position as the central engineering driver, while Intersect MBO emerged as a major open-source contributor, and unaffiliated (“Unknown”) contributors posted unprecedented growth.\
-The spike in governance-related development was evident with the debut of govtool and the rapid scaling of formal-ledger-specifications. Contributor participation grew geographically diverse, with especially strong gains from North and South American time zones (UTC−5, UTC−4).
+In **September 2025**, the Cardano open-source ecosystem continued its transition into a stabilization and refinement phase following August. Overall contributions moderated across most activity metrics, signaling the close of large-scale delivery cycles and the start of sustained optimization. **Commits declined** modestly **(−9.4%)**, **pull requests dipped** slightly **(−7.3%)**, and **issues decreased** **(−13.9%)** as teams shifted focus from feature expansion to performance tuning, QA, and documentation improvements.
+
+Despite this normalization, ecosystem participation remained strong. **IOHK** continued to anchor Cardano’s engineering output, maintaining the highest contribution share. **Intersect MBO** sustained its open-source delivery cadence, integrating governance-related and infrastructure workstreams into the broader ecosystem. **Unknown** contributors expanded their presence **(+7.3%)**, further advancing Cardano’s ongoing decentralization of development.
+
+Governance-related repositories **(govtool)** remained among the most active, while **cardano-ledger**, **plutus**, and **cardano-api** continued steady throughput on protocol and tooling enhancements. Contributor participation remained globally distributed, with a surge in **UTC +10** (Asia-Pacific) offsetting lighter output from the Americas.
 
 ***
 
-**General Observations**
+#### General Observations
 
 Organizational Contributions
 
-* IOHK led with 1,086 contributions and 46 authors — a +37.5% increase in contributions, sustaining its ecosystem leadership.
-* Intersect MBO surged with +11,500% growth in contributions, reflecting its formal integration into open-source workflows.
-* “Unknown” authorship grew by +1,040%, showing strong onboarding of unaffiliated or newly mapped contributors.
-* Tweag contributions rose +163%, while Well-Typed held steady in authors but dipped slightly in contribution volume (−1.5%).
-
-***
+* **IOHK** led with 1,018 total contributions **(−6.8%)** and 47 active authors, sustaining its ecosystem leadership.
+* **Intersect MBO** maintained consistent output **(−5.3%)**, demonstrating operational maturity in its open-source integration.
+* **Unknown** contributors increased **+7.3%**, reinforcing continued community growth and decentralization.
+* **Tweag (−5.3%)** and **Well-Typed (−3.3%)** recorded marginal slowdowns, consistent with a consolidation phase after earlier delivery spikes.
 
 Repository Activity
 
-* cardano-ledger (+92.9%), plutus (+158.6%), and cardano-api (+109.4%) led commit growth, indicating active protocol and tooling development.
-* Governance-related repositories (govtool, formal-ledger-specifications) entered the top activity tier, showing strategic expansion into governance tooling.
-* Core protocol repos like ouroboros-consensus (+55%) and cardano-node (+63.3%) maintained strong throughput.
+* **govtool (−5.7%)** and **plutus (−7.4%)** remained top activity centers, indicating continued investment in governance tooling and smart contract infrastructure.
+* **cardano-ledger (−9.5%)** and **ouroboros-consensus (−4.8%)** sustained strong protocol-level engagement.
+* **formal-ledger-specifications (−11.1%)** continued trending downward slightly as it transitioned into verification and maintenance stages.
 
-***
+\
+
 
 Pull Requests
 
-* 442 PRs were submitted (+70.7%) across 27 repositories by 67 contributors.
-* IOHK sustained leadership with 285 PRs, while Intersect MBO (64 PRs) and “Unknown” contributors (35 PRs) expanded sharply.
-* Liqwid Labs PR volume rose +400%, reflecting targeted delivery efforts.
-
-***
+* **406 PRs** were submitted (−7.3%) across 26 repositories by 65 contributors.
+* **IOHK** remained dominant with 269 PRs (−6.6%), while **Intersect MBO** (62 PRs) and **Unknown** contributors (38 PRs) sustained stable participation.
+* **Liqwid Labs** and community contributors posted modest gains, reflecting consistent decentralized activity.
 
 Issue Lifecycle
 
-* Total issues rose by +79.7%, with unique submitters increasing +39.3% and repository coverage expanding +18.2%.
-* Median open times remained stable at 8.5 days, showing sustained triage efficiency despite higher volume.
-* High-growth repositories included govtool (26 issues in its debut month) and formal-ledger-specifications (+1,100%).
-
-***
+* **Total issues** declined to 118 (−13.9%) with faster median resolution times (−4.9%), reflecting increased QA efficiency.
+* **IOHK** continued leading issue creation and resolution, while “Unknown” contributors expanded engagement by +33%.
+* Governance-related projects (**govtool**) showed improved turnaround, signaling process maturity.
 
 Contributor Participation
 
-* Active contributor counts grew to 83 (+38.3%), with gains spread across multiple organizations and unaffiliated contributors.
-* The diversity of commit and PR sources indicates deeper decentralization of development activity.
-
-***
+* The active contributor base remained stable at 85 (−2.3%), with participation distributed across all major organizations and independent contributors.&#x20;
+* The sustained global footprint across **UTC −7 to +10** underscores Cardano’s resilient, multi-regional engineering ecosystem.
 
 Geographic Representation
 
-* UTC−5 and UTC−4 posted triple-digit gains in commit activity (+378.6% and +250% respectively), signaling increased participation from the Americas.
-* UTC−3 returned to activity after being inactive in June, while UTC−6 remained stable and UTC−7 grew moderately.
-* No single time zone dominated commit volume, maintaining a distributed global footprint.
+* &#x20;**UTC +10** posted the strongest growth (+40.3%), reflecting renewed activity from Asia-Pacific contributors.
+* **UTC +1** and **+2** remained consistent, maintaining Europe’s core engineering presence.
+* North and South American zones (**UTC −5 to −3)** moderated following two months of accelerated activity, marking a balanced global distribution.
 
-***
+#### Conclusion
 
-**Conclusion**\
-\
-July 2025 reflected a high-velocity growth phase, with major increases in contributions, repository coverage, and governance-focused development. Intersect MBO was a large-scale contributor, alongside surging unaffiliated participation, marking a clear decentralization trend in Cardano’s engineering base. Coupled with geographic diversification and strong gains across both protocol and tooling projects, the ecosystem enters Q3 with momentum, expanded capacity, and broader participation than in previous cycles.
+**September 2025** represented a consolidation period following two high-velocity development cycles. The Cardano open-source ecosystem sustained **broad participation**, **efficient collaboration**, and **strong output** across key repositories, even as overall volumes normalized. **IOHK** continued to provide technical depth, **Intersect MBO** demonstrated sustained operational maturity, and **community contributors expanded their footprint** — collectively reinforcing the ecosystem’s decentralization and structural resilience.
 
-{% file src=".gitbook/assets/Monthly Maturity Report- July 2025.pdf" %}
+Cardano closed Q3 2025 with measurable stability and balanced contributor engagement, better positioning the ecosystem for continued momentum entering Q4.
+
+{% file src=".gitbook/assets/Monthly Maturity Report- September 2025.pdf" %}
