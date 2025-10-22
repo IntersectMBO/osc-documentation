@@ -20,7 +20,11 @@ Passionate about open-source development, Emmanuel advocates for a inclusive, an
 
 #### Harun:  [https://www.linkedin.com/in/harunslinked/](https://www.linkedin.com/in/harunslinked/)
 
-TBD
+Harun Waweru Mwangi is a driven Developer Advocate and blockchain entrepreneur with over 15 years of experience spanning business operations and Web3 development. As Co-founder of Tx-Meta and Software/Smart Contract Developer at Anastasia Labs, he combines deep technical expertise with visionary leadership to empower developers building on Cardano.
+
+A Certified Cardano Solutions Architect from EMURGO Academy and Plutus Pioneer Program alumnus, Harun has established himself as a key ecosystem advocate through his role as former SmartBlocks Ambassador and EMURGO Academy Social Media Manager. His technical portfolio includes the Zao Crypto On/Off-ramp App for African markets, and he is driving innovation through the DCU Protocol to transform traditional savings groups into decentralized credit unions.
+
+Harun's advocacy work focuses on onboarding new developers and driving adoption through education and mentorship. He is passionate about making Cardano accessible to builders across Africa while demonstrating blockchain's potential for solving real-world problems.
 
 #### Uche: [https://www.linkedin.com/in/thisisobate/](https://www.linkedin.com/in/thisisobate/)
 
@@ -30,9 +34,7 @@ Uchechukwu focuses on empowering developers through education, technical content
 
 He is also an active speaker and community mentor, dedicated to fostering inclusive spaces where developers can learn, collaborate, and innovate together.
 
-
-
-#### Selection Data
+### Selection Data
 
 Each applicant received a score from 1-10 pre-interview, applicants that received a 5 or higher were scheduled for an interview. Each applicant was asked the same 10-12 Interview questions, carfeul consideration was given relative to the original answers provided in each application. The below screenshot includes the aggregation of ratings from Committee members that gave a rating for each interviewed applicant. Each question asked was scored on a 1-5 scale. All Committee members had access to recordings in a timely fashion as well as the opportunity to provide their own rating.&#x20;
 
