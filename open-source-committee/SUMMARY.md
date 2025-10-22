@@ -135,7 +135,7 @@
   * [🤓 (09/04/2025) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/09-04-2025-meeting-minutes.md)
   * [🙃 (09/18/2025) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/09-18-2025-meeting-minutes.md)
   * [🤠 (10/02/2025) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/10-02-2025-meeting-minutes.md)
-  * [(10/16/2025) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/10-16-2025-meeting-minutes.md)
+  * [😎 (10/16/2025) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/10-16-2025-meeting-minutes.md)
   * [(10/30/2025) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/10-30-2025-meeting-minutes.md)
   * [(11/13/2025) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/11-13-2025-meeting-minutes.md)
   * [(11/20/2025) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/11-20-2025-meeting-minutes.md)
