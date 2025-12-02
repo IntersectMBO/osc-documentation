@@ -14,10 +14,7 @@ how we will respond to and remediate such reports.
 ### Reporting a Vulnerability
 
 If you discover a security vulnerability in this repository, we encourage you to
-responsibly disclose it to us. To report a vulnerability, please use
-the [private reporting form on
-GitHub](https://github.com/input-output-hk/mithril/security/advisories/new)
-to draft a new _Security advisory_.
+responsibly disclose it to us. To report a vulnerability, please send an email to <oso@intersectmbo.org>.
 
 Please include as much details as needed to clearly qualify the issue:
 
@@ -90,13 +87,13 @@ report security vulnerabilities to us.
 ## Contact Information
 
 To report a security vulnerability, please use [GitHub
-form]((add project github form for your project)). Should you experience any issues reporting via GitHub or have other questions, Please contact [Security](security@intersectmbo.org).
+form]((add project github form for your project)). Should you experience any issues reporting via GitHub or have other questions, Please contact [Security](oso@intersectmbo.org).
 
 ## Revision of Policy
 
 This Security Vulnerability Disclosure Policy may be updated or
 revised as necessary. Please check the latest version of this policy
-on the [IntersectMBO/osc-documentation repository]((add link for your project)).
+on the [IntersectMBO/osc-documentation repository](https://github.com/IntersectMBO/osc-documentation/blob/master/SECURITY.md).
 
 ## Conclusion
 
