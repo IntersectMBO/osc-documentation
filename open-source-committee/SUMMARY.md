@@ -44,10 +44,10 @@
   * [🫢 Bug Bounty Program](about/paid-open-source-model-posm/bug-bounty-program.md)
   * [🫣 Incident Monitoring](about/paid-open-source-model-posm/incident-monitoring.md)
   * [😎 Project Support Services](about/paid-open-source-model-posm/project-support-services.md)
-  * [😝 Cardano Summer of Code](about/paid-open-source-model-posm/cardano-summer-of-code.md)
   * [🤯 Accelerator Program](about/paid-open-source-model-posm/accelerator-program.md)
   * [😶‍🌫️ OSC Travel and Events](about/paid-open-source-model-posm/osc-travel-and-events.md)
   * [😌 Developer Advocates](about/paid-open-source-model-posm/developer-advocates.md)
+  * [🥲 Cardano Summer of Code](about/paid-open-source-model-posm/cardano-summer-of-code.md)
 
 ## Working Groups
 
