@@ -121,7 +121,8 @@ These severity levels are evaluated according to the [https://www.first.org/cvss
 
 #### 2.2 Reward Tiers and Payouts
 
-Each severity level has a corresponding reward range, ensuring fair compensation based on impact. These ranges serve as a guidance and does wholly reflect an award, as each issue or big incident may justify a higher bounty depending on level of threat.
+Each severity level has a corresponding reward range, ensuring fair compensation based on impact. These ranges serve as a guidance and does wholly reflect an award, as each issue or big incident may justify a higher bounty depending on level of threat.\
+&#xNAN;_&#x54;he Security Council and the Open Source Committee may choose to issue awards higher than $20,000 guided range depending on multifactor assessments._
 
 | Severity Level | Anticipated Reward Range |
 | -------------- | ------------------------ |
@@ -154,7 +155,9 @@ This section outlines how security researchers should report vulnerabilities, th
 
 #### 3.1 Vulnerability Submission Guidelines
 
-All vulnerability reports must be submitted through the GitHub private disclosure process ([https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security\_advisories\&learnproduct=code-security](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security_advisories\&learnproduct=code-security)), which ensures secure communication and proper tracking of submissions.
+All vulnerability reports must be submitted through the GitHub private disclosure process ([https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security\_advisories\&learnproduct=code-security](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security_advisories\&learnproduct=code-security)), which ensures secure communication and proper tracking of submissions.\
+\
+&#xNAN;_**\*If a repository has not configured this function properly for your disclosure, please report it to secuirty@intersectmbo.org.\***_
 
 **Required Information for a Valid Submission:**
 
