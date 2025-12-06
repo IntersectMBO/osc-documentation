@@ -1,7 +1,8 @@
 ---
 description: >-
-  This is a bug bounty program focused around the Core Node, Intersect owned or
-  sponsored prejcts.
+  This is a bug bounty program focused around the Core Node, Intersect
+  maintained or sponsored projects specifically related to the function of the
+  Cardano network.
 ---
 
 # 🫢 Bug Bounty Program
@@ -31,11 +32,13 @@ By implementing this structured and well-governed bug bounty program, the ecosys
 
 This section defines the boundaries of the bug bounty program, specifying which systems are eligible for testing and which activities are prohibited to ensure ethical participation.\
 \
-&#xNAN;_**Please note:**_ The scope of this program is limited to components and codebases maintained or supported by Intersect. Vulnerabilities in third-party applications, such as smart contracts powering decentralized applications (DApps), are out of scope
+\&#xNAN;_**Please note:**_ The scope of this program is limited to components and codebases maintained or supported by Intersect. Vulnerabilities in third-party applications, such as smart contracts powering decentralized applications (DApps), are out of scope
 
 #### 1.1 Systems and Assets in Scope
 
-The bug bounty program applies to critical infrastructure and software components that are essential to the security and stability of the ecosystem.
+The bug bounty program applies to critical infrastructure and software components that are essential to the security and stability of the Cardano ecosystem. \
+\
+&#xNAN;_**Clarification: Intersect specific websites, domains, programs, or assets will not be covered under this bounty program.**_&#x20;
 
 **Eligible Targets:**
 
@@ -67,6 +70,30 @@ To prevent abuse and ensure ethical participation, certain activities and target
 * Publicly known issues (e.g., vulnerabilities already disclosed in security bulletins).
 * Theoretical attacks without proof of exploitability.
 * Bugs that require extensive user cooperation (e.g., social engineering-based exploits).
+
+#### 1.3 Projects that are covered under this program:
+
+The below list is general reference and is not comprehensive to which projects are covered under this program:
+
+|                                                                                                                        |                                                                                                                                  |                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [https://github.com/IntersectMBO/ouroboros-consensus](https://github.com/IntersectMBO/ouroboros-consensus)             | [https://github.com/IntersectMBO/cardano-ledger](https://github.com/IntersectMBO/cardano-ledger)                                 | [https://github.com/IntersectMBO/cardano-updates](https://github.com/IntersectMBO/cardano-updates)                             |
+| [https://github.com/IntersectMBO/govtool-test-reports](https://github.com/IntersectMBO/govtool-test-reports)           | [https://github.com/IntersectMBO/cardano-cli](https://github.com/IntersectMBO/cardano-cli)                                       | [https://github.com/IntersectMBO/plutus](https://github.com/IntersectMBO/plutus)                                               |
+| [https://github.com/IntersectMBO/cardonnay](https://github.com/IntersectMBO/cardonnay)                                 | [https://github.com/IntersectMBO/cardano-node](https://github.com/IntersectMBO/cardano-node)                                     | [https://github.com/IntersectMBO/cardano-api](https://github.com/IntersectMBO/cardano-api)                                     |
+| [https://github.com/IntersectMBO/cardano-db-sync](https://github.com/IntersectMBO/cardano-db-sync)                     | [https://github.com/IntersectMBO/dmq-node](https://github.com/IntersectMBO/dmq-node)                                             | [https://github.com/IntersectMBO/ouroboros-network](https://github.com/IntersectMBO/ouroboros-network)                         |
+| [https://github.com/IntersectMBO/cardano-base](https://github.com/IntersectMBO/cardano-base)                           | [https://github.com/IntersectMBO/cardano-node-tests](https://github.com/IntersectMBO/cardano-node-tests)                         | [https://github.com/IntersectMBO/formal-ledger-specifications](https://github.com/IntersectMBO/formal-ledger-specifications)   |
+| [https://github.com/IntersectMBO/evolution-sdk](https://github.com/IntersectMBO/evolution-sdk)                         | [https://github.com/IntersectMBO/lsm-tree](https://github.com/IntersectMBO/lsm-tree)                                             | [https://github.com/IntersectMBO/cardano-node-emulator](https://github.com/IntersectMBO/cardano-node-emulator)                 |
+| [https://github.com/IntersectMBO/cardano-haskell-packages](https://github.com/IntersectMBO/cardano-haskell-packages)   | [https://github.com/IntersectMBO/cardano-sync-tests](https://github.com/IntersectMBO/cardano-sync-tests)                         | [https://github.com/IntersectMBO/UPLC-CAPE](https://github.com/IntersectMBO/UPLC-CAPE)                                         |
+| [https://github.com/IntersectMBO/govtool](https://github.com/IntersectMBO/govtool)                                     | [https://github.com/IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses)                           | [https://github.com/IntersectMBO/cardano-formal-specifications](https://github.com/IntersectMBO/cardano-formal-specifications) |
+| [https://github.com/IntersectMBO/io-classes-extra](https://github.com/IntersectMBO/io-classes-extra)                   | [https://github.com/IntersectMBO/Win32-network](https://github.com/IntersectMBO/Win32-network)                                   | [https://github.com/IntersectMBO/cardano-transactions](https://github.com/IntersectMBO/cardano-transactions)                   |
+| [https://github.com/IntersectMBO/cardano-launcher](https://github.com/IntersectMBO/cardano-launcher)                   | [https://github.com/IntersectMBO/cardaminal](https://github.com/IntersectMBO/cardaminal)                                         | [https://github.com/IntersectMBO/essential-cardano](https://github.com/IntersectMBO/essential-cardano)                         |
+| [https://github.com/IntersectMBO/cardano-world](https://github.com/IntersectMBO/cardano-world)                         | [https://github.com/IntersectMBO/drep-campaign-platform](https://github.com/IntersectMBO/drep-campaign-platform)                 | [https://github.com/IntersectMBO/govtool-voting-pillar](https://github.com/IntersectMBO/govtool-voting-pillar)                 |
+| [https://github.com/IntersectMBO/govtool-delegation-pillar](https://github.com/IntersectMBO/govtool-delegation-pillar) | [https://github.com/IntersectMBO/antaeus](https://github.com/IntersectMBO/antaeus)                                               | [https://github.com/IntersectMBO/cardano-crypto](https://github.com/IntersectMBO/cardano-crypto)                               |
+| [https://github.com/IntersectMBO/bech32](https://github.com/IntersectMBO/bech32)                                       | [https://github.com/IntersectMBO/cc-portal](https://github.com/IntersectMBO/cc-portal)                                           | [https://github.com/IntersectMBO/credential-manager](https://github.com/IntersectMBO/credential-manager)                       |
+| [https://github.com/IntersectMBO/govtool-proposal-pillar](https://github.com/IntersectMBO/govtool-proposal-pillar)     | [https://github.com/IntersectMBO/cardano-airgap](https://github.com/IntersectMBO/cardano-airgap)                                 | [https://github.com/IntersectMBO/cardano-prelude](https://github.com/IntersectMBO/cardano-prelude)                             |
+| [https://github.com/IntersectMBO/cc-ballot](https://github.com/IntersectMBO/cc-ballot)                                 | [https://github.com/IntersectMBO/govtool-outcomes-pillar](https://github.com/IntersectMBO/govtool-outcomes-pillar)               | [https://github.com/IntersectMBO/council-toolkit-app](https://github.com/IntersectMBO/council-toolkit-app)                     |
+| [https://github.com/IntersectMBO/plutus-script-evaluation](https://github.com/IntersectMBO/plutus-script-evaluation)   | [https://github.com/IntersectMBO/governance-tools-documentation](https://github.com/IntersectMBO/governance-tools-documentation) | [https://github.com/IntersectMBO/cardano-constitution](https://github.com/IntersectMBO/cardano-constitution)                   |
+| [https://github.com/IntersectMBO/cardano-coin-selection](https://github.com/IntersectMBO/cardano-coin-selection)       | [https://github.com/IntersectMBO/nami](https://github.com/IntersectMBO/nami)                                                     | [https://github.com/IntersectMBO/libsodium](https://github.com/IntersectMBO/libsodium)                                         |
 
 ### 2.0 Vulnerability Classification and Reward Structure
 
