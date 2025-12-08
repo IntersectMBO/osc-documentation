@@ -36,6 +36,8 @@ Community/Other Attendees
 
 **Chat Transcript:** [Open Source Committee Meeting – 2025/11/20 – Chat Transcript](https://drive.google.com/file/d/1QxqXYIkeGnVhLtq69dGD28Kw6Tdju0MC/view?usp=sharing)&#x20;
 
+**Polls:** [Open Source Committee (Intersect) - 2025/11/20 - Polls](https://docs.google.com/spreadsheets/d/1fIuY-1m-iE6ybpL4_HHM0mREn2jo9It91Bppy5jX9Ds/edit?usp=sharing)
+
 ## Intros
 
 **Christian:** Head of Open Source Office, Intersect, OS SME\
