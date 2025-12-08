@@ -82,6 +82,10 @@ Actions
 * **Christian** will set up one-on-one catch-up meetings with Jordan and Reshma to bring them up to speed.
 * **Marcin** will be provided with the appropriate form to submit the repository transfer request properly.
 
+**Polls**
+
+![](../../.gitbook/assets/unknown.png)
+
 | Topic                                  | Discussion                                                                                                                                                                                                                                                                                                                                     | Notes                                                                                                                                                                                         |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Onboarding Deck/Process                | Christian asked if a deck was prepared for onboarding. Terence suggested using the existing Gitbook as it would be the most effective resource.                                                                                                                                                                                                | Agreed to use the Gitbook for new member onboarding.                                                                                                                                          |
