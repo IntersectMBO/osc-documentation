@@ -28,8 +28,7 @@ In essence, the Project Lifecycle Framework is designed to operationalize the st
 
 ## Summary
 
-The Project Lifecycle Framework designed for the Open Source Committee Cardano is a strategic tool aimed at managing the evolution of projects from their inception through to their maturity and potential sunset. This framework provides structured guidance through defined stages: Incubation, Growth, Maturity, Decline, and Abandonment. Each stage is equipped with specific goals, criteria, actions, and metrics to ensure that projects not only thrive but also align with the broader objectives of sustainability and community leadership inherent to Cardano's philosophy. By implementing this framework, we aim to enhance project outcomes, foster robust community engagement, and ensure the long-term viability of initiatives within the Cardano ecosystem.\
-
+The Project Lifecycle Framework designed for the Open Source Committee Cardano is a strategic tool aimed at managing the evolution of projects from their inception through to their maturity and potential sunset. This framework provides structured guidance through defined stages: Incubation, Growth, Maturity, Decline, and Abandonment. Each stage is equipped with specific goals, criteria, actions, and metrics to ensure that projects not only thrive but also align with the broader objectives of sustainability and community leadership inherent to Cardano's philosophy. By implementing this framework, we aim to enhance project outcomes, foster robust community engagement, and ensure the long-term viability of initiatives within the Cardano ecosystem.<br>
 
 ## Incubation
 
@@ -55,8 +54,7 @@ This is the initial phase of a project, characterized by setting up the foundati
 1. Establish project vision and roadmap - develop a clear and concise vision statement and a roadmap that outlines the project’s objectives, expected milestones, and timelines.
    1. workshops with stakeholders
    2. SWOT analysis to understand strengths, weaknesses, opportunities, threats\
-      \
-
+      <br>
 2.  Community formation - develop community guidelines, set up communication platforms (like Matrix/Discord channels), and actively engage with early users and contributors
 
     1. community engagement
@@ -68,12 +66,10 @@ This is the initial phase of a project, characterized by setting up the foundati
    2. security framework - Security Council spinning up.&#x20;
    3. basic documentation tools - contributing guide vs wiki, etc
    4. architecture help and/or boilerplate\
-      \
-
+      <br>
 4. Initial marketing and outreach - implement initial marketing strategies to attract contributors and users, such as blog posts, introductory videos, and participation in relevant tech communities
    1. marketing toolkit: logo, branding, social media templates
-   2. tech conferences\
-
+   2. tech conferences<br>
 5. Feedback mechanism setup - establish a system to gather feedback from early users and contributors to refine project direction and community interaction.
    1. feedback forms
    2. community meetings
@@ -109,17 +105,13 @@ Growth stage is characterized by a significant increase in activity around the p
 
 ### Actions
 
-1. **Scale infrastructure** - upgrade technical infrastructure to support increased loads and more complex project demands\
-
-2. **Enhance documentation and support** - expand the documentation to cover new features and use cases thoroughly. Improve support channels to handle the growing number of inquiries and contributions efficiently\
-
-3. **Implement more advanced testing and QA** - develop more comprehensive testing frameworks to ensure the stability and quality of the project as new features and updates are rolled out\
-
+1. **Scale infrastructure** - upgrade technical infrastructure to support increased loads and more complex project demands<br>
+2. **Enhance documentation and support** - expand the documentation to cover new features and use cases thoroughly. Improve support channels to handle the growing number of inquiries and contributions efficiently<br>
+3. **Implement more advanced testing and QA** - develop more comprehensive testing frameworks to ensure the stability and quality of the project as new features and updates are rolled out<br>
 4. **Community development and engagement** - enhance community management strategies to grow and support a vibrant, engaged, and collaborative community
    1. community management tools
    2. regular community events
-   3. recognition programs for major contributors\
-
+   3. recognition programs for major contributors<br>
 5. **Implement governance framework** - clear governance structures to ensure that decision-making keeps pace with project growth and that all stakeholder voices are considered
    1. governance frameworks
    2. regular community meetings for decision-making
@@ -161,8 +153,7 @@ At this stage, the project is well-established, with stable releases, a loyal us
 
 2. Sustain community and contributor engagement - iImplement programs to recognize contributions, provide continuous learning opportunities, and keep the community engaged
    1. annual community events
-   2. contributor rewards programs (contributor of the year/month)\
-
+   2. contributor rewards programs (contributor of the year/month)<br>
 3. Conflict resolution mechanisms - develop and refine conflict resolution strategies to handle disputes and disagreements within the community effectively
 
 
@@ -216,8 +207,7 @@ In this stage, the project experiences a decrease in active contributors, slowin
 
 
 
-4. Preserve legacy and knowledge - ensure that the valuable outputs of the project (e.g documentation, codebase) are preserved and remain accessible to benefit future projects or historical reference.\
-
+4. Preserve legacy and knowledge - ensure that the valuable outputs of the project (e.g documentation, codebase) are preserved and remain accessible to benefit future projects or historical reference.<br>
 
 ### Monitoring and Evaluation
 
@@ -290,7 +280,6 @@ An example could be a scenario where a project focused on a specific framework i
 
 By thoughtfully managing the Abandonment stage, the project can conclude on a positive note, ensuring its contributions are recognized, and the community is respectfully transitioned to new opportunities. This careful closure not only respects the legacy of the project but also maintains trust and goodwill among the Cardano’s watchers.
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

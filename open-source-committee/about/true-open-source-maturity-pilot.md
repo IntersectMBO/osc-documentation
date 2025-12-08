@@ -53,15 +53,13 @@ This report serves as a baseline for a situation analysis aimed at evaluating an
 
 <summary>Key Notes:</summary>
 
-*   This assessment was conducted using maintainers that have no direct connection to founding entities of Cardano to truly test community maintainer contribution processes.\
-
+*   This assessment was conducted using maintainers that have no direct connection to founding entities of Cardano to truly test community maintainer contribution processes.<br>
 
     The following repos were assessed based on having non-founding entity maintainers currently:&#x20;
 
     1. Cardano Addresses: Drip Dropz
     2. Cardano CLI: Tweag
-    3. Ouroboros Consensus: Tweag\
-
+    3. Ouroboros Consensus: Tweag<br>
 
 </details>
 
@@ -127,8 +125,7 @@ This report serves as a baseline for a situation analysis aimed at evaluating an
 #### Limited Contributor Engagement: (PASS / FAIL): <mark style="color:green;">PASS</mark>
 
 \
-**Use Case:** Test the effectiveness of the onboarding process for new contributor(s). Evaluate the clarity and accessibility of documentation, mentorship availability, and overall onboarding experience to boost contributor engagement.\
-
+**Use Case:** Test the effectiveness of the onboarding process for new contributor(s). Evaluate the clarity and accessibility of documentation, mentorship availability, and overall onboarding experience to boost contributor engagement.<br>
 
 **Given, When, Then:**\
 &#xNAN;_**Given**_ a new contributor who has just joined the project,

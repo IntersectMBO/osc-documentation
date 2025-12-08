@@ -12,8 +12,7 @@ The Commercialization Working Group is a dedicated task force responsible for dr
 
 1. Strategic Planning and Oversight: Develop and oversee the implementation of a strategic plan for the commercialization of utility projects on the Cardano blockchain. This involves identifying market opportunities, setting clear objectives, and ensuring alignment with overall business goals.
 2. Stakeholder Engagement and Collaboration: Foster collaborations and partnerships with relevant stakeholders, including industry leaders, startups, developers, and regulatory bodies. Engage with the broader Cardano community to encourage contributions and create a network that supports the growth of utility projects.
-3.  Project Governance and Quality Assurance: Establish and uphold governance mechanisms for utility projects, ensuring compliance with regulations and adherence to best practices. Implement quality assurance measures to maintain the security and reliability of projects, with a focus on continuous improvement and user satisfaction.\
-
+3.  Project Governance and Quality Assurance: Establish and uphold governance mechanisms for utility projects, ensuring compliance with regulations and adherence to best practices. Implement quality assurance measures to maintain the security and reliability of projects, with a focus on continuous improvement and user satisfaction.<br>
 
     Guiding Principles:
 

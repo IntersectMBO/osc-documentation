@@ -26,8 +26,7 @@ Community/Other Attendees
 * Harun Mwangi
 * Jack Briggs
 * James Meidinger
-* Jordan Hill\
-
+* Jordan Hill<br>
 
 **Recording:** [Open Source Committee (Intersect) - 2025/09/18 - Recording](https://drive.google.com/file/d/1331nm2wFQYZOPeHDU8ldx4hSAP7ql0k3/view?usp=sharing)
 

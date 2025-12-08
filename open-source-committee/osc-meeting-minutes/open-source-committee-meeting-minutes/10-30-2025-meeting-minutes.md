@@ -25,8 +25,7 @@
 * Harun Mwangi
 * Minh Bui
 * Nick Cook
-* Uche Obasi\
-
+* Uche Obasi<br>
 
 **Recording:** [Open Source Committee (Intersect) - 2025/10/30 - Recording](https://drive.google.com/file/d/1LDlPX-n3BuMUVoFYvAeboSNY4B0PtC-3/view?usp=sharing)
 

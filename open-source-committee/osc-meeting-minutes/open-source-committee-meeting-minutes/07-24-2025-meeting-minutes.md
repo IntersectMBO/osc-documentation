@@ -16,8 +16,7 @@
 | Sebastian Pabon          | Yes        | Member/Seat | Y                 |
 | Philip DiSarro           | Yes        | Member/Seat | Y                 |
 
-\
-
+<br>
 
 Community/Other Attendees
 
@@ -25,18 +24,15 @@ Community/Other Attendees
 * Erick Romero
 * Gemma Dakin
 
-\
-
+<br>
 
 Recording: [Open Source Committee (Intersect) - 2025/07/24 - Recording](https://drive.google.com/file/d/1nMcNrPyx0CU87G6h7K8IrUM-858ZMjN0/view?usp=sharing)
 
-\
-
+<br>
 
 Transcript: [Open Source Committee (Intersect) - 2025/07/24 - Transcript](https://docs.google.com/document/d/1X-RMXf8CAPPTJXLNAMstbYeV_YQLbyVXMU6jIlqcEEU/edit?usp=sharing)
 
-\
-
+<br>
 
 Chat Transcript: [Open Source Committee Meeting – 2025/07/24 – Chat Transcript](https://drive.google.com/file/d/1hPgzg9JxrC6na8yIEcyr2dmCzH6qkDlF/view?usp=sharing)
 
@@ -112,8 +108,7 @@ Actions:
 * Johnny: Integrate feedback into the Maintainer Evaluation Process document and seek committee consensus on changes.
 
 \
-\
-
+<br>
 
 | Topic                                       | Discussion                                                                                                                                                                                                            | Notes                                                                                                                                                                                           |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

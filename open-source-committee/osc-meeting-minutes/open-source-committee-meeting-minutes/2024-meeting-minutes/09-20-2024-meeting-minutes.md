@@ -14,11 +14,11 @@
 * Robin Böning [robin.boening@gmail.com](mailto:robin.boening@gmail.com)
 * Simon Fleck [seomon.register@gmail.com](mailto:seomon.register@gmail.com)
 
-Recording: [Open Source Committee (Intersect) – 2024/09/20 07:51 CDT – Recording](https://drive.google.com/file/d/1ODN8ZmDZHIlNSDicgY9vlwxg9i\_J30CT/view?usp=sharing)
+Recording: [Open Source Committee (Intersect) – 2024/09/20 07:51 CDT – Recording](https://drive.google.com/file/d/1ODN8ZmDZHIlNSDicgY9vlwxg9i_J30CT/view?usp=sharing)
 
 Transcript: [Open Source Committee (Intersect) – 2024/09/20 07:51 CDT – Transcript](https://docs.google.com/document/d/1SQjg6Bx4CNO0AgRmz1pywQgioqEoFnu63zibbbCKitA/edit?usp=sharing)
 
-Chat Transcript: [https://drive.google.com/file/d/1gVsX3\_Sj7ueucWGFAoDSHxOmL9g7SoWV/view?usp=sharing](https://drive.google.com/file/d/1gVsX3\_Sj7ueucWGFAoDSHxOmL9g7SoWV/view?usp=sharing)
+Chat Transcript: [https://drive.google.com/file/d/1gVsX3\_Sj7ueucWGFAoDSHxOmL9g7SoWV/view?usp=sharing](https://drive.google.com/file/d/1gVsX3_Sj7ueucWGFAoDSHxOmL9g7SoWV/view?usp=sharing)
 
 ## Intros
 
@@ -46,8 +46,7 @@ Diane: Director, Research and Advisory Services, Bitergia
 * Intro/Interview Session for OSC Electorates
 * Budget Draft/edits
 * Review Seats leaving/ up for re-election
-* Open Forum\
-
+* Open Forum<br>
 
 | Discussion Point              | Notes                                                                                                                                                                                                                                                                                                                  | Actions: Responsible / Note                                                                                           |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -63,4 +62,4 @@ Diane: Director, Research and Advisory Services, Bitergia
 | Open Source Summit Feedback   | Feedback from the Open Source Summit in EU was shared. Attendees had mixed reactions to blockchain due to recent events, but there was positive engagement after explaining Cardano’s open-source contributions. The event highlighted the need for more education and improved messaging for blockchain technologies. | Christian to continue outreach and refine the message for future events.                                              |
 | Elections and Member Process  | The member election process was discussed. Currently, three verified applicants are running for four available seats.                                                                                                                                                                                                  | Terence to ensure members are informed of the election process and encourage additional applicants by September 27th. |
 
-\
+<br>

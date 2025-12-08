@@ -10,10 +10,9 @@
 * Simon Fleck [seomon.register@gmail.com](mailto:seomon.register@gmail.com)
 * Robin Böning&#x20;
 
-Recording: [Open Source Committee (Intersect) – 2024/09/05 07:56 CDT – Recording](https://drive.google.com/file/d/1\_3gINT-Hjnga2E2bcSlA91M5B1wxD\_ro/view?usp=sharing)\
+Recording: [Open Source Committee (Intersect) – 2024/09/05 07:56 CDT – Recording](https://drive.google.com/file/d/1_3gINT-Hjnga2E2bcSlA91M5B1wxD_ro/view?usp=sharing)<br>
 
-
-Transcript: [Open Source Committee (Intersect) – 2024/09/05 07:56 CDT – Transcript](https://docs.google.com/document/d/1jc7fuW9mAcz4MRfU9p2S0r\_90x-vDmK4mtgTxzJ2Dys/edit?usp=sharing)
+Transcript: [Open Source Committee (Intersect) – 2024/09/05 07:56 CDT – Transcript](https://docs.google.com/document/d/1jc7fuW9mAcz4MRfU9p2S0r_90x-vDmK4mtgTxzJ2Dys/edit?usp=sharing)
 
 ## Intros
 

@@ -20,11 +20,9 @@ New Business:
 
 * Grants (Gemma)
 * Pat Delegating Nick Clarke as new Chair of OSC
-* Open Forum\
+* Open Forum<br>
 
-
-Action Items:\
-
+Action Items:<br>
 
 | Discussion Point         | Action Item / Notes                                                                           | Responsible                |
 | ------------------------ | --------------------------------------------------------------------------------------------- | -------------------------- |

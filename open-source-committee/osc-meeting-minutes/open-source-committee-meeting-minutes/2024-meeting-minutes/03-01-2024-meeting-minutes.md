@@ -6,8 +6,7 @@ description: >-
 
 # 😍 (03/01/2024) Meeting Minutes
 
-Agenda:\
-
+Agenda:<br>
 
 ### Old Business:
 

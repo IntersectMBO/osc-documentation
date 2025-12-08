@@ -51,8 +51,7 @@ Phillip: No Intro Provided
 * OS Library/Project List
 
 \
-\
-
+<br>
 
 | Discussion Point             | Notes                                                                                                                                                                                                                                                                                                                                | Actions: Responsible / Note                                                                                                             |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -68,4 +67,4 @@ Phillip: No Intro Provided
 | Oracles Working Group        | The Oracles Working Group is still being established. Discussion focused on the need for standardization in Oracles and the possibility of existing Oracle standards. Mention of Chainlink and its cross-chain Oracles raised questions about how Oracles would work on different platforms, especially in the context of Plutus.    | Research existing Oracle standards and consider opening the group to more developer input to refine their tasking.                      |
 | Developer Experience (Dev X) | Terence McCutcheon discussed the Developer Advocate Program, which is now under his responsibility. He mentioned that they are in the middle of conducting interviews for Developer Advocates and hope to finalize selections soon to start the program by August.                                                                   | Continue conducting interviews and aim to finalize the selections by August.                                                            |
 
-\
+<br>

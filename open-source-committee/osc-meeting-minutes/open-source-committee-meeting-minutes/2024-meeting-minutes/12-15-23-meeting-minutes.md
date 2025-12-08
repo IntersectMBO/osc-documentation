@@ -16,7 +16,6 @@ Agenda:
   * Strategy Poll open until Dec 31, 2024
   * Communication Poll open until Dec 31, 2024
 
-Action items:\
-
+Action items:<br>
 
 <table data-header-hidden data-full-width="true"><thead><tr><th>Discussion Point</th><th>Notes / Action items</th><th>Responsible</th></tr></thead><tbody><tr><td>Discussion Point</td><td>Notes / Action Items</td><td>Responsible </td></tr><tr><td>Repo Mgt Example</td><td>Think of Dolos: https://github.com/txpipe/dolos</td><td>OSPO</td></tr><tr><td>Funding</td><td>Think of the way to address topic, align within Intersect policies and TSC.</td><td>OSC</td></tr><tr><td>Guidelines</td><td>Think of Cardano Eng Handbook inclusion.</td><td>OSC</td></tr><tr><td>Strategy</td><td>Results form Strategy Interviews reviewed.<br></td><td>OSC</td></tr></tbody></table>

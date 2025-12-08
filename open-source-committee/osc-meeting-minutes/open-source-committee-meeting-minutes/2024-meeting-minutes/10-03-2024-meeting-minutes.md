@@ -36,8 +36,7 @@ Phillip: Not Present
 
 ## Agenda 10.3.24
 
-* Open Forum\
-
+* Open Forum<br>
 
 | Discussion Point                  | Notes                                                                                                                                                                 | Actions: Responsible / Note                                                                                                                                              |
 | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,4 +51,4 @@ Phillip: Not Present
 | Next Steps                        | Christian suggested finalizing documents, including the contribution ladder and project maturity framework, and discussing them after the full committee is in place. | Prepare a formal agenda for the next meeting, finalize contribution ladder documents, and review with the full committee in two weeks. Update documentation accordingly. |
 | Meeting Cadence                   | The current meeting schedule is every two weeks on Thursdays, subject to change based on new committee members’ availability.                                         | Terence to update and share the Intersect Events Calendar for easier tracking of recurring meetings and events.                                                          |
 
-\
+<br>

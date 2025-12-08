@@ -37,8 +37,7 @@ These [reports](cardanos-decentralized-shift-key-players-and-impact.md#reports),
 
 ### Cardano in 8 Charts (September 2024)
 
-This companion report provides a visual analysis of the Cardano open-source ecosystem by breaking down its contributions into eight key areas. The report covers the organizational landscape, collaboration dynamics, leadership transitions, contributor stability, and the sustainability of various core projects, with a focus on the Cardano Wallet, GovTool, Catalyst, and Cardano Improvement Proposals (CIPs).\
-
+This companion report provides a visual analysis of the Cardano open-source ecosystem by breaking down its contributions into eight key areas. The report covers the organizational landscape, collaboration dynamics, leadership transitions, contributor stability, and the sustainability of various core projects, with a focus on the Cardano Wallet, GovTool, Catalyst, and Cardano Improvement Proposals (CIPs).<br>
 
 #### Key Insights:
 

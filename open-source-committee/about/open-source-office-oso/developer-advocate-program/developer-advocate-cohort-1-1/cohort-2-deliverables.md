@@ -56,8 +56,7 @@ When: Q4 2025, Q1 2026, Q2 2026
 
 By the end of the first quarter ("Q1 2026"), the Developer Advocates should publish and disseminate results from the survey informing the state of Developer Experience. Provide a written summary, including proposed next steps.
 
-When: Q4 2025, Q1 2026, Q2 2026\
-
+When: Q4 2025, Q1 2026, Q2 2026<br>
 
 #### Specific Deliverables
 

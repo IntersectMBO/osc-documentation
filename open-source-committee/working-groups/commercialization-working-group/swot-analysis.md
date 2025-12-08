@@ -16,8 +16,7 @@ The emerging picture in discussions at the SWOT Analysis working group has two f
 
 Possibly the greatest threat to Cardano stems from uncertainty for the blockchain segment as a whole. The lack of compelling blockchain use cases outside of cryptocurrencies runs the risk that interest in blockchains could wane and threaten the existence of blockchain companies before they have the chance to gain self-sustaining commercial traction. Meanwhile, regulatory uncertainty in the United States and some other developed countries threatens mainstream adoption of crypto in the financial infrastructure.
 
-\
-
+<br>
 
 | Strengths                                                                                          | Opportunities                                                                                                                   |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |

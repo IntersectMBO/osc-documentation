@@ -62,8 +62,7 @@ Community/Other Attendees
 
 * Bug Bounty Budget: The OSC agreed to include a $300,000 bug bounty allocation in the budget proposal.
 * Project Incubation Lifecycle Terminology: The term "abandonment" in the project incubation lifecycle framework will be changed to "archival."
-* Project Incubation Workflow: Lucas will create a visual workflow diagram to improve the clarity and user-friendliness of the project incubation process.\
-
+* Project Incubation Workflow: Lucas will create a visual workflow diagram to improve the clarity and user-friendliness of the project incubation process.<br>
 
 | Topic                          | Discussion                                                                                                                                                                                                                                                                                              | Action Items                                                                                                               |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |

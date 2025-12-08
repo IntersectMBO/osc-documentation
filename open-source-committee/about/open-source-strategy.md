@@ -27,8 +27,7 @@ The diagram below illustrates our strategy development process. From the core mi
 The strategic approach embedded in this framework is designed to be iterative, a living model open to constant refinement. It supports a dynamic strategy concept, where all our thinking and actions continuously evolve according to the market changes, maturity stages, and the needs of the Cardano community. That way we ensure our trajectory is both responsive and resilient.
 
 \
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/Open Source.jpg" alt=""><figcaption><p>Strategy Foundational Model</p></figcaption></figure>
 
@@ -178,4 +177,4 @@ At the same time, diversifying project maintainers and encouraging paid contribu
 
 In conclusion, the successful execution of this strategic plan will position Intersect-maintained Cardano projects for long-term success, and reinforcing its core values. The well defined metrics and actions associated with each goal enable OSC to track progress and make data-driven decisions to ensure the continuous growth and resilience of the Cardano ecosystem.
 
-\
+<br>

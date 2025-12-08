@@ -14,16 +14,13 @@
 * Daniel Firth [daniel.firth@iohk.io](mailto:daniel.firth@iohk.io)
 * MIxAxIM
 * Samuel Leathers [samuel.leathers@iohk.io](mailto:samuel.leathers@iohk.io)
-* Udai Solanki [Udai Solanki](mailto:udai.solanki@gmail.com)\
+* Udai Solanki [Udai Solanki](mailto:udai.solanki@gmail.com)<br>
 
+Recording: [Open Source Committee (Intersect) – 2024/08/22 07:59 CDT – Recording](https://drive.google.com/file/d/1YgvNcO8ZVm4Y82_GexyR49vme1w5EpYZ/view?usp=sharing)<br>
 
-Recording: [Open Source Committee (Intersect) – 2024/08/22 07:59 CDT – Recording](https://drive.google.com/file/d/1YgvNcO8ZVm4Y82\_GexyR49vme1w5EpYZ/view?usp=sharing)\
+Transcript: [Open Source Committee (Intersect) – 2024/08/22 07:59 CDT – Transcript](https://docs.google.com/document/d/1NKia88kp3gOaGMSnVxxjptquyiMqQJblt6GKZQTwLwk/edit?usp=sharing)<br>
 
-
-Transcript: [Open Source Committee (Intersect) – 2024/08/22 07:59 CDT – Transcript](https://docs.google.com/document/d/1NKia88kp3gOaGMSnVxxjptquyiMqQJblt6GKZQTwLwk/edit?usp=sharing)\
-
-
-&#x20;Chat Transcript: [https://drive.google.com/file/d/1CEfYO7MPvsa5NdJ6PBG1jGiXHKj\_SogU/view?usp=sharing](https://drive.google.com/file/d/1CEfYO7MPvsa5NdJ6PBG1jGiXHKj\_SogU/view?usp=sharing)
+&#x20;Chat Transcript: [https://drive.google.com/file/d/1CEfYO7MPvsa5NdJ6PBG1jGiXHKj\_SogU/view?usp=sharing](https://drive.google.com/file/d/1CEfYO7MPvsa5NdJ6PBG1jGiXHKj_SogU/view?usp=sharing)
 
 ## Intros
 
@@ -49,8 +46,7 @@ Phillip: No Intro Provided
 * Intro/Interview Session for OSC Candidates
 * Policy WG
 * Invite OSC Seats to OSO Open Office Hours or Schedule separate meetings
-* Open Forum\
-
+* Open Forum<br>
 
 | Discussion Point                                    | Notes                                                                                                                                                                                                                                                                                      | Actions: Responsible / Note                                                                                                                                                     |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -61,7 +61,7 @@ Community/Other Attendees
 
 ## Decisions/Actions
 
-![](<../../.gitbook/assets/unknown (1).png>)\
+![](<../../.gitbook/assets/unknown (1) (1).png>)\
 [Open Source Committee (Intersect) - 2025/10/16 07:56 CDT - Polls](https://docs.google.com/spreadsheets/d/1lq-FgalwpdaTpJtMy5rQybDiM8YDS1581AT7-LMlekE/edit?usp=sharing)
 
 Decisions

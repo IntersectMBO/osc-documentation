@@ -14,15 +14,14 @@
 
 &#x20;
 
-Recording: [https://drive.google.com/file/d/1kzd\_DHsyWJTdF4I9Pe1gkdADU7vBhuA1/view?usp=sharing](https://drive.google.com/file/d/1kzd\_DHsyWJTdF4I9Pe1gkdADU7vBhuA1/view?usp=sharing)
+Recording: [https://drive.google.com/file/d/1kzd\_DHsyWJTdF4I9Pe1gkdADU7vBhuA1/view?usp=sharing](https://drive.google.com/file/d/1kzd_DHsyWJTdF4I9Pe1gkdADU7vBhuA1/view?usp=sharing)
 
-Transcript: [https://docs.google.com/document/d/1uXR-twy9oEx1rZ-ghdDVRGpjqoqkKvTD\_NuYOvldIvQ/edit?usp=sharing](https://docs.google.com/document/d/1uXR-twy9oEx1rZ-ghdDVRGpjqoqkKvTD\_NuYOvldIvQ/edit?usp=sharing)
+Transcript: [https://docs.google.com/document/d/1uXR-twy9oEx1rZ-ghdDVRGpjqoqkKvTD\_NuYOvldIvQ/edit?usp=sharing](https://docs.google.com/document/d/1uXR-twy9oEx1rZ-ghdDVRGpjqoqkKvTD_NuYOvldIvQ/edit?usp=sharing)
 
-Chat Transcript: [https://drive.google.com/file/d/1bh6-pIjCOXV9bI2m\_mnGO9MSsg6C\_X-Q/view?usp=sharing](https://drive.google.com/file/d/1bh6-pIjCOXV9bI2m\_mnGO9MSsg6C\_X-Q/view?usp=sharing)
+Chat Transcript: [https://drive.google.com/file/d/1bh6-pIjCOXV9bI2m\_mnGO9MSsg6C\_X-Q/view?usp=sharing](https://drive.google.com/file/d/1bh6-pIjCOXV9bI2m_mnGO9MSsg6C_X-Q/view?usp=sharing)
 
 \
-\
-
+<br>
 
 Intros
 
@@ -54,8 +53,7 @@ Phillip: No Intro Provided
 * OSC Seat Candidate Parameters
 * Open Forum
 
-\
-
+<br>
 
 | Discussion Point            | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                              | Actions: Responsible / Note                                                                                                                                                                                                                                                                                                                     |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,4 +69,4 @@ Phillip: No Intro Provided
 | Roadmap for Q3              | <p>- **Strategic Collaborations:** Identifying strategic collaboration opportunities within and outside the Cardano community.<br>- **Onboarding External Projects:** Onboarding external projects to Intersect.<br>- **Building Supplier List:** Building a supplier list for the service catalog.<br>- **Policy Adoption:** Legal compliance policy adoption and updating documentation.</p>                                                     | <p>- **Identify Opportunities:** Identify and onboard strategic collaboration opportunities.<br>- **Quantify Goals:** Set quantifiable goals for onboarding external projects.<br>- **Update Roadmap:** Update the roadmap and track membership transparency.</p>                                                                               |
 | Transparency and Membership | <p>- **Transparency on Memberships:** Need for transparency related to private and Enterprise memberships on the website.<br>- **Current Tracking:** Current tracking via Discord is inefficient; HubSpot integration for tracking memberships is needed.</p>                                                                                                                                                                                      | <p>- **Website Update:** Ensure transparency on the website regarding membership numbers and types.<br>- **Raise Issue:** Raise the issue of tracking memberships as an OSC request to ensure it is addressed promptly.</p>                                                                                                                     |
 
-\
+<br>

@@ -22,10 +22,9 @@ Community/Other Attendees
 * Marcel Baumberg
 * Sem
 
-\
+<br>
 
-
-**Recording:** [Open Source Committee Meeting – 2024/11/07 07:56 CST – Recording](https://drive.google.com/file/d/1yiV9mQ1JX2PztY7HIr\_nLdYqS5ckxt4P/view?usp=sharing)
+**Recording:** [Open Source Committee Meeting – 2024/11/07 07:56 CST – Recording](https://drive.google.com/file/d/1yiV9mQ1JX2PztY7HIr_nLdYqS5ckxt4P/view?usp=sharing)
 
 **Transcript:** [Open Source Committee Meeting – 2024/11/07 07:56 CST – Transcript](https://docs.google.com/document/d/1wXDyGK6fu3p-Z8CwEW2lkqPTrWF4FC3gSm0XlOliq2c/edit?usp=sharing)
 
@@ -63,8 +62,7 @@ Community/Other Attendees
 
 ## Decisions/Actions
 
-* Decision: Vote for Chair and Vice Chair Action: P. Lucas, Adam Dean voted in.\
-
+* Decision: Vote for Chair and Vice Chair Action: P. Lucas, Adam Dean voted in.<br>
 
 | Discussion Point                 | Notes                                                                                                                                                                                                                                                                      | Actions: Responsible / Note                                                                                                            |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,4 +76,4 @@ Community/Other Attendees
 | Open Forum and Community Q\&A    | Sem, a new member, asked about meeting schedules and channels for the committee’s goals. Diane suggested adding a dedicated channel for open discussions on the charter. Terence clarified access to meeting schedules in Discord.                                         | <p>Add open source committee discussion and goal review channels as needed in Discord.</p><p><br></p>                                  |
 | Closing Remarks                  | Terence concluded the meeting, congratulating everyone on their roles and next steps.                                                                                                                                                                                      | Members to asynchronously review charter document and provide feedback by next meeting.                                                |
 
-\
+<br>

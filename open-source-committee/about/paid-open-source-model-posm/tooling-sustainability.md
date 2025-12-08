@@ -5,8 +5,7 @@ Applications for Tooling Projects are open! Apply here: [https://tinyurl.com/OSC
 {% endhint %}
 
 This program is actively being worked on by the tooling working group:\
-[https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group](https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group)\
-
+[https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group](https://opensourcecommittee.docs.intersectmbo.org/working-groups/tooling-working-group)<br>
 
 ## Program Overview
 

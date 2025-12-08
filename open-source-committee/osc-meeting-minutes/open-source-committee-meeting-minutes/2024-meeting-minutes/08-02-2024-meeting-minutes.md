@@ -46,8 +46,7 @@ Phillip: Not Present
 * Reminder of New Meeting Cadence
 
 \
-\
-
+<br>
 
 | Discussion Point                  | Notes                                                                                                                                                   | Actions: Responsible / Note                                                                  |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -63,4 +62,4 @@ Phillip: Not Present
 | Security Working Group            | Update on the Security working group’s first meeting and their Charter.                                                                                 | Publish the Charter and framework on the knowledge base.                                     |
 | Open Source Summit                | Announcement of participation in the Open Source Summit in Vienna.                                                                                      | Coordinate a meetup in Vienna. Christian to follow up with interested members.               |
 
-\
+<br>

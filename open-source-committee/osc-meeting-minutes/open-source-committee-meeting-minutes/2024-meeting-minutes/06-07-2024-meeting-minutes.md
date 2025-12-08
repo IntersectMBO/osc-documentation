@@ -17,15 +17,13 @@
 * Sean Gillespie
 * Tom Gallarini
 
-\
-
+<br>
 
 Recording: [https://drive.google.com/file/d/1hcaFJDsFXh3GvmXekHovAN1OKTZaucvy/view](https://drive.google.com/file/d/1hcaFJDsFXh3GvmXekHovAN1OKTZaucvy/view)
 
-\
+<br>
 
-
-Transcript: [https://docs.google.com/document/d/1-iPp0dgAIu2bEzkeRFh0Bo2YDZycBuHSh5lBVbx60\_8/edit?usp=sharing](https://docs.google.com/document/d/1-iPp0dgAIu2bEzkeRFh0Bo2YDZycBuHSh5lBVbx60\_8/edit?usp=sharing)
+Transcript: [https://docs.google.com/document/d/1-iPp0dgAIu2bEzkeRFh0Bo2YDZycBuHSh5lBVbx60\_8/edit?usp=sharing](https://docs.google.com/document/d/1-iPp0dgAIu2bEzkeRFh0Bo2YDZycBuHSh5lBVbx60_8/edit?usp=sharing)
 
 ## Agenda
 
@@ -60,8 +58,7 @@ Transcript: [https://docs.google.com/document/d/1-iPp0dgAIu2bEzkeRFh0Bo2YDZycBuH
 * Open Forum
 
 \
-\
-
+<br>
 
 | Discussion Point                              | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                    | Actions: Responsible / Note                                                                                                                                                               |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

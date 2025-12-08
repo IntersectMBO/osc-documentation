@@ -16,8 +16,7 @@
 | Sebastian Pabon          | Yes        | Member/Seat | Y                 |
 | Philip DiSarro           | Yes        | Member/Seat | Y                 |
 
-\
-
+<br>
 
 Community/Other Attendees
 

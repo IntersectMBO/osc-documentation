@@ -66,18 +66,12 @@ The presence and completeness of essential open source documentation was assesse
 
 Evaluation Criteria:
 
-* README.md: Overview of the project’s purpose, installation, and usage.\
-
-* LICENSE: Indicates the terms of reuse and distribution.\
-
-* CONTRIBUTING.md: Guidelines for contributing code or reporting issues.\
-
-* SECURITY.md: Describes security contact processes and disclosure policies.\
-
-* CODE\_OF\_CONDUCT.md: Defines behavioral expectations for contributors.\
-
-* Issue and Pull Request Templates: Promotes consistency in contributions and maintenance.\
-
+* README.md: Overview of the project’s purpose, installation, and usage.<br>
+* LICENSE: Indicates the terms of reuse and distribution.<br>
+* CONTRIBUTING.md: Guidelines for contributing code or reporting issues.<br>
+* SECURITY.md: Describes security contact processes and disclosure policies.<br>
+* CODE\_OF\_CONDUCT.md: Defines behavioral expectations for contributors.<br>
+* Issue and Pull Request Templates: Promotes consistency in contributions and maintenance.<br>
 * Setup & Configuration Instructions: Enables reproducibility and usability.
 
 Each file or component present earned one point for mandatory files, and 0.5 points for having recommended files, contributing to a maximum score of 7. Projects missing several of these components typically reflect lower accessibility and onboarding friction, which impacts community growth.
@@ -113,16 +107,11 @@ The health of a repository reflects its long-term viability, activity level, and
 
 Scored Dimensions (0–2 points each):
 
-1. Community Engagement – Stars, forks, issue/PR traffic, and evidence of external interest.\
-
-2. Governance & Leadership – Presence of CODEOWNERS, contribution policies, or governance files.\
-
-3. Succession Planning – Number and diversity of active maintainers; reliance on a single contributor.\
-
-4. Ecosystem Importance – Whether the project serves as a dependency or critical integration point.\
-
-5. Activity Trend – Recency and consistency of commits, PRs, and releases.\
-
+1. Community Engagement – Stars, forks, issue/PR traffic, and evidence of external interest.<br>
+2. Governance & Leadership – Presence of CODEOWNERS, contribution policies, or governance files.<br>
+3. Succession Planning – Number and diversity of active maintainers; reliance on a single contributor.<br>
+4. Ecosystem Importance – Whether the project serves as a dependency or critical integration point.<br>
+5. Activity Trend – Recency and consistency of commits, PRs, and releases.<br>
 6. Sustainability & Risks – Visibility into long-term support, organizational sponsorship, and deprecation risk.
 
 Scores were totaled and mapped into qualitative labels:

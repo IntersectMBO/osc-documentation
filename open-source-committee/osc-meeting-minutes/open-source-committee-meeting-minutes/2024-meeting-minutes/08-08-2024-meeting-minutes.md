@@ -19,8 +19,7 @@
 
 Recording: [Open Source Committee (Intersect) (2024-08-08 08:05 GMT-5)](https://drive.google.com/file/d/1Uwcg8Y4TdGiAzHKX4cigXf1ipqnzu3QY/view?usp=sharing)
 
-\
-
+<br>
 
 Transcript: [Open Source Committee (Intersect) (2024-08-08 08:05 GMT-5) – Transcript](https://docs.google.com/document/d/12Iu-afbJCrFtdwNXwhghz7aEFa6W5VPVHemW4E-r9Fs/edit?usp=sharing)&#x20;
 
@@ -52,8 +51,7 @@ Phillip: Not Present
 * Nomination Discussion continued
 
 \
-\
-
+<br>
 
 | Discussion Point                 | Notes                                                                                                                                                                                                                                                                               | Actions: Responsible / Note                                                                                                                                                                                |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,4 +62,4 @@ Phillip: Not Present
 | Voting and Nominations           | Karen Wickham explained the election process for Committee members, which will take place in September and October. Current members can re-apply. Adam Dean raised concerns about the need to fill vacancies before October.                                                        | OSC to start the nomination period on August 12th and use either the Summon tool or a manual process if the tool is not ready. Karen to ensure the process aligns with Intersect's communication strategy. |
 | Open Forum and Final Discussions | Discussion on the eligibility of Committee members and whether companies can have more than one seat or swap representatives. Terence McCutcheon suggested revisiting the nomination process if there is low participation.                                                         | OSC to monitor nomination participation and revisit the strategy if needed.                                                                                                                                |
 
-\
+<br>

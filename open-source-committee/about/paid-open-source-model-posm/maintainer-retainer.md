@@ -154,4 +154,4 @@ Maintainer Retainer Program governance involves:
 * Collaborative Decision-Making:
   * Both TSC and OSC must agree on all approvals, reviews, funding renewals, and program terminations. In disputes, joint sessions are held to reach consensus.
 
-\
+<br>

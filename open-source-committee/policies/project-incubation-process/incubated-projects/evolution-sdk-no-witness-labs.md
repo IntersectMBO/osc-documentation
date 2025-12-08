@@ -5,9 +5,8 @@ icon: gear-complex-code
 
 # Evolution SDK- No Witness Labs
 
-![](../../../.gitbook/assets/unknown.png)\
-\
-
+![](<../../../.gitbook/assets/unknown (1).png>)\
+<br>
 
 ### Frequently Asked Questions (FAQ)
 

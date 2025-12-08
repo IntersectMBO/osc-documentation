@@ -138,4 +138,4 @@ _Additional material:_
 * [GHC](http://haskell.org/downloads/) (the Glasgow Haskell Compiler)
 * [Hoogle](http://www.haskell.org/hoogle/) (for searching the libraries)
 
-\
+<br>

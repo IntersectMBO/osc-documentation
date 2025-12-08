@@ -20,8 +20,7 @@ The Security Council (SC) is a working group reporting to the Intersect Technica
 
 
 
-The Security Council should be trustworthy enough to receive sensitive information, but they should generally only be given it when they need to know it.\
-
+The Security Council should be trustworthy enough to receive sensitive information, but they should generally only be given it when they need to know it.<br>
 
 The responsibilities of the Security Council are:
 
@@ -68,8 +67,7 @@ The responsibilities of the Security Manager are:
 
 **Appointments**
 
-Appointments are made by the Security Council. The process is to be confirmed.\
-
+Appointments are made by the Security Council. The process is to be confirmed.<br>
 
 Qualifications for the Security Manager:
 
@@ -158,8 +156,7 @@ Following the [material in the Cardano Engineering Handbook](https://input-outpu
 
 **Example**
 
-Here’s a longer worked example of what an issue lifecycle might look like.\
-
+Here’s a longer worked example of what an issue lifecycle might look like.<br>
 
 * Fred (the Finder) reports a serious security issue in Cardano by emailing the security report email address
 * Janet (the Security Manager) receives the email, acknowledges receipt to Fred, notifies the SC, and looks for a sensible Responder to start with. Based on a cursory look at the issue, they think it may be related to the consensus layer, so they contact a Responder from that project (Carrie).
@@ -196,8 +193,7 @@ Users who post such information should be cautioned, and repeated offences shoul
 Project Maintainers are responsible for ensuring that any contributions which touch on security are carefully assessed. This may include
 
 * Design review by external experts
-* Security audits of the specification, design and/or code\
-
+* Security audits of the specification, design and/or code<br>
 
 Or other measures as appropriate.
 

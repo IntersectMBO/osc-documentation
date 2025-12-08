@@ -17,9 +17,9 @@
 * Seomon Register
 * Tom Gallarini
 
-Recording: [https://drive.google.com/file/d/1Wey\_urJHV1IBp8yShQALdJfa794BuLDw/view](https://drive.google.com/file/d/1Wey\_urJHV1IBp8yShQALdJfa794BuLDw/view)
+Recording: [https://drive.google.com/file/d/1Wey\_urJHV1IBp8yShQALdJfa794BuLDw/view](https://drive.google.com/file/d/1Wey_urJHV1IBp8yShQALdJfa794BuLDw/view)
 
-Transcript: [https://docs.google.com/document/d/1LjwlYA7kJLcgEgs9cncYNF-XF6ZrIhGG2wMe3Q\_l1Yw/edit?usp=sharing](https://docs.google.com/document/d/1LjwlYA7kJLcgEgs9cncYNF-XF6ZrIhGG2wMe3Q\_l1Yw/edit?usp=sharing)
+Transcript: [https://docs.google.com/document/d/1LjwlYA7kJLcgEgs9cncYNF-XF6ZrIhGG2wMe3Q\_l1Yw/edit?usp=sharing](https://docs.google.com/document/d/1LjwlYA7kJLcgEgs9cncYNF-XF6ZrIhGG2wMe3Q_l1Yw/edit?usp=sharing)
 
 ## Agenda
 
@@ -46,8 +46,7 @@ Transcript: [https://docs.google.com/document/d/1LjwlYA7kJLcgEgs9cncYNF-XF6ZrIhG
    * Adam D. Proposed Voting Rules/Procedures specific to OSC
    * Voting for 2 seats (replace MPJ & Matthias)
 2. Bi-Monthly Cadence Proposal
-3. Open Forum\
-
+3. Open Forum<br>
 
 | Discussion Point                                                                                                                                                                                 | Notes / Action Items                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Actions: Responsible / Note                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

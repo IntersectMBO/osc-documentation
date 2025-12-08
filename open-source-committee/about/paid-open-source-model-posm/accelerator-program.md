@@ -30,8 +30,7 @@ Structure (5 × 1-hour sessions):
 2. Grants, Treasury & Funding Interplay
 3. Legal & DAO Structures for COSS
 4. Business Model Building for Blockchain
-5. Market Adoption & Scaling (with pitch-back session)\
-
+5. Market Adoption & Scaling (with pitch-back session)<br>
 
 Deliverables (Per Cohort):
 
@@ -62,8 +61,7 @@ Structure (5 × 1-hour sessions):
 3. Investor Expectations & Fundraising Mechanics – evaluating funding options (equity, tokens, SAFE, grants).
 4. Pitch Practice & Objection Handling – refining delivery and fielding hard questions.
 5. Mock Pitch Day – live investor simulation with feedback and scoring.\
-   \
-
+   <br>
 
 Deliverables (Per Cohort):
 
@@ -106,8 +104,7 @@ Value:
 
 * Ensures quality and fit before funding or launch.
 * Strengthens trust in Cardano’s technical ecosystem.
-* Creates long-term accountability through validated milestones.\
-
+* Creates long-term accountability through validated milestones.<br>
 
 ### Cross-Program Deliverables
 

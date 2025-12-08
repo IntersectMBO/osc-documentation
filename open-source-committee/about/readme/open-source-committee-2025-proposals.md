@@ -6,6 +6,8 @@ description: >-
 
 # Open Source Committee 2025 Proposals
 
+{% file src="../../.gitbook/assets/OSC Budget Submission Proposal.pdf" %}
+
 <figure><img src="../../.gitbook/assets/Screenshot 2024-11-07 at 1.24.41 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Details:
@@ -33,4 +35,4 @@ Approval of these proposals will empower the Cardano open-source community to co
 
 The Open Source Committee, working in conjunction with the Budget Committee, Open Source Office, and various Intersect working groups, has put forward a budget proposal for its core 2025 budget. This funding will enable a wide range of essential initiatives to promote and sustain open-source development within the Cardano ecosystem. The committee strongly believes that this budget will allow a broad number of important objectives and initiatives to be undertaken.
 
-\
+<br>

@@ -14,8 +14,7 @@ Key Highlights:
 * Ecosystem Benefits: Encourages participation, fosters leadership, and sustains the ecosystem through community-driven growth and governance.
 
 The Contribution Ladder aims to provide transparency and clarity, ensuring contributors are empowered to succeed while aligning their growth with the long-term vision of the Cardano ecosystem.\
-\
-
+<br>
 
 Resource References:
 
@@ -42,8 +41,7 @@ The Cardano ecosystem thrives on collaboration, innovation, and decentralized go
 * Strengthening Community Bonds: Facilitating collaboration through mentorship programs, regular community events, and open communication channels, fostering a sense of belonging and shared purpose.
 
 By creating a transparent and supportive framework, the Contribution Ladder not only bolsters individual contributors but also ensures the long-term resilience and vitality of the Cardano ecosystem.\
-\
-
+<br>
 
 ### 2. Framework Details
 
@@ -58,8 +56,7 @@ The journey for new contributors begins with a structured onboarding process tha
 As contributors become more familiar with the ecosystem, the criteria for advancement come into play, encompassing specific milestones such as the completion of a set number of contributions, active community engagement, and positive peer reviews. The evaluation process for moving from one stage to the next is formal and rigorous, conducted by higher-level contributors like Trusted Committers or Core Maintainers, who assess readiness for increased responsibility based on clear, predefined benchmarks.
 
 \
-\
-
+<br>
 
 **Role-Specific Responsibilities and Expectations**
 
@@ -183,8 +180,7 @@ Trusted Committers can excel by:
 * Advanced Technical Resources: Availability of cutting-edge development tools, priority support, and advanced training sessions to tackle high-level challenges.
 * Networking Opportunities: Opportunities to connect with other leaders in the blockchain space, enhancing personal development and bringing fresh insights to the Cardano ecosystem.
 
-\
-
+<br>
 
 ***
 
@@ -194,8 +190,7 @@ Trusted Committers can excel by:
 
 Core Maintainers are the leaders and visionaries of the Cardano project. They have a profound impact on the strategic direction and overall governance of the ecosystem. These individuals have demonstrated long-term commitment and have made significant contributions that shape the future of the project. Core Maintainers are trusted with the most critical decisions and are key to the project's sustainability and success.
 
-\
-
+<br>
 
 **Key Responsibilities**
 
@@ -247,8 +242,7 @@ Each transition should have tailored criteria based on the responsibilities and 
 * Active Community Participation: Regular involvement in community forums, discussions, and events.
 
 \
-\
-
+<br>
 
 **Committer to Trusted Committer**
 
@@ -274,8 +268,7 @@ Each transition should have tailored criteria based on the responsibilities and 
 * Support for Candidates: Outline the support available to contributors who are being evaluated for progression. This might include access to additional mentorship, training to close skill gaps, or opportunities to take on stretch assignments that demonstrate their capabilities.
 
 \
-\
-
+<br>
 
 **Feedback and Appeals Process**
 
@@ -286,8 +279,7 @@ Each transition should have tailored criteria based on the responsibilities and 
 
 * Review and Adjustment: Discuss how the transition criteria and evaluation processes are regularly reviewed and updated based on feedback from the community and changes within the project or technology. This ensures that the criteria remain relevant and effective.
 
-\
-
+<br>
 
 ***
 
@@ -322,8 +314,7 @@ These resources are either currently available or can be provided by the Open So
 * Well-being Initiatives: Programs that support the physical and mental health of contributors, promoting a healthy work-life balance.
 * Recognition Programs: Regular recognition of contributions through awards, acknowledgments, and features in community updates.
 
-\
-
+<br>
 
 **Feedback Mechanisms**
 

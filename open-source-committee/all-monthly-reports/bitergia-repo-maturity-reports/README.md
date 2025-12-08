@@ -20,8 +20,7 @@ Each report tracks and analyzes:
 * **Decentralization Trends** – Signals that indicate growing autonomy, diversity, and accountability within the ecosystem
 
 These insights guide strategy, strengthen governance, and ensure long-term sustainability for Cardano’s open-source development model.\
-Below you can find Monthly versions of our Reporting for Repo Maturity using Data from the Bitergia Analystics Platform. Note: Any Footprint analysis Reporting will show separately.\
-
+Below you can find Monthly versions of our Reporting for Repo Maturity using Data from the Bitergia Analystics Platform. Note: Any Footprint analysis Reporting will show separately.<br>
 
 ### 🗂️ Report Archives
 

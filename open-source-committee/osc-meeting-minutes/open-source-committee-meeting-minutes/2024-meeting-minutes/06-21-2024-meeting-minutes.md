@@ -1,4 +1,4 @@
-# 🤩 06/21/2024 Meeting Minutes
+# 🤩 (06/21/2024) Meeting Minutes
 
 ## Attendees:&#x20;
 
@@ -21,10 +21,9 @@
 Recording: [https://drive.google.com/file/d/12WQ07DQBJ4iZmsHW1p9EJGZuGbBm9mMY/view](https://drive.google.com/file/d/12WQ07DQBJ4iZmsHW1p9EJGZuGbBm9mMY/view)
 
 \
-Transcript: [https://docs.google.com/document/d/1G\_RIIceISM3tt9JruP3t4PiSgoCreWUb7xoUvKXqbzI/edit?usp=sharing](https://docs.google.com/document/d/1G\_RIIceISM3tt9JruP3t4PiSgoCreWUb7xoUvKXqbzI/edit?usp=sharing)
+Transcript: [https://docs.google.com/document/d/1G\_RIIceISM3tt9JruP3t4PiSgoCreWUb7xoUvKXqbzI/edit?usp=sharing](https://docs.google.com/document/d/1G_RIIceISM3tt9JruP3t4PiSgoCreWUb7xoUvKXqbzI/edit?usp=sharing)
 
-\
-
+<br>
 
 Intros
 
@@ -82,8 +81,7 @@ Phillip: No Intro Provided
 \
 \
 \
-\
-
+<br>
 
 | Discussion Point                  | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Actions: Responsible / Note                                                                                                                                          |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

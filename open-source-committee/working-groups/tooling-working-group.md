@@ -81,4 +81,4 @@ Offline Voting Procedures: All topics on which the CWG will take a vote will nee
 
 **No Vote:** In the event of a no vote or insufficient vote, topics or items will then be shelved or facilitated to revision based on the nature of the vote.
 
-**A vote by a WG:** should be considered binding if it receives a simple majority of positive votes from a quorum consisting of at least two thirds of the working group members being present and participating in the vote\
+**A vote by a WG:** should be considered binding if it receives a simple majority of positive votes from a quorum consisting of at least two thirds of the working group members being present and participating in the vote<br>

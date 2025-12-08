@@ -29,8 +29,7 @@ Repository Activity
 * **cardano-ledger (−9.5%)** and **ouroboros-consensus (−4.8%)** sustained strong protocol-level engagement.
 * **formal-ledger-specifications (−11.1%)** continued trending downward slightly as it transitioned into verification and maintenance stages.
 
-\
-
+<br>
 
 Pull Requests
 
