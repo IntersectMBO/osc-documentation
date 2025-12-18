@@ -2,19 +2,17 @@
 
 ## Committee Composition
 
-
-
-| Role               | Name                                           | Term Rotation            |
-| ------------------ | ---------------------------------------------- | ------------------------ |
-| Chair              | Elaine Cardenas                                | April '26                |
-| OSO Representative | Christian Taylor, Head of Open Source Office   | N/A - OSO Representative |
-| Secretary          | Terence McCutcheon (Tex) -  OS Program Manager | N/A - Secretary          |
-| Committee Seat     | Adam Dean - DripDropz (DDZ)                    | October '25              |
-| Committee Seat     | Pedro Lucas - 45B                              | October '25              |
-| Committee Seat     | Sebastian Pabon - GimbaLabs                    | October '25              |
-| Committee Seat     | Johnny Kelly - Intertree                       | October '25              |
-| Committee Seat     | Arnuad Bailly                                  | April '26                |
-| Committee Seat     | Philip DiSarro                                 | April '26                |
-| Committee Seat     | Georg Link - Bitergia                          | April '26                |
-| Committee Seat     | Vacant Seat                                    | April '26                |
-
+| Name                     | Role      | Voting Seat (Y/N) | Term         |
+| ------------------------ | --------- | ----------------- | ------------ |
+| Elaine Cardenas          | Chair     | Y                 | April 2026   |
+| Terence ‘Tex’ McCutcheon | Secretary | N                 | N/A          |
+| Christian Taylor         | SME       | N                 | N/A          |
+| Arnaud Bailly            | Member    | Y                 | April 2026   |
+| Bernard Sibanda          | Member    | Y                 | October 2026 |
+| Georg Link               | Member    | Y                 | April 2026   |
+| Jordan Hill              | Member    | Y                 | October 2026 |
+| Philip DiSarro           | Member    | Y                 | April 2026   |
+| Sebastian Pabon          | Member    | Y                 | October 2026 |
+| Reshma Mohan             | Member    | Y                 | October 2026 |
+| Udai Solanki             | Member    | Y                 | October 2026 |
+| Empty Seat               | Member    | Y                 | April 2026   |
