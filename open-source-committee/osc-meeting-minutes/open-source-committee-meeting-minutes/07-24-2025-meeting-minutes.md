@@ -16,55 +16,38 @@
 | Sebastian Pabon          | Yes        | Member/Seat | Y                 |
 | Philip DiSarro           | Yes        | Member/Seat | Y                 |
 
-<br>
-
 Community/Other Attendees
 
 * Emmanuel Titi
 * Erick Romero
 * Gemma Dakin
 
-<br>
 
-Recording: [Open Source Committee (Intersect) - 2025/07/24 - Recording](https://drive.google.com/file/d/1nMcNrPyx0CU87G6h7K8IrUM-858ZMjN0/view?usp=sharing)
 
-<br>
+**Recording:** [Open Source Committee (Intersect) - 2025/07/24 - Recording](https://drive.google.com/file/d/1nMcNrPyx0CU87G6h7K8IrUM-858ZMjN0/view?usp=sharing)
 
-Transcript: [Open Source Committee (Intersect) - 2025/07/24 - Transcript](https://docs.google.com/document/d/1X-RMXf8CAPPTJXLNAMstbYeV_YQLbyVXMU6jIlqcEEU/edit?usp=sharing)
+**Transcript:** [Open Source Committee (Intersect) - 2025/07/24 - Transcript](https://docs.google.com/document/d/1X-RMXf8CAPPTJXLNAMstbYeV_YQLbyVXMU6jIlqcEEU/edit?usp=sharing)
 
-<br>
-
-Chat Transcript: [Open Source Committee Meeting – 2025/07/24 – Chat Transcript](https://drive.google.com/file/d/1hPgzg9JxrC6na8yIEcyr2dmCzH6qkDlF/view?usp=sharing)
+**Chat Transcript:** [Open Source Committee Meeting – 2025/07/24 – Chat Transcript](https://drive.google.com/file/d/1hPgzg9JxrC6na8yIEcyr2dmCzH6qkDlF/view?usp=sharing)
 
 ## Intros
 
-Christian: Head of Open Source Office, Intersect, OS SME
-
-Tex: Open Source Program Manager, Intersect Staff, Open Source Committee Secretary
-
-Adam: OSC, TSC Intersect, CIP Editors, DripDropz, LLC
-
-Arnaud: OSC Member, CF
-
-Elaine: newly elected OSC, Aira corporation CTO
-
-Georg: Bitergia
-
-Johnny: Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet Cardano SPO Clients. Keystone Ambassador. Voting Seat Member on Technical Steering Committee and Open Source Committee.
-
-Lucas: OSC Chair, 45B.io(SMB onboarding)
-
-Niels: tbd
-
-Sebastian: OSC, Gimbalabs, contributor, Andamio co-founder.
-
-Philip: tbd&#x20;
+**Christian:** Head of Open Source Office, Intersect, OS SME\
+**Tex:** Open Source Program Manager, Intersect Staff, Open Source Committee Secretary\
+**Adam:** OSC, TSC Intersect, CIP Editors, DripDropz, LLC\
+**Arnaud:** OSC Member, CF\
+**Elaine:** newly elected OSC, Aira corporation CTO\
+**Georg:** Bitergia\
+**Johnny:** Non-Custodial Co-Management SysOps Engineer (Tech Janitor) for 3 Mainnet Cardano SPO Clients. Keystone Ambassador. Voting Seat Member on Technical Steering Committee and Open Source Committee.\
+**Lucas:** OSC Chair, 45B.io(SMB onboarding)\
+**Niels:** tbd\
+**Sebastian:** OSC, Gimbalabs, contributor, Andamio co-founder.\
+**Philip:** tbd&#x20;
 
 ## Agenda 7.24.25
 
 * Check ins now on Discord
 * OSC Budget Milestones Approval&#x20;
-*
   * Assignment of deliverables
 * Developer Advocate - Program Application updates
 * Maintainer Evaluation Process
@@ -72,43 +55,37 @@ Philip: tbd&#x20;
 * Operations of OSC long term
 * Budget Oversight
 * Open Forum/AOB
-*
   * Anonymous reviews between OS Committee Members
   * List of OS tooling for EGA WG
   * Governance Tooling Initiative
 
 ## Decisions/Actions
 
-Decisions:
+**Decisions:**
 
-* Check-ins: Will now be conducted on Discord, in the OSC internal channel and an OSC members thread. Experimentation with Loom for quick video recordings will also occur.
-* Milestone Approval: Approved via "lazy consensus" rather than a formal vote.
-* Milestone Dates: Milestone delivery dates will be set to the 14th of the month to optimize payment cycles (allowing for a 5-day buffer and payment by the 15th of the following month).
-* Oversight Committee Role: The Open Source Committee (OSC) is no longer involved in overseeing funded proposals, as Intersect has established a separate oversight committee.
+* **Check-ins:** Will now be conducted on Discord, in the OSC internal channel and an OSC members thread. Experimentation with Loom for quick video recordings will also occur.
+* **Milestone Approval:** Approved via "lazy consensus" rather than a formal vote.
+* **Milestone Dates:** Milestone delivery dates will be set to the 14th of the month to optimize payment cycles (allowing for a 5-day buffer and payment by the 15th of the following month).
+* **Oversight Committee Role:** The Open Source Committee (OSC) is no longer involved in overseeing funded proposals, as Intersect has established a separate oversight committee.
 
-Actions:
+**Actions:**
 
-* Terence: Update the milestone document to reflect the new delivery dates (14th of the month).
-* Adam: Align with Gemma asynchronously regarding his concerns about payment processes.
-* Committee Members:
-*
+* **Terence:** Update the milestone document to reflect the new delivery dates (14th of the month).
+* **Adam:** Align with Gemma asynchronously regarding his concerns about payment processes.
+* **Committee Members:**
   * Review the budget and budget lines, and familiarize themselves with initiatives.
-  * Self-assign to at least one budget line item from the "possum" (likely a reference to the program/project document).
+  * Self-assign to at least one budget line item of POSM.
   * Engage more in general, with a request for 20+ hours per month participation.
   * Look into the Miro board and assign themselves to tasks (if possible, considering the limitation of one person per task, use sticky notes as a workaround).
   * Promote the Developer Advocates program by retweeting and reposting links on LinkedIn and X, and reaching out to relevant organizations/Discords.
   * Review the Maintainer Evaluation Process document, with Jonathan incorporating feedback and seeking consensus.
   * Review the Bug Bounty document (though it was acknowledged it might be outdated).
-* Lucas:
-*
+* **Lucas:**
   * Continue tracking attendance and follow up on actions.
   * Create more focused work sessions for specific initiatives.
   * Record a Loom or async video message to introduce committee members to working more asynchronously.
   * Follow up on the discussions from the meeting.
-* Johnny: Integrate feedback into the Maintainer Evaluation Process document and seek committee consensus on changes.
-
-\
-<br>
+* **Johnny:** Integrate feedback into the Maintainer Evaluation Process document and seek committee consensus on changes.
 
 | Topic                                       | Discussion                                                                                                                                                                                                            | Notes                                                                                                                                                                                           |
 | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
