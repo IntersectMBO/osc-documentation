@@ -44,8 +44,12 @@
 
 ## Agenda 11.06.25
 
-* Nominate Chair & Vice Chair
-* Discuss Charter
+* Developer Advocate Updates
+* Maintainer Retainer processes
+* Founding Maintainer Decision
+* Incubation Requests
+* Cardano Summit Travel
+* Holiday Meeting cadence changes
 * Open Forum
 
 ## Decisions/Actions

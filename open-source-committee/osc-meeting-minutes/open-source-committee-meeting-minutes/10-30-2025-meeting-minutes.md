@@ -48,8 +48,13 @@
 
 ## Agenda 10.30.25
 
-* Nominate Chair & Vice Chair
-* Discuss Charter
+* Developer Advocate Updates
+* Intersect Procurement - Expectations/Task List
+* GSoC Vendos
+* Accelerator Program Vendors
+* Shift in Cadence
+* New incubation project applications
+* MRP next steps
 * Open Forum
 
 ## Decisions/Actions
