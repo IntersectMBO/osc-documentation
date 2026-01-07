@@ -32,7 +32,7 @@ By implementing this structured and well-governed bug bounty program, the ecosys
 
 This section defines the boundaries of the bug bounty program, specifying which systems are eligible for testing and which activities are prohibited to ensure ethical participation.\
 \
-\&#xNAN;_**Please note:**_ The scope of this program is limited to components and codebases maintained or supported by Intersect. Vulnerabilities in third-party applications, such as smart contracts powering decentralized applications (DApps), are out of scope
+&#xNAN;_**Please note:**_ The scope of this program is limited to components and codebases maintained or supported by Intersect. Vulnerabilities in third-party applications, such as smart contracts powering decentralized applications (DApps), are out of scope
 
 #### 1.1 Systems and Assets in Scope
 
@@ -157,7 +157,7 @@ This section outlines how security researchers should report vulnerabilities, th
 
 All vulnerability reports must be submitted through the GitHub private disclosure process ([https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security\_advisories\&learnproduct=code-security](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security_advisories\&learnproduct=code-security)), which ensures secure communication and proper tracking of submissions.\
 \
-&#xNAN;_**\*If a repository has not configured this function properly for your disclosure, please report it to secuirty@intersectmbo.org.\***_
+&#xNAN;_**\*If a repository has not configured this function properly for your disclosure, please report it to security@intersectmbo.org.\***_
 
 **Required Information for a Valid Submission:**
 
