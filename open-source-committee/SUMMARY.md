@@ -8,7 +8,6 @@
   * [Open Source Committee 2025 Proposals](about/readme/open-source-committee-2025-proposals.md)
   * [OSC Communications](about/readme/osc-communications.md)
   * [OSC Engagement](about/readme/osc-engagement.md)
-  * [OSC Events](about/readme/osc-events.md)
   * [How to Join or Contact Us?](about/readme/how-to-join-or-contact-us.md)
 * [🤠 Open Source Office (OSO)](about/open-source-office-oso/README.md)
   * [😛 2025 OSO Roadmap](about/open-source-office-oso/2024-ospo-roadmap/README.md)
@@ -48,7 +47,8 @@
   * [🫣 Incident Monitoring](about/paid-open-source-model-posm/incident-monitoring.md)
   * [😎 Project Support Services](about/paid-open-source-model-posm/project-support-services.md)
   * [🤯 Accelerator Program](about/paid-open-source-model-posm/accelerator-program.md)
-  * [😶‍🌫️ OSC Travel and Events](about/paid-open-source-model-posm/osc-travel-and-events.md)
+  * [😶‍🌫️ OSC Travel and Events](about/paid-open-source-model-posm/osc-travel-and-events/README.md)
+    * [OSC Events](about/paid-open-source-model-posm/osc-travel-and-events/osc-events.md)
   * [😌 Developer Advocates](about/paid-open-source-model-posm/developer-advocates.md)
   * [🥲 Cardano Summer of Code](about/paid-open-source-model-posm/cardano-summer-of-code.md)
 
