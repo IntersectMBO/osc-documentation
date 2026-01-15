@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # OSC Events
 
 The Open Source Committee was awarded a budget from the Cardano Treasury to enact the Paid Open Source Model. This budget was also inclusive of funds to allow OSC Members to be reimbursed for expenses incurred to attend Cardano and other open source events. Find our list of events below!&#x20;
