@@ -39,6 +39,7 @@
 * [🤩 Open Source Strategy](about/open-source-strategy.md)
 * [🌄 Paid Open Source Model (POSM)](about/paid-open-source-model-posm/README.md)
   * [🤓 Maintainer Retainer](about/paid-open-source-model-posm/maintainer-retainer/README.md)
+    * [Milestone 1.2 - Selection & Onboarding](about/paid-open-source-model-posm/maintainer-retainer/milestone-1.2-selection-and-onboarding.md)
     * [Project List](about/paid-open-source-model-posm/maintainer-retainer/project-list.md)
   * [🤩 Code For Us](about/paid-open-source-model-posm/code-for-us.md)
   * [😇 Tooling Sustainability](about/paid-open-source-model-posm/tooling-sustainability.md)
