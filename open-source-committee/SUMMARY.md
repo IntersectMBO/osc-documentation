@@ -51,6 +51,8 @@
   * [😶‍🌫️ OSC Travel and Events](about/paid-open-source-model-posm/osc-travel-and-events/README.md)
     * [OSC Events](about/paid-open-source-model-posm/osc-travel-and-events/osc-events.md)
   * [😌 Developer Advocates](about/paid-open-source-model-posm/developer-advocates/README.md)
+    * [Developer Advocate Cohort #2](about/paid-open-source-model-posm/developer-advocates/developer-advocate-cohort-1-1/README.md)
+      * [Cohort #2 Deliverables](about/paid-open-source-model-posm/developer-advocates/developer-advocate-cohort-1-1/cohort-2-deliverables.md)
     * [Q4 Progress Report](about/paid-open-source-model-posm/developer-advocates/q4-progress-report.md)
   * [🥲 Cardano Summer of Code](about/paid-open-source-model-posm/cardano-summer-of-code.md)
 
