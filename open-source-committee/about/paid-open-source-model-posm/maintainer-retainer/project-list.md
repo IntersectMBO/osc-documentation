@@ -12,27 +12,11 @@ Please find below the projects currently seeking/accepting Community Maintainers
 
 **Core Cardano** (# assigned/#available)
 
-1. Cardano Node (1/2)
-2. Ouroboros Network (0/2)
-3. Cardano Ledger (0/2)
-4. Cardano DB-Sync (0/2)
-5. Cardano API/CLI (0/2)
-6. Plutus (0/2)
-7. Cardano Base (0/2)
-8. LSM Tree (0/2)
-9. Cardano Node Emulator (1/2)
-10. Cardano Prelude (0/2)
-11. Antaeus (0/2)
+<table><thead><tr><th width="242.62841796875">Repository/Project</th><th width="165.0885009765625">Lead Maintainer</th><th>MRP - 1</th><th>MRP - 2</th></tr></thead><tbody><tr><td><a href="https://github.com/IntersectMBO/cardano-node">Cardano Node</a> (1/2) </td><td></td><td>Kevin H. </td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/ouroboros-network">Ouroboros Network</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-ledger">Cardano Ledger</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-db-sync">Cardano DB-Sync</a> (1/2)</td><td></td><td>Darlington W.*</td><td></td></tr><tr><td>Cardano <a href="https://github.com/IntersectMBO/cardano-api">API</a>/<a href="https://github.com/IntersectMBO/cardano-cli">CLI</a>  (1/2)</td><td></td><td>Suganya R.*</td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/plutus">Plutus</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-base">Cardano Base</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/lsm-tree">LSM Tree</a> (1/2)</td><td></td><td>Joris D. </td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-node-emulator">Cardano Node Emulator</a> (1/2)</td><td></td><td>Leonard H. </td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/cardano-prelude">Cardano Prelude</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/antaeus">Antaeus</a> (0/2)</td><td></td><td></td><td></td></tr></tbody></table>
 
 **Community Projects** (# assigned/#available)
 
-1. Hydra (0/2)
-2. Evolution SDK (1/2)
-3. Mesh-Multisig (1/2)
-4. TxPipe-Oura (0/2)
-5. CF-Cardano Wallet (0/2)
-6. Plutarch-Plutonomicon (0/2)
-7. Andamio (0/2)
+<table><thead><tr><th width="210.14581298828125">Repository/Project</th><th>Lead Maintainer</th><th>MRP - 1</th><th>MRP - 2</th></tr></thead><tbody><tr><td><a href="https://github.com/cardano-scaling/hydra">Hydra</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/evolution-sdk">Evolution SDK</a> (1/2) </td><td></td><td>Jonathan</td><td></td></tr><tr><td><a href="https://github.com/MeshJS/multisig">Mesh-Multisig</a> (1/2) </td><td></td><td>Quirin</td><td></td></tr><tr><td><a href="https://github.com/MeshJS/mesh">Mesh-mesh</a> (1/2) </td><td></td><td>André</td><td></td></tr><tr><td><a href="https://github.com/txpipe/oura">TxPipe-Oura</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/cardano-foundation/cardano-wallet">CF-Cardano Wallet</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/Plutonomicon/plutarch-plutus">Plutarch-plutus</a> (0/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/Andamio-Platform/andamio-io">Andamio</a> (0/2)</td><td></td><td></td><td></td></tr></tbody></table>
 
 In Review
 
@@ -42,4 +26,3 @@ In Review
 4. TBD
 5. TBD
 6. TBD
-7. TBD
