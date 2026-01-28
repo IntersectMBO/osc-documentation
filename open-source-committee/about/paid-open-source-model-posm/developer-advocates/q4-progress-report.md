@@ -1,6 +1,6 @@
 # Q4 Progress Report
 
-{% file src="../../../.gitbook/assets/DA Q4 Progress Report.pdf" %}
+{% file src="../../../.gitbook/assets/DA Q4 Progress Report Rev. 1pdf.pdf" %}
 
 The **Q4 2025 Developer Advocate Progress Report** documents the delivery of contract-defined milestones by Intersect’s four Developer Advocates across the final quarter of 2025. The report provides a structured, milestone-by-milestone record of activity, outcomes, and qualitative impact across developer experience, onboarding, documentation, community engagement, innovation, diversity & inclusion, and strategic collaboration.
 

@@ -40,4 +40,4 @@ In **January 2025**, the Cardano open-source ecosystem experienced a strong rebo
 
 **January 2025** marked a strong reactivation phase across the Cardano ecosystem. The return to high-volume contributions, deep file-level modifications, and faster issue resolution reflects a community in delivery mode. Core contributors maintained focus while new and unaffiliated actors gained traction. Looking ahead, sustaining this throughput and extending engagement across more organizations and repositories will be key to scaling the ecosystem and delivering on roadmap milestones.
 
-{% file src="../../../.gitbook/assets/Monthly Maturity Report- January 2025.pdf" %}
+{% file src="../../../.gitbook/assets/Monthly Maturity Report- January 2025 (1).pdf" %}
