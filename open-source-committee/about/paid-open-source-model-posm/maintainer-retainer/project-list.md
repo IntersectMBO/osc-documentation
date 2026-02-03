@@ -5,7 +5,7 @@ Applications for Community Projects to be maintained are open! [https://tinyurl.
 {% endhint %}
 
 {% hint style="info" %}
-Applications are open for Developers>Community Maintainers! [https://tinyurl.com/MRP-Maintainer](https://tinyurl.com/MRP-Maintainer)
+Applications are open for Developers>Community Maintainers! [https://tinyurl.com/MRP-Apply](https://tinyurl.com/MRP-Apply)
 {% endhint %}
 
 Please find below the projects currently seeking/accepting Community Maintainers.&#x20;
