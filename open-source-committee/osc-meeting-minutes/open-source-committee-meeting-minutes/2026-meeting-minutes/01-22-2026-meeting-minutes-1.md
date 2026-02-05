@@ -25,7 +25,7 @@ Community/Other Attendees
 * Robert Hever
 * Uche Obasi
 
-<br>
+
 
 **Recording:** [Open Source Committee (Intersect) - 2026/02/05 - Recording](https://drive.google.com/file/d/132YWo28xOGBh2XFQujwXT2ImErZLbW4T/view?usp=sharing)
 
@@ -69,6 +69,8 @@ Community/Other Attendees
 * **April 2026 Elections:** It was confirmed that five committee seats will be up for election in April to replace departing members and fill vacancies, with each seat carrying a two-year term.
 * **Maintainer Retainer Report:** The committee approved the interview report for the first cohort of eight selected maintainers.
 * **Accelerator Strategy:** Consensus was reached to use a consolidated partnership with Chinstrap and STORM Partners to deliver the accelerator program within the current budget.
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Actions**
 
