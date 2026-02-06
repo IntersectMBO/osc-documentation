@@ -152,7 +152,7 @@
   * [2026 Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/README.md)
     * [🙃 (01/08/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/01-08-2026-meeting-minutes.md)
     * [😆 (01/22/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/01-22-2026-meeting-minutes.md)
-    * [😅 (01/22/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/01-22-2026-meeting-minutes-1.md)
+    * [😅 (02/05/2026) Meeting Minutes](osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/02-05-2026-meeting-minutes.md)
 
 ## All Monthly Reports
 
