@@ -40,6 +40,7 @@
   * [🤓 Maintainer Retainer](about/paid-open-source-model-posm/maintainer-retainer/README.md)
     * [Milestone 1.2 - Selection & Onboarding](about/paid-open-source-model-posm/maintainer-retainer/milestone-1.2-selection-and-onboarding.md)
     * [Project List](about/paid-open-source-model-posm/maintainer-retainer/project-list.md)
+    * [Interview Reports](about/paid-open-source-model-posm/maintainer-retainer/interview-reports.md)
   * [🤩 Code For Us](about/paid-open-source-model-posm/code-for-us.md)
   * [😇 Tooling Sustainability](about/paid-open-source-model-posm/tooling-sustainability.md)
   * [🫢 Bug Bounty Program](about/paid-open-source-model-posm/bug-bounty-program/README.md)
