@@ -18,8 +18,8 @@ Please find below the projects currently seeking/accepting Community Maintainers
 
 <table><thead><tr><th width="210.14581298828125">Repository/Project</th><th>Lead Maintainer</th><th>MRP - 1</th><th>MRP - 2</th></tr></thead><tbody><tr><td><a href="https://github.com/cardano-scaling/hydra">Hydra</a> (2/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/IntersectMBO/evolution-sdk">Evolution SDK</a> (1/2) </td><td></td><td>Jonathan</td><td></td></tr><tr><td><a href="https://github.com/MeshJS/multisig">Mesh-Multisig</a> (0/2) </td><td></td><td>Quirin</td><td>André</td></tr><tr><td><a href="https://github.com/MeshJS/mesh">Mesh-mesh</a> (2/2) </td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/txpipe/oura">TxPipe-Oura</a> (2/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/cardano-foundation/cardano-wallet">CF-Cardano Wallet</a> (2/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/Plutonomicon/plutarch-plutus">Plutarch-plutus</a> (2/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/Andamio-Platform/andamio-app-template">Andamio</a> (2/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/sidan-lab/whisky">Whisky</a> (2/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/sidan-lab/vodka">Vodka</a> (2/2)</td><td></td><td></td><td></td></tr><tr><td><a href="https://github.com/GameChangerFinance/dandelion-lite">Dandelion Lite</a> (2/2)</td><td></td><td></td><td></td></tr></tbody></table>
 
-**In Review**
+**Projects In Review**
 
-1. TBD
-2. TBD
-3. TBD
+1. None currently.
+
+Project applications may be submitted at: [https://tinyurl.com/MRP-Projects](https://tinyurl.com/MRP-Projects)
