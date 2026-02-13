@@ -1,21 +1,21 @@
 # Selection Criteria
 
-#### The Tooling Sustainability Program is designed to fund and support critical open-source tools that the Cardano ecosystem depends on. Its purpose is to keep these projects healthy, reliable, and maintainable over the long term by providing structured support and accountability.
+The Tooling Sustainability Program is designed to fund and support critical open-source tools that the Cardano ecosystem depends on. Its purpose is to keep these projects healthy, reliable, and maintainable over the long term by providing structured support and accountability.
 
-#### We focus on projects that:
+We focus on projects that:
 
-* #### Improve developer experience (e.g., better workflows, faster onboarding, simplified tooling).
-* #### Enhance interoperability between projects and across ecosystems.
-* #### Strengthen day-to-day productivity for developers and operators.
-* #### Reduce technical debt across the ecosystem by ensuring tools remain modern, tested, and documented.
+* Improve developer experience (e.g., better workflows, faster onboarding, simplified tooling).
+* Enhance interoperability between projects and across ecosystems.
+* Strengthen day-to-day productivity for developers and operators.
+* Reduce technical debt across the ecosystem by ensuring tools remain modern, tested, and documented.
 
 #### Project Identification and Intake
 
 Projects enter the Tooling Sustainability Program through two pathways:&#x20;
 
-Pathway 1 “Self-Nomination”: A project, individual, or a team submits a tooling sustainability application directly. If the tool is owned, operated, or commercially controlled by a company, the company must be the formal applicant. Additionally, the Open Source Office may refer projects to apply for Tooling support, also as an extension of Project Support Services offerings.&#x20;
+**Pathway 1 “Self-Nomination”:** A project, individual, or a team submits a tooling sustainability application directly. If the tool is owned, operated, or commercially controlled by a company, the company must be the formal applicant. Additionally, the Open Source Office may refer projects to apply for Tooling support, also as an extension of Project Support Services offerings.&#x20;
 
-Pathway 2 “Committee-Recommendation”: The Open Source Committee and Technical Steering Committee may independently identify tooling that prevents operational risk, ecosystem dependency risk, or security exposure, and submits non-binding recommendations for consideration.&#x20;
+**Pathway 2 “Committee-Recommendation”:** The Open Source Committee and Technical Steering Committee may independently identify tooling that prevents operational risk, ecosystem dependency risk, or security exposure, and submits non-binding recommendations for consideration.&#x20;
 
 Funding for the Tooling Sustainability Program remains open year round, so long as funds are available, for the current funding cycle. Applications are accepted continuously and grouped into review batches for structured review by Committee(s).
 
@@ -26,11 +26,9 @@ Funding for the Tooling Sustainability Program remains open year round, so long 
 * Confirm to meet all required checklist items (use [the self-attestation script](https://github.com/IntersectMBO/Project-Compliance-Attestation)).
 * Submit project through the [ClickUp intake form](https://forms.clickup.com/9015279944/f/8cnmga8-37315/O6P6T73ETVLHJY9C6D) (include self-attestation result as PDF).
 
-### Self-Attestation: As part of the application, projects must complete a self-attestation using the Intersect Open Source Office scripts. This ensures consistent baseline checks before moving forward.
+**Self-Attestation:** As part of the application, projects must complete a self-attestation using the Intersect Open Source Office scripts. This ensures consistent baseline checks before moving forward.
 
-Script location:
-
-[IntersectMBO – Self-Attestation Scripts](https://github.com/IntersectMBO/Project-Compliance-Attestation)
+**Script location:** [IntersectMBO – Self-Attestation Scripts](https://github.com/IntersectMBO/Project-Compliance-Attestation)
 
 #### How to Use the Scripts
 
@@ -44,7 +42,7 @@ Script location:
 * Save the output (console log or generated report).
 * Attach the pdf results to your application form along with links to your evidence (repo files, CI config, SBOM, etc.).
 
-Outcome:
+**Outcome:**
 
 * Pass: Invited to Phase 2.
 * Fail: Feedback provided with remediation steps. Applicants may re-apply once fixed.
@@ -57,7 +55,7 @@ Outcome:
 * Review of repository artifacts, cross-checked with your attestation output.
 * Q\&A session covering scope, technical readiness, governance, roadmap, and security posture.
 
-What reviewers look for:
+**What reviewers look for:**
 
 * Clear problem definition and user need.
 * Evidence of adoption or demand.
@@ -74,22 +72,22 @@ Projects approved by OSC move to funding alignment, which formalizes:
 * Disbursement schedule, tied directly to milestone completion.
 * Non-funding support (optional): security reviews, governance consulting, documentation support, community testing, analytics setup.
 
-Outcome:
+**Outcome:**
 
 Projects become formally supported under the Tooling Sustainability Program, with sustained backing for successful delivery and long-term maintainability.
 
-Post-Demo Review and Recommendation:\
+**Post-Demo Review and Recommendation:**\
 Following the applicant demo, Open Source Committee (OSC) members will conduct an internal review of the application. This review assesses technical readiness, sustainability alignment, milestone clarity, and ecosystem impact based on the information presented during the demo and submitted materials.
 
 Upon completion of the OSC internal review, a consolidated recommendation, including relevant findings and supporting documentation, is forwarded to the Technical Steering Committee (TSC) for optional technical review and advisory input.
 
-Milestone Definition and Scope Control
+**Milestone Definition and Scope Control**
 
 For applications that pass technical and program evaluation, a milestone plan is submitted by the applicant/project. Each milestone must define a specific what, why, how, and by when the requested tooling development support will be complete.
 
 Scope is explicitly locked to sustainability objectives. Any work that drifts into net new product development, commercial features, or unrelated research is excluded from this funding path and must be redirected to alternative funding programs.
 
-Final Approval and Async Voting
+**Final Approval and Async Voting**
 
 Once evaluation is complete and milestones are finalized, the Open Source Committee will conduct a vote. A successful vote authorizes funding, the milestone contract is then vetted by Intersect Procurement, and projects are onboarded into the Tooling Sustainability Program.
 

@@ -42,7 +42,7 @@
     * [Project List](about/paid-open-source-model-posm/maintainer-retainer/project-list.md)
     * [Interview Reports](about/paid-open-source-model-posm/maintainer-retainer/interview-reports.md)
   * [🤩 Code For Us](about/paid-open-source-model-posm/code-for-us.md)
-  * [😇 Tooling Sustainability](about/paid-open-source-model-posm/tooling-sustainability/README.md)
+  * [😇 Tooling Sustainability](about/paid-open-source-model-posm/tooling-sustainability.md)
     * [Selection Criteria](about/paid-open-source-model-posm/tooling-sustainability/selection-criteria.md)
   * [🫢 Bug Bounty Program](about/paid-open-source-model-posm/bug-bounty-program/README.md)
     * [Tx Pipe Contract - GitHoney](about/paid-open-source-model-posm/bug-bounty-program/tx-pipe-contract-githoney.md)
