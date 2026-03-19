@@ -1,10 +1,4 @@
-# Meeting Minutes
-
-{% hint style="info" %}
-Access recurring Meeting Notes here: [Cardano DevEx Innvation WG Minutes](https://docs.google.com/document/d/12Yc3KtGtuCX0xygOXSAjRIMMJVHRyUOgd5iFarO6E_8/edit?usp=sharing)
-{% endhint %}
-
-Mar 4, 2026 | Cardano Developer Experience Innovation WG
+# Meeting Minutes - March 4, 2026
 
 ## Attendees:&#x20;
 
