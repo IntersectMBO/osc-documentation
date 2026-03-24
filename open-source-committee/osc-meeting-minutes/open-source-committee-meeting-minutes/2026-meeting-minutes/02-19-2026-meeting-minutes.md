@@ -1,4 +1,4 @@
-# 😎 (02/19/2026) Meeting Minutes
+# (02/19/2026) Meeting Minutes
 
 ## Attendees:&#x20;
 
