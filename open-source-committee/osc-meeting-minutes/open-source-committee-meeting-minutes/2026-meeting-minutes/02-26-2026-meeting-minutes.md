@@ -52,8 +52,15 @@ Udai: OSC voting member, Founder and CEO - AIQUANT&#x20;
 
 ## Agenda 02.26.26
 
-* Nominate Chair & Vice Chair
-* Discuss Charter
+* Developer Experience Innovation WG
+* POSM Tasks
+* MRP Application/Interview Scoring
+* Tooling Proposal reviews
+* Comms channel Discussion
+* Budget Questions/Sessions
+* MRP Andamio Recording available
+* Project Support Services - Milestones
+* Community Project Review - OSC Sponsorship
 * Open Forum
 
 ## Decisions/Actions

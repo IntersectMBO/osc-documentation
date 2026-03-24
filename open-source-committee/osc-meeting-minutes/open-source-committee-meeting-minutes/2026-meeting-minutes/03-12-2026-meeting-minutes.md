@@ -49,8 +49,17 @@ Community/Other Attendees
 
 ## Agenda 03.12.26
 
-* Nominate Chair & Vice Chair
-* Discuss Charter
+* Developer Advocate Check-In
+* CryptoEQ
+* Committee Elections - Meet the Candidates Sessions
+* Budget Review - Suggestions
+* Accelerator Program
+* MRP Evidence - Draft Review Process
+* Tooling WG
+* Program Application re-work session
+* Tooling Application review
+* Dev Adv Milestone reviews
+* OSC Meeting Cadence
 * Open Forum
 
 ## Decisions/Actions
