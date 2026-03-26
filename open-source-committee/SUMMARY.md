@@ -68,6 +68,7 @@
     * [Meeting Minutes - March 4, 2026](working-groups/cardano-devex-innovation-working-group/meeting-minutes/meeting-minutes-march-4-2026.md)
     * [Meeting Minutes - March 11, 2026](working-groups/cardano-devex-innovation-working-group/meeting-minutes/meeting-minutes-march-11-2026.md)
     * [Meeting Minutes - March 18, 2026](working-groups/cardano-devex-innovation-working-group/meeting-minutes/meeting-minutes-march-18-2026.md)
+    * [Meeting Minutes - March 25, 2026](working-groups/cardano-devex-innovation-working-group/meeting-minutes/meeting-minutes-march-25-2026.md)
 * [OSC Working Group Archive](working-groups/osc-working-group-archive/README.md)
   * [Project Incubation WG (Archive)](working-groups/osc-working-group-archive/project-incubation-working-group.md)
   * [Open Source Libraries Working Group](working-groups/osc-working-group-archive/open-source-libraries-working-group.md)
