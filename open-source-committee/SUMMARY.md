@@ -51,7 +51,7 @@
   * [😎 Project Support Services](about/paid-open-source-model-posm/project-support-services.md)
   * [🤯 Accelerator Program](about/paid-open-source-model-posm/accelerator-program.md)
   * [😶‍🌫️ OSC Travel and Events](about/paid-open-source-model-posm/osc-travel-and-events/README.md)
-    * [Q4 Benefit Report](about/paid-open-source-model-posm/osc-travel-and-events/osc-events.md)
+    * [Quarterly Benefit Reports](about/paid-open-source-model-posm/osc-travel-and-events/osc-events.md)
   * [😌 Developer Advocates](about/paid-open-source-model-posm/developer-advocates/README.md)
     * [Developer Advocate Cohort #2](about/paid-open-source-model-posm/developer-advocates/developer-advocate-cohort-1-1/README.md)
       * [Cohort #2 Deliverables](about/paid-open-source-model-posm/developer-advocates/developer-advocate-cohort-1-1/cohort-2-deliverables.md)
