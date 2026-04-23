@@ -88,8 +88,31 @@ The Open Source Committee was awarded a budget from the Cardano Treasury to enac
   Marco (CF), Sam L. (Developer), James D. (Builder), Adam D. (Builder/Former OSC), \
   Dan B. (Dev Advocate) \
   OSO Staff: Terence 'Tex' \
-  **KPIs:**
-  1. Market the Cardano and the Paid Open Source Model
-  2. Engage indie/mid-size studios and technical leads who already use open source tooling
+  **KPIs/Goals:**
+  1. Market Cardano and the Paid Open Source Model
+  2. Engage open source projects and technical experts who already use open source tooling
   3. Gather market intelligence on crypto open-source funding interest
-  4. Identify potential pilot or follow-up opportunities
+  4. Identify follow-up opportunities
+*   **Confirmed Attendee List:**
+
+    Georg Link - OSC Chair\
+    Sebastian Pabon - OSC Member\
+    Udai Solanki - OSC Member\
+    Jordan Hill - OSC Member\
+    Bora Oben - Cardano Foundation\
+    Marco Russo - Cardano Foundation\
+    Ian McCullough - Community Builder\
+    Harsha Gullapalli - Community Builder\
+    Samuel Leathers - IOG\
+    James Dunseith - Andamio\
+    Adam Dean - Former OSC Member\
+    <br>
+
+    **Travel/Lodging Booked:**
+
+    Hotel Room Block: Due to Privacy a copy of the contract is not included or posted. The countersigned contract was however completed as of April 22, 2026.&#x20;
+
+    \
+    All confirmed attendees have begun booking travel.
+
+<br>
