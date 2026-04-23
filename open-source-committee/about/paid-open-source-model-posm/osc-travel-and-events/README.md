@@ -93,6 +93,8 @@ The Open Source Committee was awarded a budget from the Cardano Treasury to enac
   2. Engage open source projects and technical experts who already use open source tooling
   3. Gather market intelligence on crypto open-source funding interest
   4. Identify follow-up opportunities
+  5. Expected Booth Traffic 100-300 people
+  6. Deliver Sponsored Talk (Reeve) and awarded talk (Facilitating Sustainable OS Funding)
 *   **Confirmed Attendee List:**
 
     Georg Link - OSC Chair\
