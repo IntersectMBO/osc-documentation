@@ -6,6 +6,7 @@
   * [🙂 Open Source Committee Charter](about/readme/readme.md)
   * [Committee Members](about/readme/committee-members.md)
   * [Open Source Committee 2025 Proposals](about/readme/open-source-committee-2025-proposals.md)
+  * [Open Source Committee 2026-27 Proposal](about/readme/open-source-committee-2025-proposals-1.md)
   * [OSC Communications](about/readme/osc-communications.md)
   * [OSC Engagement](about/readme/osc-engagement.md)
   * [How to Join or Contact Us?](about/readme/how-to-join-or-contact-us.md)
