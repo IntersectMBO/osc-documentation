@@ -32,7 +32,7 @@ Community/Other Attendees
 
 **Transcript:** [Open Source Committee (Intersect) - 2026/04/30 - Transcript](https://docs.google.com/document/d/1nikeXlZVgbGmMMwuyYY2elA7NjQJACTnNkenIDaQb-k/edit?usp=sharing)
 
-**Chat Transcript:** [Open Source Committee Meeting – 2024/11/07 – Chat Transcript](https://drive.google.com/file/d/17SFasnZeEoVmH4j2JVgfv8dNmbDC8Avt/view?usp=sharing)
+**Chat Transcript:** [Open Source Committee Meeting – 2026/04/30 – Chat Transcript](https://drive.google.com/file/d/17SFasnZeEoVmH4j2JVgfv8dNmbDC8Avt/view?usp=sharing)
 
 ## Intros
 
