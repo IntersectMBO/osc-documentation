@@ -57,6 +57,8 @@
     * [Developer Advocate Cohort #2](about/paid-open-source-model-posm/developer-advocates/developer-advocate-cohort-1-1/README.md)
       * [Cohort #2 Deliverables](about/paid-open-source-model-posm/developer-advocates/developer-advocate-cohort-1-1/cohort-2-deliverables.md)
     * [Q4 Progress Report](about/paid-open-source-model-posm/developer-advocates/q4-progress-report.md)
+    * [Q1 Progress Report](about/paid-open-source-model-posm/developer-advocates/q4-progress-report-1/README.md)
+      * [Developer-Experience Repo Changelog](about/paid-open-source-model-posm/developer-advocates/q4-progress-report-1/developer-experience-repo-changelog.md)
   * [🥲 Cardano Summer of Code](about/paid-open-source-model-posm/cardano-summer-of-code.md)
 
 ## Working Groups
