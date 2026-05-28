@@ -1,5 +1,5 @@
 ---
-description: This page to refelct current events that the OSC is planning to attend .
+description: This page is to reflect current events that the OSC is planning to attend.
 ---
 
 # 😶‍🌫️ OSC Travel and Events
