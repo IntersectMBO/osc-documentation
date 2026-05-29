@@ -10,7 +10,7 @@ description: >-
 This is an advanced course on functional programming in Haskell. It is designed for second year computing students in Nottingham, but the lectures are also made available on [YouTube](http://tinyurl.com/haskell-notts2).
 
 The course is based on part II of [Programming in Haskell](http://people.cs.nott.ac.uk/pszgmh/pih.html).\
-It is recommended for following the course, to purchase the below textbook, watch the youtube videos, slides are provided below to follow along, and then to try out to programming examples with resources below as well. \
+It is recommended for following the course, to purchase the below textbook, watch the youtube videos, slides are provided below to follow along, and then to try out to programming examples with resources below as well.\
 All resources and links are provided at the bottom of the page.\
 \
 All credit goes to the [Graham Hutton](https://people.cs.nott.ac.uk/pszgmh/), University of Nottingham
@@ -101,9 +101,7 @@ Advanced topics you’ll be ready for next:
 * Concurrency and streaming libraries (e.g. Conduit, STM)
 * Formal verification tools (e.g., Liquid Haskell, Agda)
 
-
-
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Lectures
 
