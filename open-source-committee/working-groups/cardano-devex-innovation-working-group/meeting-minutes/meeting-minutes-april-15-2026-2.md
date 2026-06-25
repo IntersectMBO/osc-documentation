@@ -32,14 +32,14 @@ Community/Other Attendees
 
 ## Decisions/Actions
 
-Decisions
+**Decisions**
 
 * **Next Meeting Format:** The team decided to format next month's meeting as a fully broadcasted, open live feedback session rather than a standard closed meeting.
 * **Open Session Rules:** It was decided to limit individual speaking time during the open session to 60 seconds (or 1–2 minutes maximum) per developer to quickly capture their biggest friction points.
 * **Document Overhaul Strategy:** The group agreed that the immediate mandate for Developer Advocates regarding documentation is to use minor error fixes as an onboarding pipeline for new contributors, rather than attempting a massive standalone documentation rewrite.
 * **Communication Channel Consolidation:** The team decided to streamline support pathways by directing all community technical friction points to two specific channels: the Intersect DevX Discord and the Cardano Foundation (CF) Engineering Discord.
 
-Actions
+**Actions**
 
 * **Terence & Bora:** Coordinate in the background over the next few days to figure out the logistical setup, marketing, and multiplatform streaming options for the upcoming open feedback session.
 * **Bora:** Follow up internally with his team and review/approve Dan's open Pull Request (PR) for the interactive map on the Developer Portal.
