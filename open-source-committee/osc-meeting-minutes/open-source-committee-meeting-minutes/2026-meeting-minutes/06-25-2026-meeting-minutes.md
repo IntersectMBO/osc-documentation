@@ -2,19 +2,7 @@
 
 ## Attendees:&#x20;
 
-| Name                     | Attendance | Role       | Voting Seat (Y/N) | Term            |
-| ------------------------ | ---------- | ---------- | ----------------- | --------------- |
-| Sebastian Pabon          | Yes        | Chair      | Y                 | October 2025    |
-| Kambale Mechack Elie     | Yes        | Vice Chair | Y                 | April 2026 (2y) |
-| Terence ‘Tex’ McCutcheon | Yes        | Secretary  | N                 | N/A             |
-| Bernard Sibanda          | Yes        | Member     | Y                 | October 2025    |
-| Jordan Hill              | Yes        | Member     | Y                 | October 2025    |
-| Udai Solanki             | Yes        | Member     | Y                 | October 2025    |
-| Reshma Mohan             | Yes        | Member     | Y                 | October 2025    |
-| Pawel Jakubas            | Yes        | Member     | Y                 | April 2026 (2y) |
-| Olivier Mwatsimulamo     | Yes        | Member     | Y                 | April 2026 (2y) |
-| Bora Oben                | Yes        | Member     | Y                 | April 2026 (2y) |
-| Dominik Hinkleman        | No         | Member     | Y                 | April 2026 (2y) |
+<table data-header-hidden><thead><tr><th width="231.87890625"></th><th align="center"></th><th align="center"></th><th width="130.8984375" align="center"></th><th width="127.4765625"></th></tr></thead><tbody><tr><td>Name</td><td align="center">Attendance</td><td align="center">Role</td><td align="center">Voting Seat (Y/N)</td><td>Term Ends</td></tr><tr><td>Sebastian Pabon</td><td align="center">Yes</td><td align="center">Chair</td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Kambale Mechack Elie</td><td align="center">Yes</td><td align="center">Vice Chair</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Terence ‘Tex’ McCutcheon</td><td align="center">Yes</td><td align="center">Secretary</td><td align="center">N</td><td>N/A</td></tr><tr><td>Bernard Sibanda</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Jordan Hill</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Udai Solanki</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Reshma Mohan</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2027</td></tr><tr><td>Pawel Jakubas</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Olivier Mwatsimulamo</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Bora Oben</td><td align="center">Yes</td><td align="center">Member</td><td align="center">Y</td><td>April 2028</td></tr><tr><td>Dominik Hinkleman</td><td align="center">No</td><td align="center">Member</td><td align="center">Y</td><td>April 2028</td></tr></tbody></table>
 
 Community/Other Attendees
 
