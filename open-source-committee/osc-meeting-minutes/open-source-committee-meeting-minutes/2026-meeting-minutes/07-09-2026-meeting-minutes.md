@@ -56,7 +56,7 @@ Community/Other Attendees
 **Decisions**
 
 * Approved the removal of _/plutus-script-evaluation_ from the public bug bounty program (7 Yes, 2 Abstain).
-* Approved a request for a _Statement of Work (SOW)_ from the Chella project team (6 Yes, 1 Abstain).
+* Approved a request for a _Statement of Work (SOW)_ from the Cella project team (6 Yes, 1 Abstain).
 * Approved a request for a _Statement of Work (SOW)_ from the Cardano Node Emulator project team (8 Yes, 1 No, 1 Abstain).
 * Approved the submitted _Statement of Work (SOW)_ and funding release for Lambda Buffers (5 Yes, 1 Abstain).
 * **Mesh AI:** Approved (7 Yes, 1 Abstain). Moving to Statement of Work (SOW).
