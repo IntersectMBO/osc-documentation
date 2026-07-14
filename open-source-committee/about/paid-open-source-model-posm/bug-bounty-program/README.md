@@ -7,6 +7,10 @@ description: >-
 
 # 🫢 Bug Bounty Program
 
+{% hint style="info" %}
+Changes 14 July 2026: Minor formatting edits, cardano-world(Public Archive), plutus-script-evaluation (removed at OSC discretion due to project scope)
+{% endhint %}
+
 #### Executive Summary
 
 The Bug Bounty Program is designed to enhance the security of the ecosystem by incentivizing ethical hackers and security researchers to identify and responsibly disclose vulnerabilities. With a $300,000 budget for year 1, the program provides structured rewards based on severity and impact, ensuring proactive security measures while maintaining transparency and accountability.
@@ -36,9 +40,9 @@ This section defines the boundaries of the bug bounty program, specifying which 
 
 #### 1.1 Systems and Assets in Scope
 
-The bug bounty program applies to critical infrastructure and software components that are essential to the security and stability of the Cardano ecosystem. \
+The bug bounty program applies to critical infrastructure and software components that are essential to the security and stability of the Cardano ecosystem.\
 \
-&#xNAN;_**Clarification: Intersect specific websites, domains, programs, or assets will not be covered under this bounty program.**_&#x20;
+&#xNAN;_**Clarification: Intersect specific websites, domains, programs, or assets will not be covered under this bounty program.**_
 
 **Eligible Targets:**
 
@@ -83,12 +87,11 @@ The below list is general reference and is not comprehensive to which projects a
 | [https://github.com/IntersectMBO/cardonnay](https://github.com/IntersectMBO/cardonnay)                               | [https://github.com/IntersectMBO/dmq-node](https://github.com/IntersectMBO/dmq-node)                             | [https://github.com/IntersectMBO/formal-ledger-specifications](https://github.com/IntersectMBO/formal-ledger-specifications)   |
 | [https://github.com/IntersectMBO/evolution-sdk](https://github.com/IntersectMBO/evolution-sdk)                       | [https://github.com/IntersectMBO/lsm-tree](https://github.com/IntersectMBO/lsm-tree)                             | [https://github.com/IntersectMBO/cardano-node-emulator](https://github.com/IntersectMBO/cardano-node-emulator)                 |
 | [https://github.com/IntersectMBO/cardano-haskell-packages](https://github.com/IntersectMBO/cardano-haskell-packages) | [https://github.com/IntersectMBO/cardano-sync-tests](https://github.com/IntersectMBO/cardano-sync-tests)         | [https://github.com/IntersectMBO/UPLC-CAPE](https://github.com/IntersectMBO/UPLC-CAPE)                                         |
-| [https://github.com/IntersectMBO/cardano-world](https://github.com/IntersectMBO/cardano-world)                       | [https://github.com/IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses)           | [https://github.com/IntersectMBO/cardano-formal-specifications](https://github.com/IntersectMBO/cardano-formal-specifications) |
+| [https://github.com/IntersectMBO/cardano-airgap](https://github.com/IntersectMBO/cardano-airgap)                     | [https://github.com/IntersectMBO/cardano-addresses](https://github.com/IntersectMBO/cardano-addresses)           | [https://github.com/IntersectMBO/cardano-formal-specifications](https://github.com/IntersectMBO/cardano-formal-specifications) |
 | [https://github.com/IntersectMBO/io-classes-extra](https://github.com/IntersectMBO/io-classes-extra)                 | [https://github.com/IntersectMBO/Win32-network](https://github.com/IntersectMBO/Win32-network)                   | [https://github.com/IntersectMBO/cardano-transactions](https://github.com/IntersectMBO/cardano-transactions)                   |
 | [https://github.com/IntersectMBO/cardano-launcher](https://github.com/IntersectMBO/cardano-launcher)                 | [https://github.com/IntersectMBO/cardaminal](https://github.com/IntersectMBO/cardaminal)                         | [https://github.com/IntersectMBO/plutus](https://github.com/IntersectMBO/plutus)                                               |
 | [https://github.com/IntersectMBO/cardano-prelude](https://github.com/IntersectMBO/cardano-prelude)                   | [https://github.com/IntersectMBO/antaeus](https://github.com/IntersectMBO/antaeus)                               | [https://github.com/IntersectMBO/cardano-crypto](https://github.com/IntersectMBO/cardano-crypto)                               |
 | [https://github.com/IntersectMBO/bech32](https://github.com/IntersectMBO/bech32)                                     | [https://github.com/IntersectMBO/cardano-coin-selection](https://github.com/IntersectMBO/cardano-coin-selection) | [https://github.com/IntersectMBO/credential-manager](https://github.com/IntersectMBO/credential-manager)                       |
-| [https://github.com/IntersectMBO/plutus-script-evaluation](https://github.com/IntersectMBO/plutus-script-evaluation) | [https://github.com/IntersectMBO/cardano-airgap](https://github.com/IntersectMBO/cardano-airgap)                 |                                                                                                                                |
 
 ### 2.0 Vulnerability Classification and Reward Structure
 
@@ -117,7 +120,7 @@ These severity levels are evaluated according to the [https://www.first.org/cvss
 #### 2.2 Reward Tiers and Payouts
 
 Each severity level has a corresponding reward range, ensuring fair compensation based on impact. These ranges serve as a guidance and does wholly reflect an award, as each issue or big incident may justify a higher bounty depending on level of threat.\
-&#xNAN;_&#x54;he Security Council and the Open Source Committee may choose to issue awards higher than $20,000 guided range depending on multifactor assessments._
+\&#xNAN;_The Security Council and the Open Source Committee may choose to issue awards higher than $20,000 guided range depending on multifactor assessments._
 
 | Severity Level | Anticipated Reward Range |
 | -------------- | ------------------------ |
@@ -152,7 +155,7 @@ This section outlines how security researchers should report vulnerabilities, th
 
 All vulnerability reports must be submitted through the GitHub private disclosure process ([https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security\_advisories\&learnproduct=code-security](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security_advisories\&learnproduct=code-security)), which ensures secure communication and proper tracking of submissions.\
 \
-&#xNAN;_**\*If a repository has not configured this function properly for your disclosure, please report it to security@intersectmbo.org.\***_
+\&#xNAN;_**\*If a repository has not configured this function properly for your disclosure, please report it to security@intersectmbo.org.\***_
 
 **Required Information for a Valid Submission:**
 
