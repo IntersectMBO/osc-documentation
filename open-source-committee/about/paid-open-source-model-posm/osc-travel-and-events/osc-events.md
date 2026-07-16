@@ -19,3 +19,17 @@ Q1 2026 event attendance by Open Source Committee (OSC) representatives delivere
 Across all events, a consistent pattern emerged: POSM is understood as a differentiated and necessary model, but requires continued refinement in positioning, intake mechanisms, and developer-facing clarity. Attendance to these events functioned as an operational extension of OSC mandate—directly informing program evolution, strengthening institutional relationships, and expanding contributor and partner pipelines.
 
 {% file src="../../../.gitbook/assets/OSC Q1 Benefit Report.pdf" %}
+
+## Q2 2026 Benefit Report: Event Attendance (OSC)
+
+The Open Source Committee agreed to attend and sponsor the Open Source Summit in North America (Minneapolis, 2026). Since a sponsored event carries additional cost beyond simple travel, this was the only event attended in Q2.&#x20;
+
+#### Summary
+
+Open Source Summit 2026 reinforced the growing importance of open collaboration, sustainable funding models, and responsible technological innovation across the global open source ecosystem. Representing the Open Source Office alongside members of the Open Source Committee (OSC), the delegation participated in a broad range of technical and strategic discussions that directly align with Cardano’s evolving open source strategy and long-term ecosystem goals.
+
+Across the week, artificial intelligence emerged as one of the dominant themes of the conference. Discussions surrounding AI infrastructure, governance, licensing, model transparency, and sustainable computing highlighted the increasing pressure placed on open source communities to balance innovation with accountability. These conversations strongly resonated with ongoing work within the Cardano ecosystem, particularly around transparent governance, sustainability, and the need to preserve community ownership within rapidly evolving technology sectors.
+
+Read on...&#x20;
+
+{% file src="../../../.gitbook/assets/OSSummit 2026 Minneapolis Summary Report.pdf" %}

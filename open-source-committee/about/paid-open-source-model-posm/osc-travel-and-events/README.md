@@ -4,7 +4,7 @@ description: This page is to reflect current events that the OSC is planning to 
 
 # 😶‍🌫️ OSC Travel and Events
 
-The Open Source Committee was awarded a budget from the Cardano Treasury to enact the Paid Open Source Model. This budget was also inclusive of funds to allow OSC Members to be reimbursed for expenses incurred to attend Cardano and other open source events. Find our list of events below!&#x20;
+The Open Source Committee was awarded a budget from the Cardano Treasury to enact the Paid Open Source Model. This budget was also inclusive of funds to allow OSC Members to be reimbursed for expenses incurred to attend Cardano and other open source events. Find our list of events below!
 
 ### Quarter 4 2025 - Events
 
@@ -20,11 +20,11 @@ The Open Source Committee was awarded a budget from the Cardano Treasury to enac
 {% file src="../../../.gitbook/assets/2025-11-17 Georg Link - After Action Report_ Cardano Summit .pdf" %}
 
 * **Event:** Open Source Summit Japan (CANCELLED)\
-  **Attendees:** Elaine \
+  **Attendees:** Elaine\
   **KPIs:**
   1. Market the Paid Open Source Model
   2. Attend sessions to deepen open-source knowledge
-  3. Network creating connections for Cardano Community Members and potential future partnerships. &#x20;
+  3. Network creating connections for Cardano Community Members and potential future partnerships.
 
 ### Quarter 1 2026 - Events
 
@@ -37,12 +37,12 @@ The Open Source Committee was awarded a budget from the Cardano Treasury to enac
 
 {% file src="../../../.gitbook/assets/After Action Report_ FOSDEM 2026.pdf" %}
 
-* **Event:**  ETH Denver (February 17-21, 2026)\
+* **Event:** ETH Denver (February 17-21, 2026)\
   **Attendees:** Jordan\
   **KPIs:**
   1. Market the Paid Open Source Model
   2. Attend sessions to deepen open-source governance & funding knowledge
-  3. Network creating connections for Cardano Community Members and potential future partnerships. &#x20;
+  3. Network creating connections for Cardano Community Members and potential future partnerships.
 * **Event:** GDC (Game Developers Conference)\
   **Attendees:** Jordan\
   **KPIs:**
@@ -53,41 +53,39 @@ The Open Source Committee was awarded a budget from the Cardano Treasury to enac
 
 {% file src="../../../.gitbook/assets/Jordan Hill - Event Attendance Report .pdf" %}
 
-* **Event:**  BuidlerFest #3 \
+* **Event:** BuidlerFest #3\
   **Attendees:** Sebastian, Jordan, Georg (TBD)\
   **KPIs:**
   1. Market the Paid Open Source Model and related Programs
   2. Attend sessions to deepen open-source knowledge
-  3. Network creating connections for Cardano Community Members and potential future partnerships. &#x20;
+  3. Network creating connections for Cardano Community Members and potential future partnerships.
 
 {% file src="../../../.gitbook/assets/BuidlerFest_AAR_OSC.pdf" %}
 
-* **Event:**  TokenIQ \
+* **Event:** TokenIQ\
   **Attendees:** Not Attended\
   **KPIs: N/A**
 
 ### Quarter 2 2026 - Events
 
-* **Event:** AI-W3 Entrepreneur Tech & Innovation Summit  (April 14-17, 2026)\
+* **Event:** AI-W3 Entrepreneur Tech & Innovation Summit (April 14-17, 2026)\
   **Attendees:** Not Attended\
   **KPIs: N/A**
-* **Event:**  Paris Blockchain Week \
+* **Event:** Paris Blockchain Week\
   **Attendees:** CANCELLED in lieu of Open Source Summit\
   **KPIs:**
   1. Market the Paid Open Source Model and related Programs
   2. Attend sessions to deepen open-source knowledge
-  3. Network creating connections for Cardano Community Members and potential future partnerships. &#x20;
-* **Event:**  Token2049 \
+  3. Network creating connections for Cardano Community Members and potential future partnerships.
+* **Event:** Token2049\
   **Attendees:** CANCELLED in lieu of Open Source Summit\
   **KPIs: N/A**
-* **Event:**  Consensus Miami (May 5-7, 2026)\
+* **Event:** Consensus Miami (May 5-7, 2026)\
   **Attendees:** CANCELLED in lieu of Open Source Summit\
   **KPIs: N/A**
 * **Event:** Open Source Summit Minneapolis - Gold Sponsorship (May 18-20, 2026)\
-  **Attendees:** OSC: Georg (Former Chair), Udai (TBD), Jordan, Sebastian (TBD), Bora (CF), \
-  Marco (CF), Sam L. (Developer), James D. (Builder), Adam D. (Builder/Former OSC), \
-  Dan B. (Dev Advocate) \
-  OSO Staff: Terence 'Tex' \
+  **Attendees:** OSC: Georg (Former Chair), Udai S. (OSC), Jordan H. (OSC), Sebastian P. (OSC), Bora O. (CF), Marco R. (CF), Sam L. (Developer), James D. (Builder), Adam D. (Builder/Former OSC), James M. (USDM), Harsha G. (Builder), Ian M. (Awen) \
+  OSO Staff: Terence 'Tex'\
   **KPIs/Goals:**
   1. Market Cardano and the Paid Open Source Model
   2. Engage open source projects and technical experts who already use open source tooling
@@ -107,12 +105,11 @@ The Open Source Committee was awarded a budget from the Cardano Treasury to enac
     Harsha Gullapalli - Community Builder\
     Samuel Leathers - IOG\
     James Dunseith - Andamio\
-    Adam Dean - Former OSC Member\
-    <br>
+    Adam Dean - Former OSC Member<br>
 
     **Travel/Lodging Booked:**
 
-    Hotel Room Block: Due to Privacy a copy of the contract is not included or posted. The countersigned contract was however completed as of April 22, 2026.&#x20;
+    Hotel Room Block: Due to Privacy a copy of the contract is not included or posted. The countersigned contract was however completed as of April 22, 2026.
 
     \
     All confirmed attendees have begun booking travel.
