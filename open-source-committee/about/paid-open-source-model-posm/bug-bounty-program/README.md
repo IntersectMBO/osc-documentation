@@ -8,6 +8,10 @@ description: >-
 # 🫢 Bug Bounty Program
 
 {% hint style="info" %}
+Changes 3 August: Updates about Bug Bounty Program funding and ongoing vulnerability reporting.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
 Changes 14 July 2026: Minor formatting edits, cardano-world(Public Archive), plutus-script-evaluation (removed at OSC discretion due to project scope)
 {% endhint %}
 
@@ -32,17 +36,21 @@ The program operates under a three-tier governance model:
 
 By implementing this structured and well-governed bug bounty program, the ecosystem strengthens its security resilience, fosters community participation, and upholds ethical vulnerability management practices.
 
+{% hint style="info" %}
+The Bug Bounty Program funding has been fully utilized, OSC has agreed to close the "funded" portion of this program Effective July 23, 2026 (OSC Decision in meeting). [7.23.26 Minutes](https://opensourcecommittee.docs.intersectmbo.org/osc-meeting-minutes/open-source-committee-meeting-minutes/2026-meeting-minutes/07-23-2026-meeting-minutes)
+{% endhint %}
+
 ### 1. Program Scope and Coverage
 
 This section defines the boundaries of the bug bounty program, specifying which systems are eligible for testing and which activities are prohibited to ensure ethical participation.\
 \
-&#xNAN;_**Please note:**_ The scope of this program is limited to components and codebases maintained or supported by Intersect. Vulnerabilities in third-party applications, such as smart contracts powering decentralized applications (DApps), are out of scope
+_**Please note:**_ The scope of this program is limited to components and codebases maintained or supported by Intersect. Vulnerabilities in third-party applications, such as smart contracts powering decentralized applications (DApps), are out of scope
 
 #### 1.1 Systems and Assets in Scope
 
 The bug bounty program applies to critical infrastructure and software components that are essential to the security and stability of the Cardano ecosystem.\
 \
-&#xNAN;_**Clarification: Intersect specific websites, domains, programs, or assets will not be covered under this bounty program.**_
+_**Clarification: Intersect specific websites, domains, programs, or assets will not be covered under this bounty program.**_
 
 **Eligible Targets:**
 
@@ -120,7 +128,7 @@ These severity levels are evaluated according to the [https://www.first.org/cvss
 #### 2.2 Reward Tiers and Payouts
 
 Each severity level has a corresponding reward range, ensuring fair compensation based on impact. These ranges serve as a guidance and does wholly reflect an award, as each issue or big incident may justify a higher bounty depending on level of threat.\
-\&#xNAN;_The Security Council and the Open Source Committee may choose to issue awards higher than $20,000 guided range depending on multifactor assessments._
+_&#x54;he Security Council and the Open Source Committee may choose to issue awards higher than $20,000 guided range depending on multifactor assessments._
 
 | Severity Level | Anticipated Reward Range |
 | -------------- | ------------------------ |
@@ -128,6 +136,10 @@ Each severity level has a corresponding reward range, ensuring fair compensation
 | High           | $5,000 - $10,000         |
 | Medium         | $1,000 - $5,000          |
 | Low            | Up to $1,000             |
+
+{% hint style="info" %}
+See above: Funding for the current Bug Bounty Program has been fully expended.&#x20;
+{% endhint %}
 
 **Factors Affecting Payout Amounts:**
 
@@ -151,11 +163,15 @@ To maintain the program’s longevity, funds are allocated strategically through
 
 This section outlines how security researchers should report vulnerabilities, the steps for validation, and the expected response times from the Security Council.
 
+{% hint style="info" %}
+Vulnerability reporting is still encouraged to protect the Cardano Blockchain (specifically the Haskell Node and related repositories). Although funding for Bug Bounties is not currently available, the Security Council will still provide assessments and coordinate vulnerability fixes.&#x20;
+{% endhint %}
+
 #### 3.1 Vulnerability Submission Guidelines
 
 All vulnerability reports must be submitted through the GitHub private disclosure process ([https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security\_advisories\&learnproduct=code-security](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities?learn=security_advisories\&learnproduct=code-security)), which ensures secure communication and proper tracking of submissions.\
 \
-\&#xNAN;_**\*If a repository has not configured this function properly for your disclosure, please report it to security@intersectmbo.org.\***_
+_**\*If a repository has not configured this function properly for your disclosure, please report it to security@intersectmbo.org.\***_
 
 **Required Information for a Valid Submission:**
 
